@@ -1,7 +1,7 @@
 # Diccionario _Precision_
 ### Diccionario médico inglés-español de siglas y abreviaturas
 
-¡Bienvenidx! Diccionario _Precision_ es un diccionario EN-ES y ES-EN de siglas y abreviaturas de términos médicos. Esta herramienta pretende ser útil tanto para profesionales de la salud como para estudiantes de carreras afines. Actualmente, [está alojado en Github Pages](https://lenzdz.github.io/abDictionary/index.html), por lo que es completamente funcional aunque la base de datos terminológica sea reducida. Las tecnologías utilizadas en el proyecto son HTML, CSS, Javascript y JSON. 
+¡Bienvenidx! Diccionario _Precision_ es un diccionario EN-ES y ES-EN de siglas y abreviaturas de términos médicos. Esta herramienta pretende ser útil tanto para profesionales de la salud como para estudiantes de carreras afines. Actualmente, [está alojado en Github Pages](https://lenzdz.github.io/dictionary-precision), por lo que es completamente funcional aunque la base de datos terminológica sea reducida. Las tecnologías utilizadas en el proyecto son HTML, CSS, Javascript y JSON. 
 
 ## Propósitos
 
@@ -13,6 +13,6 @@ Los objetivos principales de este proyecto son:
 
 ## ¿Cómo utilizar el diccionario?
 
-Para utilizar el diccionario, basta con ingresar a [este link](https://lenzdz.github.io/abDictionary/index.html). Luego, usted deberá escribir la sigla, abreviatura o término médico para el que desee encontrar la traducción en la barra de búsqueda y, por último, oprimir la tecla "Enter". 
+Para utilizar el diccionario, basta con ingresar a [este link](https://lenzdz.github.io/dictionary-precision). Luego, usted deberá escribir la sigla, abreviatura o término médico para el que desee encontrar la traducción en la barra de búsqueda y, por último, oprimir la tecla "Enter". 
 
 El diccionario arrojará todas las entradas coincidentes con su búsqueda y resaltará las letras o palabras que concuerden con el término buscado. Además, después de cada definición, usted podrá ver la(s) sigla(s) que se manejan para el término en el idioma objetivo.
