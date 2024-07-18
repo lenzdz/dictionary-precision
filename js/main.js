@@ -1,5 +1,5 @@
 var request = new XMLHttpRequest();
-request.open("GET", "https://lenzdz.github.io/abDictionary/json/abDictionary.json");
+request.open("GET", "https://lenzdz.github.io/dictionary-precision/json/abDictionary.json");
 const wrapper = document.querySelector(".wrapper"),
     searchInput = wrapper.querySelector("input"),
     infoText = wrapper.querySelector(".info-text"),
