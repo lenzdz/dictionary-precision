@@ -163,7 +163,6 @@ request.onload = function () {
                 let meaningTrad = highlightMatch(definition.meaningTrad, searchedWord);
                 meaningTrad = highlightInexactMatch(meaningTrad, searchedWord);
 
-
                 meaning = mayusCorrection(definition.meaning, meaning);
                 meaningTrad = mayusCorrection(definition.meaningTrad, meaningTrad);
 
@@ -293,7 +292,7 @@ request.onload = function () {
     function mayusCorrection(originalText, meaning) {
         let numUpperCases = countUpperCases(originalText);
 
-        const exceptions = ["de", "del", "a", "en", "la", "para", "the", "to"];
+        const exceptions = ["a", "de", "del", "el", "en", "la", "para", "por", "the", "to"];
         if (numUpperCases > 1) {
 
             return meaning.split(' ').map((word) => {
@@ -330,17 +329,21 @@ request.onload = function () {
     }
 
     function countUpperCases(text) {
+        const namesExceptions = ["McDonough"];
+
         // Remove content in parenthesis (abbreviations, if existent)
         const textWithoutParenthesis = text.replace(/\([^)]*\)/g, '');
         
         // Dividir la cadena en palabras
         const words = textWithoutParenthesis.split(' ');
 
-        // Filtrar las palabras que no contienen guiones
-        const wordsWithoutDashes = words.filter(word => !word.includes('-'));
+        // Filtrar las palabras que no contienen guiones, no contienen nombres y no son siglas
+        const validWords = words.filter(word => {
+            return !word.includes('-') && !namesExceptions.includes(word) && word !== word.toUpperCase();
+        });
 
         // Unir las palabras filtradas en una cadena
-        const filteredText = wordsWithoutDashes.join(' ');
+        const filteredText = validWords.join(' ');
 
         // Regular expression to find upper cases
         const regex = /[A-ZÁÉÍÓÚÜÑ]/g;
