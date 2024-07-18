@@ -36,6 +36,15 @@
         ]
     },
     {
+        "abbLowerCase": "ad",
+        "abbreviation": "AD",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Antidiabetic drug", "langTrad": "esp", "meaningTrad": "[Fármaco] antidiabético", "abbreviationTrad": "AD"}
+        ]
+    },
+    {
         "abbLowerCase": "adt",
         "abbreviation": "ADT",
         "use": "sigla",
@@ -813,6 +822,15 @@
         ]
     },
     {
+        "abbLowerCase": "gnrh",
+        "abbreviation": "GnRH",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Gonadotropin-releasing hormone ", "langTrad": "esp", "meaningTrad": "Hormona liberadora de gonadotropina", "abbreviationTrad": "LH"}
+        ]
+    },
+    {
         "abbLowerCase": "gvhd",
         "abbreviation": "GvHD",
         "use": "sigla",
@@ -1071,9 +1089,27 @@
         "abbLowerCase": "lh",
         "abbreviation": "LH",
         "use": "sigla",
-        "language": "español",
+        "language": "inglés y español",
         "meanings": [
-            {"lang": "eng", "meaning": "Luteinizing hormone", "langTrad": "esp", "meaningTrad": "Hormona luteinizante, hormona luteoestimulante, hormona lutropina", "abbreviationTrad": "LH, por sus siglas en inglés"}
+            {"lang": "eng", "meaning": "Luteinizing hormone", "langTrad": "esp", "meaningTrad": "Hormona luteinizante, hormona luteoestimulante, hormona lutropina", "abbreviationTrad": "LH"}
+        ]
+    },
+    {
+        "abbLowerCase": "lh-rh",
+        "abbreviation": "LH-RH",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Luteinizing hormone-releasing hormone", "langTrad": "esp", "meaningTrad": "Hormona liberadora de hormona luteinizante", "abbreviationTrad": "LH-RH"}
+        ]
+    },
+    {
+        "abbLowerCase": "lhrh",
+        "abbreviation": "LHRH",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Luteinizing hormone-releasing hormone", "langTrad": "esp", "meaningTrad": "Hormona liberadora de hormona luteinizante", "abbreviationTrad": "LHRH"}
         ]
     },
     {
@@ -1191,6 +1227,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Non-alcoholic fatty liver disease", "langTrad": "esp", "meaningTrad": "Enfermedad del hígado graso no alcohólica, enfermedad hepática grasa no alcohólica", "abbreviationTrad": "EHGNA"}
+        ]
+    },
+    {
+        "abbLowerCase": "nci",
+        "abbreviation": "NCI",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "National Cancer Institute", "langTrad": "esp", "meaningTrad": "Instituto Nacional del Cáncer", "abbreviationTrad": "NCI, por sus siglas en inglés"}
         ]
     },
     {
