@@ -266,7 +266,6 @@ request.onload = function () {
     // Function searches for the temporal accented word position in the database's term going through the loop and surrounds it with an HTML <mark> so that it gets highlighted by the show function.
     function indexOfSearchedWord(tempWord, text) {
         // If the temporal accented word is the first at the term's meaning, the program proceeds
-        console.log(text.toLowerCase().indexOf(tempWord) == 0);
         if (text.toLowerCase().indexOf(tempWord) == 0) {
             text = text.toLowerCase().replace(tempWord, (match) => `<mark>${match}</mark>`);
             text = text.toUpperCase();
