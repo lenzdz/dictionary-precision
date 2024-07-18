@@ -36,6 +36,24 @@
         ]
     },
     {
+        "abbLowerCase": "adt",
+        "abbreviation": "ADT",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Androgen deprivation therapy", "langTrad": "esp", "meaningTrad": "Terapia de privación de andrógenos", "abbreviationTrad": "TPA"}
+        ]
+    },
+    {
+        "abbLowerCase": "afab",
+        "abbreviation": "AFAB",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Assigned female at birth", "langTrad": "esp", "meaningTrad": "Sexo femenino asignado al nacer", "abbreviationTrad": "SFAN o AFAB, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "aha",
         "abbreviation": "AHA",
         "use": "sigla",
@@ -72,6 +90,15 @@
         ]
     },
     {
+        "abbLowerCase": "amab",
+        "abbreviation": "AMAB",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Assigned male at birth", "langTrad": "esp", "meaningTrad": "Sexo masculino asignado al nacer", "abbreviationTrad": "SMAN o AMAB, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "amap",
         "abbreviation": "AMAP",
         "use": "sigla",
@@ -87,6 +114,33 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Acute myeloid leukemia", "langTrad": "esp", "meaningTrad": "Leucemia mieloide aguda", "abbreviationTrad": "LMA"}
+        ]
+    },
+    {
+        "abbLowerCase": "amp",
+        "abbreviation": "AMP",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Adenosine monophosphate", "langTrad": "esp", "meaningTrad": "Adenosín monofosfato", "abbreviationTrad": "AMP"}
+        ]
+    },
+    {
+        "abbLowerCase": "ampk",
+        "abbreviation": "AMPK",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "AMP-activated protein kinase", "langTrad": "esp", "meaningTrad": "Proteína cinasa activada por AMP", "abbreviationTrad": "AMPK"}
+        ]
+    },
+    {
+        "abbLowerCase": "amps",
+        "abbreviation": "AMPS",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Amplified musculoskeletal pain syndrome", "langTrad": "esp", "meaningTrad": "Síndrome de dolor musculoesquelético amplificado", "abbreviationTrad": "SDMA"}
         ]
     },
     {
@@ -196,6 +250,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Cáncer de mama", "langTrad": "eng", "meaningTrad": "Breast cancer", "abbreviationTrad": "BC"}
+        ]
+    },
+    {
+        "abbLowerCase": "cap",
+        "abbreviation": "CaP",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Cáncer de próstata", "langTrad": "eng", "meaningTrad": "Prostate cancer (PCa)", "abbreviationTrad": "PCa"}
         ]
     },
     {
@@ -388,6 +451,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Disease-free survival", "langTrad": "esp", "meaningTrad": "Supervivencia libre de enfermedad", "abbreviationTrad": "SLE"}
+        ]
+    },
+    {
+        "abbLowerCase": "dht",
+        "abbreviation": "DHT",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Dihydrotestosterone", "langTrad": "esp", "meaningTrad": "Dihidrotestosterona", "abbreviationTrad": "DHT"}
         ]
     },
     {
@@ -996,6 +1068,15 @@
         ]
     },
     {
+        "abbLowerCase": "lh",
+        "abbreviation": "LH",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Luteinizing hormone", "langTrad": "esp", "meaningTrad": "Hormona luteinizante, hormona luteoestimulante, hormona lutropina", "abbreviationTrad": "LH, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "lla",
         "abbreviation": "LLA",
         "use": "sigla",
@@ -1074,6 +1155,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Magnetic resonance imaging", "langTrad": "esp", "meaningTrad": "Imagen por resonancia magnética", "abbreviationTrad": "IRM"}
+        ]
+    },
+    {
+        "abbLowerCase": "mtor",
+        "abbreviation": "mTOR",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Mammalian target of rapamycin, mechanistic target of rapamycin", "langTrad": "esp", "meaningTrad": "Diana de rapamicina en células de mamífero, blanco de la rapamicina en los mamíferos", "abbreviationTrad": "mTOR"}
         ]
     },
     {
@@ -1173,6 +1263,16 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Orotracheal intubation", "langTrad": "esp", "meaningTrad": "Intubación orotraqueal", "abbreviationTrad": "IOT"}
+        ]
+    },
+    {
+        "abbLowerCase": "pca",
+        "abbreviation": "PCA, PCa",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Patient-controlled analgesia (PCA)", "langTrad": "esp", "meaningTrad": "Analgesia controlada por el paciente", "abbreviationTrad": "PCA, por sus siglas en inglés"},
+            {"lang": "eng", "meaning": "Prostate cancer (PCa)", "langTrad": "esp", "meaningTrad": "Cáncer de próstata", "abbreviationTrad": "CaP"}
         ]
     },
     {
@@ -1512,6 +1612,15 @@
         ]
     },
     {
+        "abbLowerCase": "sdma",
+        "abbreviation": "SDMA",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Síndrome de dolor musculoesquelético amplificado", "langTrad": "eng", "meaningTrad": "Amplified musculoskeletal pain syndrome", "abbreviationTrad": "AMPS"}
+        ]
+    },
+    {
         "abbLowerCase": "sf",
         "abbreviation": "SF",
         "use": "sigla",
@@ -1591,6 +1700,24 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Supervivencia libre de progresión", "langTrad": "eng", "meaningTrad": "Progression-free survival", "abbreviationTrad": "PFS"}
+        ]
+    },
+    {
+        "abbLowerCase": "sfan",
+        "abbreviation": "SFAN",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Sexo femenino asignado al nacer", "langTrad": "eng", "meaningTrad": "Assigned female at birth", "abbreviationTrad": "AFAB"}
+        ]
+    },
+    {
+        "abbLowerCase": "sman",
+        "abbreviation": "SMAN",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Sexo femenino asignado al nacer", "langTrad": "eng", "meaningTrad": "Assigned male at birth", "abbreviationTrad": "AMAB"}
         ]
     },
     {
@@ -1717,6 +1844,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Tiempo hasta la progresión", "langTrad": "eng", "meaningTrad": "Time to progression", "abbreviationTrad": "TTP"}
+        ]
+    },
+    {
+        "abbLowerCase": "tpa",
+        "abbreviation": "TPA",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Terapia de privación de andrógenos", "langTrad": "eng", "meaningTrad": "Androgen deprivation therapy", "abbreviationTrad": "ADT"}
         ]
     },
     {
