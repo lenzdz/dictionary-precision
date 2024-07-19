@@ -339,7 +339,7 @@ request.onload = function () {
 
         // Filtrar las palabras que no contienen guiones, no contienen nombres, no son una sola letra y no son siglas
         const validWords = words.filter(word => {
-            return !word.includes('-') && !namesExceptions.includes(word) && word.length > 1 && word !== word.toUpperCase();
+            return !word.includes('-') && !namesExceptions.includes(word) && word.length == 1 && word !== word.toUpperCase();
         });
 
         // Unir las palabras filtradas en una cadena
