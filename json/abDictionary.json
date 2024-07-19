@@ -198,6 +198,16 @@
         ]
     },
     {
+        "abbLowerCase": "atm",
+        "abbreviation": "ATM",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Articulación temporomandibular", "langTrad": "eng", "meaningTrad": "Temporomandibular joint", "abbreviationTrad": "TMJ"},
+            {"lang": "eng", "meaning": "Appropriate treatment in medicine", "langTrad": "esp", "meaningTrad": "Tratamiento indicado en medicina", "abbreviationTrad": "sin siglas"}
+        ]
+    },
+    {
         "abbLowerCase": "bc",
         "abbreviation": "BC",
         "use": "sigla",
@@ -451,6 +461,15 @@
         "meanings": [
             {"lang": "esp", "meaning": "Departamento de emergencias", "langTrad": "eng", "meaningTrad": "Emergency ward", "abbreviationTrad": "EW"},
             {"lang": "esp", "meaning": "Desviación estándar", "langTrad": "eng", "meaningTrad": "Standard deviation", "abbreviationTrad": "SD"}
+        ]
+    },
+    {
+        "abbLowerCase": "ddd",
+        "abbreviation": "DDD",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Dosis diaria definida", "langTrad": "eng", "meaningTrad": "Defined daily dose", "abbreviationTrad": "DDD"}
         ]
     },
     {
@@ -1880,6 +1899,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Tyrosine kinase inhibitor", "langTrad": "esp", "meaningTrad": "Inhibidor de la tirosina cinasa, inhibidor de la tirosina quinasa", "abbreviationTrad": "TKI, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "tmj",
+        "abbreviation": "TMJ",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Temporomandibular joint", "langTrad": "esp", "meaningTrad": "Articulación temporomandibular", "abbreviationTrad": "ATM"}
         ]
     },
     {
