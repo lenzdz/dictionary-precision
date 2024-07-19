@@ -887,6 +887,15 @@
         ]
     },
     {
+        "abbLowerCase": "hba1c",
+        "abbreviation": "HbA1c",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Hemoglobina A1c, hemoglobina glicosilada, hemoglobina A glucada​", "langTrad": "eng", "meaningTrad": "Hemoglobin A1C, glycated hemoglobin, glycosylated hemoglobin", "abbreviationTrad": "HbA1c"}
+        ]
+    },
+    {
         "abbLowerCase": "hd",
         "abbreviation": "HD",
         "use": "sigla",
@@ -1157,6 +1166,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Low-density lipoprotein-cholesterol", "langTrad": "esp", "meaningTrad": "Colesterol transportado por lipoproteínas de baja densidad", "abbreviationTrad": "cLDL"}
+        ]
+    },
+    {
+        "abbLowerCase": "ldl-p",
+        "abbreviation": "LDL-P",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Low-density lipoprotein particle number", "langTrad": "esp", "meaningTrad": "Número de partículas de lipoproteínas de baja densidad", "abbreviationTrad": "pLDL"}
         ]
     },
     {
@@ -1491,6 +1509,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Progression-free survival", "langTrad": "esp", "meaningTrad": "Supervivencia libre de progresión", "abbreviationTrad": "SLP"}
+        ]
+    },
+    {
+        "abbLowerCase": "pldl",
+        "abbreviation": "pLDL",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Número de partículas de lipoproteínas de baja densidad", "langTrad": "eng", "meaningTrad": "Low-density lipoprotein particle number", "abbreviationTrad": "LDL-P"}
         ]
     },
     {
