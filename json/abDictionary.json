@@ -1,5 +1,14 @@
 [
     {
+        "abbLowerCase": "aas",
+        "abbreviation": "AAS",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Ácido acetilsalicílico", "langTrad": "eng", "meaningTrad": "Acetylsalicylic acid", "abbreviationTrad": "ASA"}
+        ]
+    },
+    {
         "abbLowerCase": "abap",
         "abbreviation": "ABAP",
         "use": "sigla",
@@ -15,6 +24,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Adjuvant chemotherapy", "langTrad": "esp", "meaningTrad": "Quimioterapia adyuvante", "abbreviationTrad": "QTA"}
+        ]
+    },
+    {
+        "abbLowerCase": "acc",
+        "abbreviation": "ACC",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "American College of Cardiology", "langTrad": "esp", "meaningTrad": "Colegio Americano de Cardiología", "abbreviationTrad": "ACC, por sus siglas en inglés"}
         ]
     },
     {
@@ -204,7 +222,8 @@
         "language": "español e inglés",
         "meanings": [
             {"lang": "esp", "meaning": "Articulación temporomandibular", "langTrad": "eng", "meaningTrad": "Temporomandibular joint", "abbreviationTrad": "TMJ"},
-            {"lang": "eng", "meaning": "Appropriate treatment in medicine", "langTrad": "esp", "meaningTrad": "Tratamiento indicado en medicina", "abbreviationTrad": "sin siglas"}
+            {"lang": "eng", "meaning": "Appropriate treatment in medicine", "langTrad": "esp", "meaningTrad": "Tratamiento indicado en medicina", "abbreviationTrad": "sin siglas"},
+            {"lang": "eng", "meaning": "Ataxia telangiectasia mutated protein kinase", "langTrad": "esp", "meaningTrad": "Proteína cinasa ataxia telangiectasia mutada", "abbreviationTrad": "ATM"}
         ]
     },
     {
@@ -305,6 +324,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Confidence interval", "langTrad": "esp", "meaningTrad": "Intervalo de confianza", "abbreviationTrad": "IC"}
+        ]
+    },
+    {
+        "abbLowerCase": "cldl",
+        "abbreviation": "cLDL",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Colesterol transportado por lipoproteínas de baja densidad", "langTrad": "eng", "meaningTrad": "Low-density lipoprotein-cholesterol", "abbreviationTrad": "LDL-C"}
         ]
     },
     {
@@ -868,6 +896,15 @@
         ]
     },
     {
+        "abbLowerCase": "hdl",
+        "abbreviation": "HDL",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "High-density lipoprotein", "langTrad": "esp", "meaningTrad": "Lipoproteína de alta densidad", "abbreviationTrad": "HDL, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "hf",
         "abbreviation": "HF",
         "use": "sigla",
@@ -996,6 +1033,15 @@
         ]
     },
     {
+        "abbLowerCase": "idl",
+        "abbreviation": "IDL",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Intermediate-density lipoprotein", "langTrad": "esp", "meaningTrad": "Lipoproteína de densidad intermedia", "abbreviationTrad": "IDL, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "ieca",
         "abbreviation": "IECA",
         "use": "sigla",
@@ -1096,6 +1142,24 @@
         ]
     },
     {
+        "abbLowerCase": "ldl",
+        "abbreviation": "LDL",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Low-density lipoprotein", "langTrad": "esp", "meaningTrad": "Lipoproteína de baja densidad", "abbreviationTrad": "LDL, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "ldl-c",
+        "abbreviation": "LDL-C",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Low-density lipoprotein-cholesterol", "langTrad": "esp", "meaningTrad": "Colesterol transportado por lipoproteínas de baja densidad", "abbreviationTrad": "cLDL"}
+        ]
+    },
+    {
         "abbLowerCase": "le",
         "abbreviation": "LE",
         "use": "sigla",
@@ -1129,6 +1193,15 @@
         "language": "inglés y español",
         "meanings": [
             {"lang": "eng", "meaning": "Luteinizing hormone-releasing hormone", "langTrad": "esp", "meaningTrad": "Hormona liberadora de hormona luteinizante", "abbreviationTrad": "LHRH"}
+        ]
+    },
+    {
+        "abbLowerCase": "lkb1",
+        "abbreviation": "LKB1",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Liver kinase B1", "langTrad": "esp", "meaningTrad": "Cinasa hepática B1", "abbreviationTrad": "LKB1"}
         ]
     },
     {
@@ -1318,6 +1391,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Overall survival", "langTrad": "esp", "meaningTrad": "Supervivencia global", "abbreviationTrad": "SG"}
+        ]
+    },
+    {
+        "abbLowerCase": "otc",
+        "abbreviation": "OTC",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Over-the-counter [medications]", "langTrad": "esp", "meaningTrad": "Medicamentos de venta libre", "abbreviationTrad": "OTC, por sus siglas en inglés"}
         ]
     },
     {
@@ -1989,6 +2071,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Virus de inmunodeficiencia humana", "langTrad": "eng", "meaningTrad": "Human immunodeficiency virus", "abbreviationTrad": "HIV"}
+        ]
+    },
+    {
+        "abbLowerCase": "vldl",
+        "abbreviation": "VLDL",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Very low density lipoprotein", "langTrad": "esp", "meaningTrad": "Lipoproteína de muy baja densidad ", "abbreviationTrad": "VLDL, por sus siglas en inglés"}
         ]
     },
     {
