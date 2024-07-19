@@ -329,7 +329,7 @@ request.onload = function () {
     }
 
     function countUpperCases(text) {
-        const namesExceptions = ["A1c", "McDonough"];
+        const namesExceptions = ["a1c", "mcdonough"];
 
         // Remove content in parenthesis (abbreviations, if existent)
         const textWithoutParenthesis = text.replace(/\([^)]*\)/g, '');
@@ -339,7 +339,7 @@ request.onload = function () {
 
         // Filtrar las palabras que no contienen guiones, no contienen nombres, no son una sola letra y no son siglas
         const validWords = words.filter(word => {
-            return !word.includes('-') && !namesExceptions.includes(word) && word.length == 1 && word !== word.toUpperCase();
+            return !word.includes('-') && !namesExceptions.includes(word.toLowerCase()) && word.length == 1 && word !== word.toUpperCase();
         });
 
         // Unir las palabras filtradas en una cadena
