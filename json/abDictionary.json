@@ -1376,6 +1376,15 @@
         ]
     },
     {
+        "abbLowerCase": "oab",
+        "abbreviation": "OAB",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Overactive bladder", "langTrad": "esp", "meaningTrad": "Vejiga hiperactiva", "abbreviationTrad": "VH"}
+        ]
+    },
+    {
         "abbLowerCase": "oms",
         "abbreviation": "OMS",
         "use": "sigla",
@@ -2083,6 +2092,15 @@
         ]
     },
     {
+        "abbLowerCase": "vh",
+        "abbreviation": "VH",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Vejiga hiperactiva", "langTrad": "eng", "meaningTrad": "Overactive bladder", "abbreviationTrad": "OAB"}
+        ]
+    },
+    {
         "abbLowerCase": "vi",
         "abbreviation": "VI",
         "use": "sigla",
@@ -2125,6 +2143,24 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Agonistas β₂ de acción prolongada, agonistas β₂ adrenérgicos de acción prolongada", "langTrad": "eng", "meaningTrad": "Long-acting β₂-agonist", "abbreviationTrad": "LABA"}
+        ]
+    },
+    {
+        "abbLowerCase": "β3-ara",
+        "abbreviation": "β3-ARA",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Agonista de los receptores β₃ adrenérgicos, agonista de los receptores β₃ adrenérgicos", "langTrad": "eng", "meaningTrad": "β₃-adrenoreceptor agonists", "abbreviationTrad": "β3-ARA"}
+        ]
+    },
+    {
+        "abbLowerCase": "β3ara",
+        "abbreviation": "β3ARA",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Agonista de los receptores β₃ adrenérgicos, agonista de los receptores β₃ adrenérgicos", "langTrad": "eng", "meaningTrad": "β₃-adrenoreceptor agonists, β₃ adrenergic receptor agonist ", "abbreviationTrad": "β3-ARA"}
         ]
     }
 ]
