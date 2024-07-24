@@ -970,6 +970,15 @@
         ]
     },
     {
+        "abbLowerCase": "hbp",
+        "abbreviation": "HBP",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "High blood pressure", "langTrad": "esp", "meaningTrad": "Hipertensión arterial", "abbreviationTrad": "HTA"}
+        ]
+    },
+    {
         "abbLowerCase": "hd",
         "abbreviation": "HD",
         "use": "sigla",
@@ -1066,6 +1075,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "High-sensitivity C-reactive protein", "langTrad": "esp", "meaningTrad": "Proteína C-reactiva de alta sensibilidad", "abbreviationTrad": "PCR-as"}
+        ]
+    },
+    {
+        "abbLowerCase": "hta",
+        "abbreviation": "HTA",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Hipertensión arterial", "langTrad": "eng", "meaningTrad": "Arterial hypertension, high blood pressure", "abbreviationTrad": "HBP"}
         ]
     },
     {
