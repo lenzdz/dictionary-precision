@@ -273,6 +273,15 @@
         ]
     },
     {
+        "abbLowerCase": "cac",
+        "abbreviation": "CAC",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Coronary artery calcification", "langTrad": "esp", "meaningTrad": "Calcificación de las arterias coronarias", "abbreviationTrad": "CAC"}
+        ]
+    },
+    {
         "abbLowerCase": "cad",
         "abbreviation": "CAD",
         "use": "sigla",
@@ -324,6 +333,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Confidence interval", "langTrad": "esp", "meaningTrad": "Intervalo de confianza", "abbreviationTrad": "IC"}
+        ]
+    },
+    {
+        "abbLowerCase": "ckd",
+        "abbreviation": "CKD",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Chronic kidney disease", "langTrad": "esp", "meaningTrad": "Enfermedad renal crónica", "abbreviationTrad": "ERC"}
         ]
     },
     {
@@ -451,7 +469,18 @@
         "use": "abreviatura",
         "language": "español e inglés",
         "meanings": [
+            {"lang": "esp", "meaning": "Calcificación vascular", "langTrad": "eng", "meaningTrad": "Vascular calcification, cardiovascular calcification", "abbreviationTrad": "VC o CVC"},
             {"lang": "esp", "meaning": "Cardiovascular", "langTrad": "eng", "meaningTrad": "Cardiovascular", "abbreviationTrad": "CV"}
+        ]
+    },
+    {
+        "abbLowerCase": "cvc",
+        "abbreviation": "CVC",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Calcificación vascular cutánea", "langTrad": "eng", "meaningTrad": "Cutaneous vascular calcification", "abbreviationTrad": "CVC"},
+            {"lang": "eng", "meaning": "Cardiovascular calcification", "langTrad": "esp", "meaningTrad": "Calcificación vascular", "abbreviationTrad": "CV"}
         ]
     },
     {
@@ -767,6 +796,51 @@
             {"lang": "eng", "meaning": "Endoplasmic reticulum", "langTrad": "esp", "meaningTrad": "Retículo endoplasmático", "abbreviationTrad": "RE"},
             {"lang": "eng", "meaning": "Estrogen receptor", "langTrad": "esp", "meaningTrad": "Receptor de estrógeno", "abbreviationTrad": "RE"},
             {"lang": "eng", "meaning": "Extended release", "langTrad": "esp", "meaningTrad": "Liberación prolongada, liberación extendida", "abbreviationTrad": "LP, LE"}
+        ]
+    },
+    {
+        "abbLowerCase": "erc",
+        "abbreviation": "ERC",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Enfermedad renal crónica", "langTrad": "eng", "meaningTrad": "Chronic kidney disease", "abbreviationTrad": "CKD"}
+        ]
+    },
+    {
+        "abbLowerCase": "eret",
+        "abbreviation": "ERET",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Enfermedad renal en etapa terminal", "langTrad": "eng", "meaningTrad": "End-stage renal disease", "abbreviationTrad": "ESRD"}
+        ]
+    },
+    {
+        "abbLowerCase": "ert",
+        "abbreviation": "ERT",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Enfermedad renal terminal", "langTrad": "eng", "meaningTrad": "End-stage renal disease", "abbreviationTrad": "ESRD"}
+        ]
+    },
+    {
+        "abbLowerCase": "eskd",
+        "abbreviation": "ESKD",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "End-stage kidney disease", "langTrad": "esp", "meaningTrad": "Enfermedad renal terminal", "abbreviationTrad": "ERT"}
+        ]
+    },
+    {
+        "abbLowerCase": "esrd",
+        "abbreviation": "ESRD",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "End-stage renal disease", "langTrad": "esp", "meaningTrad": "Enfermedad renal terminal", "abbreviationTrad": "ERT"}
         ]
     },
     {
@@ -1111,6 +1185,15 @@
         "language": "inglés y español",
         "meanings": [
             {"lang": "eng", "meaning": "International Prostate Symptom Score", "langTrad": "esp", "meaningTrad": "Puntuación Internacional de Síntomas Prostáticos", "abbreviationTrad": "IPSS, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "irt",
+        "abbreviation": "IRT",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Insuficiencia renal terminal", "langTrad": "eng", "meaningTrad": "End-stage renal disease", "abbreviationTrad": "ESRD"}
         ]
     },
     {
@@ -2080,6 +2163,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Time to progression", "langTrad": "esp", "meaningTrad": "Tiempo hasta la progresión", "abbreviationTrad": "TP"}
+        ]
+    },
+    {
+        "abbLowerCase": "vc",
+        "abbreviation": "VC",
+        "use": "abreviatura",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Vascular calcification, cardiovascular calcification", "langTrad": "esp", "meaningTrad": "Calcificación vascular", "abbreviationTrad": "CV"}
         ]
     },
     {
