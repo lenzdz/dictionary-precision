@@ -1083,7 +1083,7 @@
         "use": "sigla",
         "language": "español",
         "meanings": [
-            {"lang": "esp", "meaning": "Hipertensión arterial", "langTrad": "eng", "meaningTrad": "Arterial hypertension, high blood pressure", "abbreviationTrad": "HBP"}
+            {"lang": "esp", "meaning": "Hipertensión arterial", "langTrad": "eng", "meaningTrad": "Hypertension, arterial hypertension, high blood pressure", "abbreviationTrad": "HBP"}
         ]
     },
     {
