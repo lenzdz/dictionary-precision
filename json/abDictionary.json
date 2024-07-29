@@ -354,6 +354,15 @@
         ]
     },
     {
+        "abbLowerCase": "cc",
+        "abbreviation": "CC",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Cardiopatía coronaria", "langTrad": "eng", "meaningTrad": "Coronary heart disease", "abbreviationTrad": "CHD"}
+        ]
+    },
+    {
         "abbLowerCase": "ccnap",
         "abbreviation": "CCNAP",
         "use": "sigla",
@@ -369,6 +378,25 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Concurrent chemoradiotherapy", "langTrad": "esp", "meaningTrad": "Quimiorradioterapia concurrente, quimiorradioterapia concomitante", "abbreviationTrad": "QRC o QRTC"}
+        ]
+    },
+    {
+        "abbLowerCase": "chd",
+        "abbreviation": "CHD",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Congenital heart defect", "langTrad": "esp", "meaningTrad": "Defecto cardíaco congénito", "abbreviationTrad": "DCC"},
+            {"lang": "eng", "meaning": "Coronary heart disease", "langTrad": "esp", "meaningTrad": "Cardiopatía coronaria", "abbreviationTrad": "CC"}
+        ]
+    },
+    {
+        "abbLowerCase": "chf",
+        "abbreviation": "CHF",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Congestive heart failure", "langTrad": "esp", "meaningTrad": "Insuficiencia cardíaca congestiva", "abbreviationTrad": "ICC"}
         ]
     },
     {
@@ -481,6 +509,15 @@
         ]
     },
     {
+        "abbLowerCase": "crp",
+        "abbreviation": "CRP",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "C-reactive protein", "langTrad": "esp", "meaningTrad": "Proteína C reactiva", "abbreviationTrad": "PCR"}
+        ]
+    },
+    {
         "abbLowerCase": "csi",
         "abbreviation": "CSI",
         "use": "sigla",
@@ -544,6 +581,15 @@
         "language": "inglés y español",
         "meanings": [
             {"lang": "eng", "meaning": "Dietary Approaches to Stop Hypertension", "langTrad": "esp", "meaningTrad": "Enfoques Alimentarios para Detener la Hipertensión", "abbreviationTrad": "DASH, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "dcc",
+        "abbreviation": "DCC",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Defecto cardíaco congénito", "langTrad": "eng", "meaningTrad": "Congenital heart defect", "abbreviationTrad": "CHD"}
         ]
     },
     {
@@ -1161,6 +1207,15 @@
         ]
     },
     {
+        "abbLowerCase": "icc",
+        "abbreviation": "ICC",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Insuficiencia cardíaca congestiva", "langTrad": "eng", "meaningTrad": "Congestive heart failure", "abbreviationTrad": "CHF"}
+        ]
+    },
+    {
         "abbLowerCase": "ics",
         "abbreviation": "ICS",
         "use": "sigla",
@@ -1622,12 +1677,12 @@
         ]
     },
     {
-        "abbLowerCase": "pcsm",
-        "abbreviation": "PCSM",
+        "abbLowerCase": "pcr",
+        "abbreviation": "PCR",
         "use": "sigla",
-        "language": "inglés",
+        "language": "español",
         "meanings": [
-            {"lang": "eng", "meaning": "Prostate cancer–specific mortality", "langTrad": "esp", "meaningTrad": "Mortalidad específica por cáncer de próstata", "abbreviationTrad": "MECP"}
+            {"lang": "esp", "meaning": "Proteína C reactiva", "langTrad": "eng", "meaningTrad": "C-reactive protein", "abbreviationTrad": "CRP"}
         ]
     },
     {
@@ -1646,6 +1701,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Proteína C-reactiva de alta sensibilidad", "langTrad": "eng", "meaningTrad": "High-sensitivity C-reactive protein", "abbreviationTrad": "hsCRP o hs-CRP"}
+        ]
+    },
+    {
+        "abbLowerCase": "pcsm",
+        "abbreviation": "PCSM",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Prostate cancer–specific mortality", "langTrad": "esp", "meaningTrad": "Mortalidad específica por cáncer de próstata", "abbreviationTrad": "MECP"}
         ]
     },
     {
