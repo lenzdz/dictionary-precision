@@ -18,6 +18,15 @@
         ]
     },
     {
+        "abbLowerCase": "abi",
+        "abbreviation": "ABI",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Ankle–brachial index", "langTrad": "esp", "meaningTrad": "Índice tobillo-brazo", "abbreviationTrad": "ITB"}
+        ]
+    },
+    {
         "abbLowerCase": "ac",
         "abbreviation": "AC",
         "use": "sigla",
@@ -51,6 +60,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Angiotensin-converting enzyme inhibitors", "langTrad": "esp", "meaningTrad": "Inhibidores de la enzima angiotensina convertasa", "abbreviationTrad": "IECA"}
+        ]
+    },
+    {
+        "abbLowerCase": "acnap",
+        "abbreviation": "ACNAP",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Association of Cardiovascular Nursing and Allied Professions", "langTrad": "esp", "meaningTrad": "Asociación de Enfermería Cardiovascular y Profesiones Afines", "abbreviationTrad": "ACNAP, por sus siglas en inglés"}
         ]
     },
     {
@@ -254,6 +272,15 @@
         ]
     },
     {
+        "abbLowerCase": "bnp",
+        "abbreviation": "BNP",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Brain natriuretic peptide", "langTrad": "esp", "meaningTrad": "Péptido natriurético cerebral", "abbreviationTrad": "PNC"}
+        ]
+    },
+    {
         "abbLowerCase": "bph",
         "abbreviation": "BPH",
         "use": "sigla",
@@ -270,6 +297,15 @@
         "meanings": [
             {"lang": "esp", "meaning": "Cáncer", "langTrad": "eng", "meaningTrad": "Cancer", "abbreviationTrad": "CA"},
             {"lang": "eng", "meaning": "Cardiac arrest", "langTrad": "esp", "meaningTrad": "Paro cardíaco", "abbreviationTrad": "PC"}
+        ]
+    },
+    {
+        "abbLowerCase": "cabg",
+        "abbreviation": "CABG",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Coronary artery bypass grafting, coronary artery bypass graft surgery", "langTrad": "esp", "meaningTrad": "Derivación aortocoronaria con injerto, cirugía de injerto de derivación coronaria, cirugía de baipás de la arteria coronaria, injerto de baipás de las arterias coronarias, cirugía de injerto de revascularización coronaria", "abbreviationTrad": "CABG, por sus siglas en inglés"}
         ]
     },
     {
@@ -315,6 +351,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Clinical benefit rate", "langTrad": "esp", "meaningTrad": "Tasa de beneficio clínico", "abbreviationTrad": "TBC"}
+        ]
+    },
+    {
+        "abbLowerCase": "ccnap",
+        "abbreviation": "CCNAP",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Council of Cardiovascular Nursing and Allied Professions [currently the Association of Cardiovascular Nursing and Allied Professions, ACNAP]", "langTrad": "esp", "meaningTrad": "Consejo de Enfermería Cardiovascular y Profesiones Afines [actualmente la Asociación de Enfermería Cardiovascular y Profesiones Afines, ACNAP", "abbreviationTrad": "CCNAP (antiguo) o ACNAP (actual), por sus siglas en inglés"}
         ]
     },
     {
@@ -826,6 +871,15 @@
         ]
     },
     {
+        "abbLowerCase": "esc",
+        "abbreviation": "ESC",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "European Society of Cardiology", "langTrad": "esp", "meaningTrad": "Sociedad Europea de Cardiología", "abbreviationTrad": "ESC, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "eskd",
         "abbreviation": "ESKD",
         "use": "sigla",
@@ -1212,6 +1266,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Insuficiencia renal terminal", "langTrad": "eng", "meaningTrad": "End-stage renal disease", "abbreviationTrad": "ESRD"}
+        ]
+    },
+    {
+        "abbLowerCase": "itb",
+        "abbreviation": "ITB",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Índice tobillo-brazo", "langTrad": "eng", "meaningTrad": "Ankle–brachial index", "abbreviationTrad": "ABI"}
         ]
     },
     {
@@ -1628,6 +1691,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Número de partículas de lipoproteínas de baja densidad", "langTrad": "eng", "meaningTrad": "Low-density lipoprotein particle number", "abbreviationTrad": "LDL-P"}
+        ]
+    },
+    {
+        "abbLowerCase": "pnc",
+        "abbreviation": "PNC",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Péptido natriurético cerebral", "langTrad": "eng", "meaningTrad": "Brain natriuretic peptide", "abbreviationTrad": "BNP"}
         ]
     },
     {
