@@ -1061,6 +1061,15 @@
         ]
     },
     {
+        "abbLowerCase": "fanv",
+        "abbreviation": "FANV",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Fibrilación auricular no valvular", "langTrad": "eng", "meaningTrad": "Non-valvular atrial fibrillation", "abbreviationTrad": "NVAF"}
+        ]
+    },
+    {
         "abbLowerCase": "fce",
         "abbreviation": "FCE",
         "use": "sigla",
@@ -1745,6 +1754,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Nasotracheal intubation", "langTrad": "esp", "meaningTrad": "Intubación nasotraqueal", "abbreviationTrad": "INT"}
+        ]
+    },
+    {
+        "abbLowerCase": "nvaf",
+        "abbreviation": "NVAF",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Non-valvular atrial fibrillation", "langTrad": "esp", "meaningTrad": "Fibrilación auricular no valvular", "abbreviationTrad": "FANV"}
         ]
     },
     {
