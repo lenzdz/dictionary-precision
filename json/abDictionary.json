@@ -72,6 +72,15 @@
         ]
     },
     {
+        "abbLowerCase": "acod",
+        "abbreviation": "ACOD",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Anticoagulantes orales directos, anticoagulantes orales de acción directa", "langTrad": "eng", "meaningTrad": "Direct oral anticoagulants, direct-acting oral anticoagulant", "abbreviationTrad": "DOAC"}
+        ]
+    },
+    {
         "abbLowerCase": "ad",
         "abbreviation": "AD",
         "use": "sigla",
@@ -90,12 +99,39 @@
         ]
     },
     {
+        "abbLowerCase": "ae",
+        "abbreviation": "AE",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Adverse event", "langTrad": "esp", "meaningTrad": "Evento adverso", "abbreviationTrad": "EA"}
+        ]
+    },
+    {
+        "abbLowerCase": "af",
+        "abbreviation": "AF",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Atrial fibrillation", "langTrad": "esp", "meaningTrad": "Fibrilación auricular", "abbreviationTrad": "FA"}
+        ]
+    },
+    {
         "abbLowerCase": "afab",
         "abbreviation": "AFAB",
         "use": "sigla",
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Assigned female at birth", "langTrad": "esp", "meaningTrad": "Sexo femenino asignado al nacer", "abbreviationTrad": "SFAN o AFAB, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "afib",
+        "abbreviation": "AFib",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Atrial fibrillation", "langTrad": "esp", "meaningTrad": "Fibrilación auricular", "abbreviationTrad": "FA"}
         ]
     },
     {
@@ -242,6 +278,15 @@
             {"lang": "esp", "meaning": "Articulación temporomandibular", "langTrad": "eng", "meaningTrad": "Temporomandibular joint", "abbreviationTrad": "TMJ"},
             {"lang": "eng", "meaning": "Appropriate treatment in medicine", "langTrad": "esp", "meaningTrad": "Tratamiento indicado en medicina", "abbreviationTrad": "sin siglas"},
             {"lang": "eng", "meaning": "Ataxia telangiectasia mutated protein kinase", "langTrad": "esp", "meaningTrad": "Proteína cinasa ataxia telangiectasia mutada", "abbreviationTrad": "ATM"}
+        ]
+    },
+    {
+        "abbLowerCase": "avk",
+        "abbreviation": "AVK",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Antagonista de la vitamina K", "langTrad": "eng", "meaningTrad": "Vitamin K antagonists", "abbreviationTrad": "VKA"}
         ]
     },
     {
@@ -694,6 +739,15 @@
         ]
     },
     {
+        "abbLowerCase": "doac",
+        "abbreviation": "DOAC",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Direct oral anticoagulants, direct-acting oral anticoagulant", "langTrad": "esp", "meaningTrad": "Anticoagulantes orales directos, anticoagulantes orales de acción directa", "abbreviationTrad": "ACOD"}
+        ]
+    },
+    {
         "abbLowerCase": "dor",
         "abbreviation": "DoR, DOR",
         "use": "sigla",
@@ -737,6 +791,24 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Doble salida ventricular derecha", "langTrad": "eng", "meaningTrad": "Double outlet right ventricle", "abbreviationTrad": "DORV"}
+        ]
+    },
+    {
+        "abbLowerCase": "dvt",
+        "abbreviation": "DVT",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Deep vein thrombosis", "langTrad": "esp", "meaningTrad": "Trombosis venosa profunda", "abbreviationTrad": "TVP"}
+        ]
+    },
+    {
+        "abbLowerCase": "ea",
+        "abbreviation": "EA",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Evento adverso", "langTrad": "eng", "meaningTrad": "Adverse event", "abbreviationTrad": "AE"}
         ]
     },
     {
@@ -868,6 +940,33 @@
         ]
     },
     {
+        "abbLowerCase": "enm",
+        "abbreviation": "ENM",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Enuresis nocturna monosintomática", "langTrad": "eng", "meaningTrad": "Monosymptomatic nocturnal enuresis", "abbreviationTrad": "MNE"}
+        ]
+    },
+    {
+        "abbLowerCase": "enpm",
+        "abbreviation": "ENPM",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Enuresis nocturna primaria monosintomática", "langTrad": "eng", "meaningTrad": "Primary monosymptomatic nocturnal enuresis", "abbreviationTrad": "PMNE"}
+        ]
+    },
+    {
+        "abbLowerCase": "ep",
+        "abbreviation": "EP",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Embolia pulmonar", "langTrad": "eng", "meaningTrad": "Pulmonary embolism", "abbreviationTrad": "PE"}
+        ]
+    },
+    {
         "abbLowerCase": "epoc",
         "abbreviation": "EPOC",
         "use": "sigla",
@@ -950,6 +1049,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Emergency ward", "langTrad": "esp", "meaningTrad": "Departamento de emergencias", "abbreviationTrad": "DE"}
+        ]
+    },
+    {
+        "abbLowerCase": "fa",
+        "abbreviation": "FA",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Fibrilación auricular", "langTrad": "eng", "meaningTrad": "Atrial fibrillation", "abbreviationTrad": "AF o AFib"}
         ]
     },
     {
@@ -1048,7 +1156,16 @@
         "use": "sigla",
         "language": "inglés y español",
         "meanings": [
-            {"lang": "eng", "meaning": "Gonadotropin-releasing hormone ", "langTrad": "esp", "meaningTrad": "Hormona liberadora de gonadotropina", "abbreviationTrad": "LH"}
+            {"lang": "eng", "meaning": "Gonadotropin-releasing hormone", "langTrad": "esp", "meaningTrad": "Hormona liberadora de gonadotropina", "abbreviationTrad": "LH"}
+        ]
+    },
+    {
+        "abbLowerCase": "grade",
+        "abbreviation": "GRADE",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Grades of recommendation, assessment, development and evaluation", "langTrad": "esp", "meaningTrad": "Clasificación de la evaluación, desarrollo y valoración de las recomendaciones", "abbreviationTrad": "GRADE, por sus siglas en inglés"}
         ]
     },
     {
@@ -1288,6 +1405,15 @@
         ]
     },
     {
+        "abbLowerCase": "inr",
+        "abbreviation": "INR",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "International normalized ratio", "langTrad": "esp", "meaningTrad": "Cociente internacional normalizado, índice internacional normalizado", "abbreviationTrad": "INR, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "int",
         "abbreviation": "INT",
         "use": "sigla",
@@ -1505,6 +1631,15 @@
         ]
     },
     {
+        "abbLowerCase": "mne",
+        "abbreviation": "MNE",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Monosymptomatic nocturnal enuresis", "langTrad": "esp", "meaningTrad": "Enuresis nocturna monosintomática", "abbreviationTrad": "ENM"}
+        ]
+    },
+    {
         "abbLowerCase": "mrd",
         "abbreviation": "MRD",
         "use": "sigla",
@@ -1538,6 +1673,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Neodjuvant chemotherapy", "langTrad": "esp", "meaningTrad": "Quimioterapia neoadyuvante", "abbreviationTrad": "QTN"}
+        ]
+    },
+    {
+        "abbLowerCase": "naco",
+        "abbreviation": "NACO",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Nuevos anticoagulantes oral, anticoagulante oral no antagonista de la vitamina K", "langTrad": "eng", "meaningTrad": "Novel oral anticoagulant, non-vitamin K antagonist oral anticoagulant", "abbreviationTrad": "NOAC"}
         ]
     },
     {
@@ -1577,6 +1721,15 @@
         ]
     },
     {
+        "abbLowerCase": "noac",
+        "abbreviation": "NOAC",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Novel oral anticoagulant, non-vitamin K antagonist oral anticoagulant", "langTrad": "esp", "meaningTrad": "Nuevos anticoagulantes oral, anticoagulante oral no antagonista de la vitamina K", "abbreviationTrad": "NACO"}
+        ]
+    },
+    {
         "abbLowerCase": "nsclc",
         "abbreviation": "NSCLC",
         "use": "sigla",
@@ -1601,6 +1754,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Overactive bladder", "langTrad": "esp", "meaningTrad": "Vejiga hiperactiva", "abbreviationTrad": "VH"}
+        ]
+    },
+    {
+        "abbLowerCase": "oat",
+        "abbreviation": "OAT",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Oral anticoagulation therapy, oral anticoagulant therapy, oral anticoagulant treatment", "langTrad": "esp", "meaningTrad": "Terapia anticoagulante oral, tratamiento anticoagulante oral", "abbreviationTrad": "TAO"}
         ]
     },
     {
@@ -1716,9 +1878,10 @@
         "abbLowerCase": "pe",
         "abbreviation": "PE",
         "use": "sigla",
-        "language": "español",
+        "language": "español e inglés",
         "meanings": [
-            {"lang": "esp", "meaning": "Progresión de la enfermedad", "langTrad": "eng", "meaningTrad": "Disease progression", "abbreviationTrad": "DP"}
+            {"lang": "esp", "meaning": "Progresión de la enfermedad", "langTrad": "eng", "meaningTrad": "Disease progression", "abbreviationTrad": "DP"},
+            {"lang": "eng", "meaning": "Pulmonary embolism", "langTrad": "esp", "meaningTrad": "Embolia pulmonar, tromboembolia pulmonar", "abbreviationTrad": "EP o TEP"}
         ]
     },
     {
@@ -1758,6 +1921,15 @@
         ]
     },
     {
+        "abbLowerCase": "pmne",
+        "abbreviation": "PMNE",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Primary monosymptomatic nocturnal enuresis", "langTrad": "esp", "meaningTrad": "Enuresis nocturna primaria monosintomática", "abbreviationTrad": "ENPM"}
+        ]
+    },
+    {
         "abbLowerCase": "pnc",
         "abbreviation": "PNC",
         "use": "sigla",
@@ -1782,6 +1954,24 @@
         "language": "inglés y español",
         "meanings": [
             {"lang": "eng", "meaning": "Prostate-specific antigen", "langTrad": "esp", "meaningTrad": "Antígeno prostático específico", "abbreviationTrad": "PSA, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "pt",
+        "abbreviation": "PT",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Prothrombin time", "langTrad": "esp", "meaningTrad": "Tiempo de protrombina", "abbreviationTrad": "TP"}
+        ]
+    },
+    {
+        "abbLowerCase": "pth",
+        "abbreviation": "PTH",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Parathyroid hormone", "langTrad": "esp", "meaningTrad": "Hormona paratiroidea", "abbreviationTrad": "PTH"}
         ]
     },
     {
@@ -2185,6 +2375,15 @@
         ]
     },
     {
+        "abbLowerCase": "tao",
+        "abbreviation": "TAO",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Terapia anticoagulante oral, tratamiento anticoagulante oral", "langTrad": "eng", "meaningTrad": "Oral anticoagulation therapy, oral anticoagulant therapy, oral anticoagulant treatment", "abbreviationTrad": "OAT"}
+        ]
+    },
+    {
         "abbLowerCase": "tbc",
         "abbreviation": "TBC",
         "use": "sigla",
@@ -2217,7 +2416,10 @@
         "use": "sigla",
         "language": "español",
         "meanings": [
+            {"lang": "esp", "meaning": "Tromboembolia pulmonar", "langTrad": "eng", "meaningTrad": "Pulmonary embolism", "abbreviationTrad": "PE"},
             {"lang": "esp", "meaning": "Tomografía por emisión de positrones", "langTrad": "eng", "meaningTrad": "Positron emission tomography", "abbreviationTrad": "PET"}
+        ]
+    },
         ]
     },
     {
@@ -2227,6 +2429,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Tomografía por emisión de positrones con tomografía computarizada", "langTrad": "eng", "meaningTrad": "Positron emission tomography and computed tomography", "abbreviationTrad": "PET-CT"}
+        ]
+    },
+    {
+        "abbLowerCase": "tev",
+        "abbreviation": "TEV",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Tromboembolismo venoso", "langTrad": "eng", "meaningTrad": "Venous thromboembolism", "abbreviationTrad": "VTE"}
         ]
     },
     {
@@ -2271,6 +2482,7 @@
         "use": "sigla",
         "language": "español",
         "meanings": [
+            {"lang": "esp", "meaning": "Tiempo de protrombina", "langTrad": "eng", "meaningTrad": "Prothrombin time", "abbreviationTrad": "PT"},
             {"lang": "esp", "meaning": "Tiempo hasta la progresión", "langTrad": "eng", "meaningTrad": "Time to progression", "abbreviationTrad": "TTP"}
         ]
     },
@@ -2320,6 +2532,15 @@
         ]
     },
     {
+        "abbLowerCase": "tvp",
+        "abbreviation": "TVP",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Trombosis venosa profunda", "langTrad": "eng", "meaningTrad": "Deep vein thrombosis", "abbreviationTrad": "DVT"}
+        ]
+    },
+    {
         "abbLowerCase": "vc",
         "abbreviation": "VC",
         "use": "abreviatura",
@@ -2365,12 +2586,30 @@
         ]
     },
     {
+        "abbLowerCase": "vka",
+        "abbreviation": "VKA",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Vitamin K antagonists", "langTrad": "esp", "meaningTrad": "Antagonista de la vitamina K", "abbreviationTrad": "AVK"}
+        ]
+    },
+    {
         "abbLowerCase": "vldl",
         "abbreviation": "VLDL",
         "use": "sigla",
         "language": "inglés",
         "meanings": [
-            {"lang": "eng", "meaning": "Very low density lipoprotein", "langTrad": "esp", "meaningTrad": "Lipoproteína de muy baja densidad ", "abbreviationTrad": "VLDL, por sus siglas en inglés"}
+            {"lang": "eng", "meaning": "Very low density lipoprotein", "langTrad": "esp", "meaningTrad": "Lipoproteína de muy baja densidad", "abbreviationTrad": "VLDL, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "vte",
+        "abbreviation": "VTE",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Venous thromboembolism", "langTrad": "esp", "meaningTrad": "Tromboembolismo venoso", "abbreviationTrad": "TEV"}
         ]
     },
     {
