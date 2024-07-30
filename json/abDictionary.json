@@ -2420,8 +2420,6 @@
             {"lang": "esp", "meaning": "Tomografía por emisión de positrones", "langTrad": "eng", "meaningTrad": "Positron emission tomography", "abbreviationTrad": "PET"}
         ]
     },
-        ]
-    },
     {
         "abbLowerCase": "tep-tc",
         "abbreviation": "TEP-TC",
