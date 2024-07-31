@@ -90,6 +90,16 @@
         ]
     },
     {
+        "abbLowerCase": "adc",
+        "abbreviation": "ADC",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Acuerdo de confidencialidad", "langTrad": "eng", "meaningTrad": "Non-disclosure agreement", "abbreviationTrad": "NDA"},
+            {"lang": "esp", "meaning": "Acuerdo de divulgación confidencial", "langTrad": "eng", "meaningTrad": "Confidential disclosure agreement", "abbreviationTrad": "CDA"}
+        ]
+    },
+    {
         "abbLowerCase": "adt",
         "abbreviation": "ADT",
         "use": "sigla",
@@ -423,6 +433,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Concurrent chemoradiotherapy", "langTrad": "esp", "meaningTrad": "Quimiorradioterapia concurrente, quimiorradioterapia concomitante", "abbreviationTrad": "QRC o QRTC"}
+        ]
+    },
+    {
+        "abbLowerCase": "cda",
+        "abbreviation": "CDA",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Confidential disclosure agreement", "langTrad": "esp", "meaningTrad": "Acuerdo de divulgación confidencial", "abbreviationTrad": "ADC"}
         ]
     },
     {
@@ -1718,6 +1737,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "National Cancer Institute", "langTrad": "esp", "meaningTrad": "Instituto Nacional del Cáncer", "abbreviationTrad": "NCI, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "nda",
+        "abbreviation": "NDA",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Non-disclosure agreement", "langTrad": "esp", "meaningTrad": "Acuerdo de no divulgación, acuerdo de confidencialidad", "abbreviationTrad": "ADC o NDA, por sus siglas en inglés"}
         ]
     },
     {
