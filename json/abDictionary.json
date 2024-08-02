@@ -154,6 +154,15 @@
         ]
     },
     {
+        "abbLowerCase": "aht",
+        "abbreviation": "aHT",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Arterial hypertension", "langTrad": "esp", "meaningTrad": "Hipertensión arterial", "abbreviationTrad": "HTA"}
+        ]
+    },
+    {
         "abbLowerCase": "aids",
         "abbreviation": "AIDS",
         "use": "sigla",
@@ -333,6 +342,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Brain natriuretic peptide", "langTrad": "esp", "meaningTrad": "Péptido natriurético cerebral", "abbreviationTrad": "PNC"}
+        ]
+    },
+    {
+        "abbLowerCase": "bp",
+        "abbreviation": "BP",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Blood pressure", "langTrad": "esp", "meaningTrad": "Presión arterial", "abbreviationTrad": "PA"}
         ]
     },
     {
@@ -1220,7 +1238,7 @@
         "use": "sigla",
         "language": "inglés",
         "meanings": [
-            {"lang": "eng", "meaning": "High blood pressure", "langTrad": "esp", "meaningTrad": "Hipertensión arterial", "abbreviationTrad": "HTA"}
+            {"lang": "eng", "meaning": "High blood pressure", "langTrad": "esp", "meaningTrad": "Presión arterial alta", "abbreviationTrad": "PAA"}
         ]
     },
     {
@@ -1323,12 +1341,30 @@
         ]
     },
     {
+        "abbLowerCase": "ht",
+        "abbreviation": "HT",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Hipertensión", "langTrad": "eng", "meaningTrad": "Hypertension", "abbreviationTrad": "HTN"}
+        ]
+    },
+    {
         "abbLowerCase": "hta",
         "abbreviation": "HTA",
         "use": "sigla",
         "language": "español",
         "meanings": [
-            {"lang": "esp", "meaning": "Hipertensión arterial", "langTrad": "eng", "meaningTrad": "Hypertension, arterial hypertension, high blood pressure", "abbreviationTrad": "HBP"}
+            {"lang": "esp", "meaning": "Hipertensión arterial", "langTrad": "eng", "meaningTrad": "Arterial hypertension", "abbreviationTrad": "aHT"}
+        ]
+    },
+    {
+        "abbLowerCase": "htn",
+        "abbreviation": "HTN",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Hypertension", "langTrad": "esp", "meaningTrad": "Hipertensión", "abbreviationTrad": "HT"}
         ]
     },
     {
@@ -1863,6 +1899,24 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Orotracheal intubation", "langTrad": "esp", "meaningTrad": "Intubación orotraqueal", "abbreviationTrad": "IOT"}
+        ]
+    },
+    {
+        "abbLowerCase": "pa",
+        "abbreviation": "PA",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Presión arterial", "langTrad": "eng", "meaningTrad": "Blood pressure", "abbreviationTrad": "BP"}
+        ]
+    },
+    {
+        "abbLowerCase": "paa",
+        "abbreviation": "PAA",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Presión arterial alta", "langTrad": "eng", "meaningTrad": "High blood pressure", "abbreviationTrad": "HBP"}
         ]
     },
     {
