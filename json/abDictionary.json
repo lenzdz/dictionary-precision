@@ -14,7 +14,7 @@
         "use": "sigla",
         "language": "español",
         "meanings": [
-            {"lang": "esp", "meaning": "Agonistas β₂ de acción prolongada, agonistas β₂ adrenérgicos de acción prolongada", "langTrad": "eng", "meaningTrad": "Long-acting β₂-agonist", "abbreviationTrad": "LABA"}
+            {"lang": "esp", "meaning": "Agonista β₂ de acción prolongada, agonista β₂ adrenérgicos de acción prolongada", "langTrad": "eng", "meaningTrad": "Long-acting β₂-agonist", "abbreviationTrad": "LABA"}
         ]
     },
     {
@@ -204,7 +204,7 @@
         "use": "sigla",
         "language": "español",
         "meanings": [
-            {"lang": "esp", "meaning": "Antagonistas muscarínicos de acción prolongada", "langTrad": "eng", "meaningTrad": "Long-acting muscarinic antagonist", "abbreviationTrad": "LAMA"}
+            {"lang": "esp", "meaning": "Antagonista muscarínico de acción prolongada", "langTrad": "eng", "meaningTrad": "Long-acting muscarinic antagonist", "abbreviationTrad": "LAMA"}
         ]
     },
     {
