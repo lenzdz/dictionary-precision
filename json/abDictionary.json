@@ -721,6 +721,15 @@
         ]
     },
     {
+        "abbLowerCase": "dlqi",
+        "abbreviation": "DLQI",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Dermatology Life Quality Index", "langTrad": "esp", "meaningTrad": "Índice de Calidad de Vida en Dermatología", "abbreviationTrad": "DLQI, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "dmf",
         "abbreviation": "DMF",
         "use": "sigla",
