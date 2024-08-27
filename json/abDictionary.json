@@ -100,6 +100,15 @@
         ]
     },
     {
+        "abbLowerCase": "adn",
+        "abbreviation": "ADN",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Ácido desoxirribonucleico", "langTrad": "eng", "meaningTrad": "Deoxyribonucleic acid", "abbreviationTrad": "DNA"}
+        ]
+    },
+    {
         "abbLowerCase": "adt",
         "abbreviation": "ADT",
         "use": "sigla",
@@ -262,12 +271,30 @@
         ]
     },
     {
+        "abbLowerCase": "arn",
+        "abbreviation": "ARN",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Ácido ribonucleico", "langTrad": "eng", "meaningTrad": "Ribonucleic acid", "abbreviationTrad": "RNA"}
+        ]
+    },
+    {
+        "abbLowerCase": "arnm",
+        "abbreviation": "ARNm",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Ácido ribonucleico mensajero", "langTrad": "eng", "meaningTrad": "Messenger ribonucleic acid", "abbreviationTrad": "mRNA"}
+        ]
+    },
+    {
         "abbLowerCase": "arr",
         "abbreviation": "ARR",
         "use": "sigla",
-        "language": "español e inglés",
+        "language": "inglés",
         "meanings": [
-            {"lang": "esp", "meaning": "Absolute risk reduction", "langTrad": "eng", "meaningTrad": "Reducción del riesgo absoluto", "abbreviationTrad": "RRA"}
+            {"lang": "eng", "meaning": "Absolute risk reduction", "langTrad": "esp", "meaningTrad": "Reducción del riesgo absoluto", "abbreviationTrad": "RRA"}
         ]
     },
     {
@@ -600,12 +627,39 @@
         ]
     },
     {
+        "abbLowerCase": "cpre",
+        "abbreviation": "CPRE",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Colangiopancreatografía retrógrada endoscópica", "langTrad": "eng", "meaningTrad": "Endoscopic retrograde cholangiopancreatography", "abbreviationTrad": "ERCP"}
+        ]
+    },
+    {
+        "abbLowerCase": "crswnp",
+        "abbreviation": "CRSwNP",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Chronic rhinosinusitis with nasal polyps", "langTrad": "esp", "meaningTrad": "Rinosinusitis crónica con poliposis nasal, rinosinusitis crónica con pólipos nasales", "abbreviationTrad": "RSCcPN"}
+        ]
+    },
+    {
         "abbLowerCase": "csi",
         "abbreviation": "CSI",
         "use": "sigla",
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Corticosteroide inhalado", "langTrad": "eng", "meaningTrad": "Inhaled corticosteroid", "abbreviationTrad": "ICS"}
+        ]
+    },
+    {
+        "abbLowerCase": "css",
+        "abbreviation": "css",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Corticoesteroide sistémico, corticoide sistémico", "langTrad": "eng", "meaningTrad": "Systemic corticosteroid", "abbreviationTrad": "SCS"}
         ]
     },
     {
@@ -782,6 +836,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Diabetes mellitus tipo 2", "langTrad": "eng", "meaningTrad": "Type 2 diabetes mellitus", "abbreviationTrad": "T2DM"}
+        ]
+    },
+    {
+        "abbLowerCase": "dna",
+        "abbreviation": "DNA",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Deoxyribonucleic acid", "langTrad": "esp", "meaningTrad": "Ácido desoxirribonucleico", "abbreviationTrad": "ADN"}
         ]
     },
     {
@@ -968,6 +1031,15 @@
         ]
     },
     {
+        "abbLowerCase": "eii",
+        "abbreviation": "EII",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Enfermedad inflamatoria intestinal", "langTrad": "eng", "meaningTrad": "Irritable bowel disease", "abbreviationTrad": "IBD"}
+        ]
+    },
+    {
         "abbLowerCase": "ek",
         "abbreviation": "EK",
         "use": "sigla",
@@ -1044,6 +1116,15 @@
         ]
     },
     {
+        "abbLowerCase": "ercp",
+        "abbreviation": "ERCP",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Endoscopic retrograde cholangiopancreatography", "langTrad": "esp", "meaningTrad": "Colangiopancreatografía retrógrada endoscópica", "abbreviationTrad": "CPRE"}
+        ]
+    },
+    {
         "abbLowerCase": "eret",
         "abbreviation": "ERET",
         "use": "sigla",
@@ -1086,6 +1167,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "End-stage renal disease", "langTrad": "esp", "meaningTrad": "Enfermedad renal terminal", "abbreviationTrad": "ERT"}
+        ]
+    },
+    {
+        "abbLowerCase": "eus",
+        "abbreviation": "EUS",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Endoscopic ultrasound", "langTrad": "esp", "meaningTrad": "Ecografía endoscópica", "abbreviationTrad": "EUS, por sus siglas en inglés"}
         ]
     },
     {
@@ -1377,6 +1467,15 @@
         ]
     },
     {
+        "abbLowerCase": "ibd",
+        "abbreviation": "IBD",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Irritable bowel disease", "langTrad": "esp", "meaningTrad": "Enfermedad inflamatoria intestinal", "abbreviationTrad": "EII"}
+        ]
+    },
+    {
         "abbLowerCase": "ibs",
         "abbreviation": "IBS",
         "use": "sigla",
@@ -1538,6 +1637,15 @@
         "language": "inglés y español",
         "meanings": [
             {"lang": "eng", "meaning": "International Prostate Symptom Score", "langTrad": "esp", "meaningTrad": "Puntuación Internacional de Síntomas Prostáticos", "abbreviationTrad": "I-PSS, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "jak",
+        "abbreviation": "JAK",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Janus kinase", "langTrad": "esp", "meaningTrad": "Cinasa Jano", "abbreviationTrad": "JAK"}
         ]
     },
     {
@@ -1728,6 +1836,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Magnetic resonance imaging", "langTrad": "esp", "meaningTrad": "Imagen por resonancia magnética", "abbreviationTrad": "IRM"}
+        ]
+    },
+    {
+        "abbLowerCase": "mrna",
+        "abbreviation": "mRNA",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Messenger ribonucleic acid", "langTrad": "esp", "meaningTrad": "Ácido ribonucleico mensajero", "abbreviationTrad": "ARNm"}
         ]
     },
     {
@@ -2220,6 +2337,15 @@
         ]
     },
     {
+        "abbLowerCase": "rna",
+        "abbreviation": "RNA",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Ribonucleic acid", "langTrad": "esp", "meaningTrad": "Ácido ribonucleico", "abbreviationTrad": "ARN"}
+        ]
+    },
+    {
         "abbLowerCase": "rp",
         "abbreviation": "RP",
         "use": "sigla",
@@ -2254,6 +2380,15 @@
         "language": "español e inglés",
         "meanings": [
             {"lang": "esp", "meaning": "Reducción del riesgo relativo", "langTrad": "eng", "meaningTrad": "Relative risk reduction", "abbreviationTrad": "RRR"}
+        ]
+    },
+    {
+        "abbLowerCase": "rsccpn",
+        "abbreviation": "RSCcPN",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Rinosinusitis crónica con poliposis nasal, rinosinusitis crónica con pólipos nasales", "langTrad": "eng", "meaningTrad": "Chronic rhinosinusitis with nasal polyps", "abbreviationTrad": "CRSwNP"}
         ]
     },
     {
@@ -2317,6 +2452,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Small cell lung cancer", "langTrad": "esp", "meaningTrad": "Cáncer de pulmón microcítico, cáncer de pulmón de células pequeñas", "abbreviationTrad": "CPNM o CPCNP"}
+        ]
+    },
+    {
+        "abbLowerCase": "scs",
+        "abbreviation": "SCS",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Systemic corticosteroid", "langTrad": "esp", "meaningTrad": "Corticoesteroide sistémico, corticoide sistémico", "abbreviationTrad": "CSS o SCS, por sus siglas en inglés"}
         ]
     },
     {
@@ -2581,6 +2725,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Temporomandibular joint", "langTrad": "esp", "meaningTrad": "Articulación temporomandibular", "abbreviationTrad": "ATM"}
+        ]
+    },
+    {
+        "abbLowerCase": "tnf",
+        "abbreviation": "TNF",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Tumor necrosis factor", "langTrad": "esp", "meaningTrad": "Factor de necrosis tumoral", "abbreviationTrad": "TNF, por sus siglas en inglés"}
         ]
     },
     {
