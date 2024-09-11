@@ -1679,7 +1679,7 @@
         "abbLowerCase": "itrs",
         "abbreviation": "ITRS",
         "use": "abreviatura",
-        "language": "español,
+        "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Infección del tracto respiratorio superior", "langTrad": "eng", "meaningTrad": "Upper respiratory tract infection", "abbreviationTrad": "URTI"}
         ]
