@@ -1341,6 +1341,15 @@
         ]
     },
     {
+        "abbLowerCase": "hcp",
+        "abbreviation": "HCP",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Healthcare professional", "langTrad": "esp", "meaningTrad": "Profesional de la salud", "abbreviationTrad": "HCP, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "hd",
         "abbreviation": "HD",
         "use": "sigla",
@@ -1803,6 +1812,15 @@
         ]
     },
     {
+        "abbLowerCase": "md",
+        "abbreviation": "MD",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Doctor en medicina, médico", "langTrad": "eng", "meaningTrad": "Doctor of medicine, medical doctor", "abbreviationTrad": "PCSM"}
+        ]
+    },
+    {
         "abbLowerCase": "mecp",
         "abbreviation": "MECP",
         "use": "sigla",
@@ -2031,9 +2049,10 @@
         "abbLowerCase": "pa",
         "abbreviation": "PA",
         "use": "sigla",
-        "language": "español",
+        "language": "español e inglés",
         "meanings": [
-            {"lang": "esp", "meaning": "Presión arterial", "langTrad": "eng", "meaningTrad": "Blood pressure", "abbreviationTrad": "BP"}
+            {"lang": "esp", "meaning": "Presión arterial", "langTrad": "eng", "meaningTrad": "Blood pressure", "abbreviationTrad": "BP"},
+            {"lang": "eng", "meaning": "Physician associate, physician assistant", "langTrad": "esp", "meaningTrad": "Médico asociado, asistente médico", "abbreviationTrad": "PA, por sus siglas en inglés"}
         ]
     },
     {
