@@ -271,6 +271,15 @@
         ]
     },
     {
+        "abbLowerCase": "ari",
+        "abbreviation": "ARI",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Acute respiratory infection", "langTrad": "esp", "meaningTrad": "Infección respiratoria aguda", "abbreviationTrad": "IRA"}
+        ]
+    },
+    {
         "abbLowerCase": "arn",
         "abbreviation": "ARN",
         "use": "sigla",
@@ -1622,6 +1631,15 @@
         ]
     },
     {
+        "abbLowerCase": "ira",
+        "abbreviation": "IRA",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Infección respiratoria aguda", "langTrad": "eng", "meaningTrad": "Acute respiratory infection", "abbreviationTrad": "ARI"}
+        ]
+    },
+    {
         "abbLowerCase": "irt",
         "abbreviation": "IRT",
         "use": "sigla",
@@ -1637,6 +1655,51 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Índice tobillo-brazo", "langTrad": "eng", "meaningTrad": "Ankle–brachial index", "abbreviationTrad": "ABI"}
+        ]
+    },
+    {
+        "abbLowerCase": "itr",
+        "abbreviation": "ITR",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+                {"lang": "esp", "meaning": "Infección del tracto respiratorio", "langTrad": "eng", "meaningTrad": "Respiratory tract infection", "abbreviationTrad": "RTI"}
+        ]
+    },
+    {
+        "abbLowerCase": "itri",
+        "abbreviation": "ITRI",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Infección del tracto respiratorio inferior", "langTrad": "eng", "meaningTrad": "Lower respiratory tract infection", "abbreviationTrad": "LRTI, LRI"}
+        ]
+    },
+    {
+        "abbLowerCase": "itrs",
+        "abbreviation": "ITRS",
+        "use": "abreviatura",
+        "language": "español,
+        "meanings": [
+            {"lang": "esp", "meaning": "Infección del tracto respiratorio superior", "langTrad": "eng", "meaningTrad": "Upper respiratory tract infection", "abbreviationTrad": "URTI"}
+        ]
+    },
+    {
+        "abbLowerCase": "ivra",
+        "abbreviation": "IVRA",
+        "use": "abreviatura",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Infección de las vías respiratorias altas", "langTrad": "eng", "meaningTrad": "Upper respiratory tract infection", "abbreviationTrad": "URTI"}
+        ]
+    },
+    {
+        "abbLowerCase": "ivrb",
+        "abbreviation": "IVRB",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Infección de las vías respiratorias bajas", "langTrad": "eng", "meaningTrad": "Lower respiratory tract infection", "abbreviationTrad": "LRTI, LRI"}
         ]
     },
     {
@@ -1785,6 +1848,24 @@
         ]
     },
     {
+        "abbLowerCase": "lri",
+        "abbreviation": "LRI",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Lower respiratory tract infection", "langTrad": "esp", "meaningTrad": "Infección del tracto respiratorio inferior, infección de las vías respiratorias bajas", "abbreviationTrad": "ITRI, IVRB"}
+        ]
+    },
+    {
+        "abbLowerCase": "lrti",
+        "abbreviation": "LRTI",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Lower respiratory tract infection", "langTrad": "esp", "meaningTrad": "Infección del tracto respiratorio inferior, infección de las vías respiratorias altas", "abbreviationTrad": "ITRI, IVRB"}
+        ]
+    },
+    {
         "abbLowerCase": "luts",
         "abbreviation": "LUTS",
         "use": "sigla",
@@ -1817,7 +1898,7 @@
         "use": "sigla",
         "language": "español e inglés",
         "meanings": [
-            {"lang": "esp", "meaning": "Doctor en medicina, médico", "langTrad": "eng", "meaningTrad": "Doctor of medicine, medical doctor", "abbreviationTrad": "PCSM"}
+            {"lang": "esp", "meaning": "Doctor en medicina, médico", "langTrad": "eng", "meaningTrad": "Doctor of medicine, medical doctor", "abbreviationTrad": "MD"}
         ]
     },
     {
@@ -2429,6 +2510,15 @@
         ]
     },
     {
+        "abbLowerCase": "rti",
+        "abbreviation": "RTI",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+                {"lang": "eng", "meaning": "Respiratory tract infection", "langTrad": "esp", "meaningTrad": "Infección del tracto respiratorio", "abbreviationTrad": "ITR"}
+        ]
+    },
+    {
         "abbLowerCase": "rtr",
         "abbreviation": "RTR",
         "use": "sigla",
@@ -2817,6 +2907,24 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Trombosis venosa profunda", "langTrad": "eng", "meaningTrad": "Deep vein thrombosis", "abbreviationTrad": "DVT"}
+        ]
+    },
+    {
+        "abbLowerCase": "uri",
+        "abbreviation": "URI",
+        "use": "abreviatura",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Upper respiratory tract infection", "langTrad": "esp", "meaningTrad": "Infección del tracto respiratorio superior, infección de las vías respiratorias altas", "abbreviationTrad": "ITRS, IVRA o URTI, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "urti",
+        "abbreviation": "URTI",
+        "use": "abreviatura",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Upper respiratory tract infection", "langTrad": "esp", "meaningTrad": "Infección del tracto respiratorio superior, infección de las vías respiratorias altas", "abbreviationTrad": "ITRS, IVRA o URTI, por sus siglas en inglés"}
         ]
     },
     {
