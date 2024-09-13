@@ -336,6 +336,15 @@
         ]
     },
     {
+        "abbLowerCase": "atp",
+        "abbreviation": "ATP",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Adenosine triphosphate", "langTrad": "eng", "meaningTrad": "Trifosfato de adenosina, adenosín trifosfato (menos frecuente)", "abbreviationTrad": "ATP"}
+        ]
+    },
+    {
         "abbLowerCase": "avk",
         "abbreviation": "AVK",
         "use": "sigla",
