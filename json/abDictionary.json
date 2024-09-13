@@ -1758,6 +1758,15 @@
         ]
     },
     {
+        "abbLowerCase": "ldh",
+        "abbreviation": "LDH",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Lactato deshidrogenasa", "langTrad": "eng", "meaningTrad": "Lactate dehydrogenase", "abbreviationTrad": "LDH"}
+        ]
+    },
+    {
         "abbLowerCase": "ldl",
         "abbreviation": "LDL",
         "use": "sigla",
@@ -2235,6 +2244,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Positron emission tomography and computed tomography", "langTrad": "esp", "meaningTrad": "Tomografía por emisión de positrones con tomografía computarizada", "abbreviationTrad": "TEP"}
+        ]
+    },
+    {
+        "abbLowerCase": "pfh",
+        "abbreviation": "PFH",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Plasma free hemoglobin", "langTrad": "esp", "meaningTrad": "Hemoglobina libre en plasma", "abbreviationTrad": "PFH, por sus siglas en inglés"}
         ]
     },
     {
