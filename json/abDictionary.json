@@ -1577,6 +1577,15 @@
         ]
     },
     {
+        "abbLowerCase": "ige",
+        "abbreviation": "IgE",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Inmunoglobulina E", "langTrad": "eng", "meaningTrad": "Immunoglobulin E", "abbreviationTrad": "IgE"}
+        ]
+    },
+    {
         "abbLowerCase": "imc",
         "abbreviation": "IMC",
         "use": "sigla",
