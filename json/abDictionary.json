@@ -262,6 +262,15 @@
         ]
     },
     {
+        "abbLowerCase": "anmat",
+        "abbreviation": "ANMAT",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Administración Nacional de Medicamentos, Alimentos y Tecnología Médica", "langTrad": "eng", "meaningTrad": "National Administration of Drugs, Foods, and Medical Devices", "abbreviationTrad": "ANMAT, as per the Spanish acronym"}
+        ]
+    },
+    {
         "abbLowerCase": "apoa1",
         "abbreviation": "apoA1",
         "use": "sigla",
@@ -1637,6 +1646,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Intubación nasotraqueal", "langTrad": "eng", "meaningTrad": "Nasotracheal intubation", "abbreviationTrad": "NTI"}
+        ]
+    },
+    {
+        "abbLowerCase": "invima",
+        "abbreviation": "INVIMA",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Instituto Nacional de Vigilancia de Medicamentos y Alimentos", "langTrad": "eng", "meaningTrad": "National Institute of Drug and Food Surveillance", "abbreviationTrad": "INVIMA, as per the Spanish acronym"}
         ]
     },
     {
