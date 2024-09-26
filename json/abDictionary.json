@@ -2200,6 +2200,15 @@
         ]
     },
     {
+        "abbLowerCase": "pasi",
+        "abbreviation": "PASI",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Psoriasis area and severity index", "langTrad": "esp", "meaningTrad": "Índice de área y gravedad de la psoriasis, índice de la severidad del área de psoriasis (no recomendado)", "abbreviationTrad": "PASI, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "pca",
         "abbreviation": "PCA, PCa",
         "use": "sigla",
