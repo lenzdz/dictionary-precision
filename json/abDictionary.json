@@ -90,6 +90,15 @@
         ]
     },
     {
+        "abbLowerCase": "ada",
+        "abbreviation": "ADA",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Antidrug antibody", "langTrad": "esp", "meaningTrad": "Anticuerpo antifármaco", "abbreviationTrad": "ADA, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "adc",
         "abbreviation": "ADC",
         "use": "sigla",
