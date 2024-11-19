@@ -1568,6 +1568,15 @@
         ]
     },
     {
+        "abbLowerCase": "ici",
+        "abbreviation": "ICI",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Immune checkpoint inhibitors", "langTrad": "esp", "meaningTrad": "Inhibidor de puntos de control inmunitario", "abbreviationTrad": "IPCI"}
+        ]
+    },
+    {
         "abbLowerCase": "idfs",
         "abbreviation": "iDFS",
         "use": "sigla",
@@ -1622,15 +1631,6 @@
         ]
     },
     {
-        "abbLowerCase": "irm",
-        "abbreviation": "IRM",
-        "use": "sigla",
-        "language": "español",
-        "meanings": [
-            {"lang": "esp", "meaning": "Imagen por resonancia magnética", "langTrad": "eng", "meaningTrad": "Magnetic Resonance Imaging", "abbreviationTrad": "MRI"}
-        ]
-    },
-    {
         "abbLowerCase": "inr",
         "abbreviation": "INR",
         "use": "sigla",
@@ -1667,6 +1667,15 @@
         ]
     },
     {
+        "abbLowerCase": "ipci",
+        "abbreviation": "IPCI",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Inhibidor de puntos de control inmunitario", "langTrad": "eng", "meaningTrad": "Immune checkpoint inhibitors", "abbreviationTrad": "ICI"}
+        ]
+    },
+    {
         "abbLowerCase": "ipss",
         "abbreviation": "IPSS",
         "use": "sigla",
@@ -1682,6 +1691,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Infección respiratoria aguda", "langTrad": "eng", "meaningTrad": "Acute respiratory infection", "abbreviationTrad": "ARI"}
+        ]
+    },
+    {
+        "abbLowerCase": "irm",
+        "abbreviation": "IRM",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Imagen por resonancia magnética", "langTrad": "eng", "meaningTrad": "Magnetic Resonance Imaging", "abbreviationTrad": "MRI"}
         ]
     },
     {
@@ -2270,6 +2288,42 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Prostate cancer–specific mortality", "langTrad": "esp", "meaningTrad": "Mortalidad específica por cáncer de próstata", "abbreviationTrad": "MECP"}
+        ]
+    },
+    {
+        "abbLowerCase": "pd1",
+        "abbreviation": "PD-1",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Programmed cell death protein 1", "langTrad": "esp", "meaningTrad": "Proteína de muerte celular programada 1", "abbreviationTrad": "PD-1"}
+        ]
+    },
+    {
+        "abbLowerCase": "pd-1",
+        "abbreviation": "PD-1",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Programmed cell death protein 1", "langTrad": "esp", "meaningTrad": "Proteína de muerte celular programada 1", "abbreviationTrad": "PD-1"}
+        ]
+    },
+    {
+        "abbLowerCase": "pdl1",
+        "abbreviation": "PD-L1",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Programmed death-ligand 1", "langTrad": "esp", "meaningTrad": "Ligando 1 de muerte programada", "abbreviationTrad": "PD-L1"}
+        ]
+    },
+    {
+        "abbLowerCase": "pd-l1",
+        "abbreviation": "PD-L1",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Programmed death-ligand 1", "langTrad": "esp", "meaningTrad": "Ligando 1 de muerte programada", "abbreviationTrad": "PD-L1"}
         ]
     },
     {
