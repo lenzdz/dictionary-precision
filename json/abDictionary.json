@@ -509,7 +509,7 @@
     },
     {
         "abbLowerCase": "ccrt",
-        "abbreviation": "CCRT",
+        "abbreviation": "CCRT, cCRT",
         "use": "sigla",
         "language": "inglés",
         "meanings": [
@@ -2046,6 +2046,15 @@
         ]
     },
     {
+        "abbLowerCase": "nccn",
+        "abbreviation": "NCCN",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "National Comprehensive Cancer Network", "langTrad": "esp", "meaningTrad": "Red Nacional Integral del Cáncer", "abbreviationTrad": "NCCN, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "nci",
         "abbreviation": "NCI",
         "use": "sigla",
@@ -2396,7 +2405,16 @@
         "use": "sigla",
         "language": "español",
         "meanings": [
-            {"lang": "esp", "meaning": "Quimiorradioterapia concurrente, quimiorradioterapia concomitante", "langTrad": "eng", "meaningTrad": "Concurrent chemoradiotherapy", "abbreviationTrad": "CCRT"}
+            {"lang": "esp", "meaning": "Quimiorradioterapia concurrente, quimiorradioterapia concomitante", "langTrad": "eng", "meaningTrad": "Concurrent chemoradiotherapy", "abbreviationTrad": "CCRT o cCRT"}
+        ]
+    },
+    {
+        "abbLowerCase": "qrs",
+        "abbreviation": "QRS",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Quimiorradioterapia secuencial", "langTrad": "eng", "meaningTrad": "Sequential chemoradiotherapy", "abbreviationTrad": "SCRT o sCRT"}
         ]
     },
     {
@@ -2405,7 +2423,16 @@
         "use": "sigla",
         "language": "español",
         "meanings": [
-            {"lang": "esp", "meaning": "Quimiorradioterapia concurrente, quimiorradioterapia concomitante", "langTrad": "eng", "meaningTrad": "Concurrent chemoradiotherapy", "abbreviationTrad": "CCRT"}
+            {"lang": "esp", "meaning": "Quimiorradioterapia concurrente, quimiorradioterapia concomitante", "langTrad": "eng", "meaningTrad": "Concurrent chemoradiotherapy", "abbreviationTrad": "CCRT o cCRT"}
+        ]
+    },
+    {
+        "abbLowerCase": "qrts",
+        "abbreviation": "QRTS",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Quimiorradioterapia secuencial", "langTrad": "eng", "meaningTrad": "Sequential chemoradiotherapy", "abbreviationTrad": "SCRT o sCRT"}
         ]
     },
     {
@@ -2633,6 +2660,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Small cell lung cancer", "langTrad": "esp", "meaningTrad": "Cáncer de pulmón microcítico, cáncer de pulmón de células pequeñas", "abbreviationTrad": "CPNM o CPCNP"}
+        ]
+    },
+    {
+        "abbLowerCase": "scrt",
+        "abbreviation": "SCRT, sCRT",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Sequential chemoradiotherapy", "langTrad": "esp", "meaningTrad": "Quimiorradioterapia secuencial", "abbreviationTrad": "QRS o QRTS"}
         ]
     },
     {
