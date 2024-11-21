@@ -1748,9 +1748,18 @@
         ]
     },
     {
+        "abbLowerCase": "iv",
+        "abbreviation": "IV",
+        "use": "abreviatura",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Intravenoso", "langTrad": "eng", "meaningTrad": "Intravenous", "abbreviationTrad": "IV"}
+        ]
+    },
+    {
         "abbLowerCase": "ivra",
         "abbreviation": "IVRA",
-        "use": "abreviatura",
+        "use": "sigla",
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Infección de las vías respiratorias altas", "langTrad": "eng", "meaningTrad": "Upper respiratory tract infection", "abbreviationTrad": "URTI"}
