@@ -581,6 +581,15 @@
         ]
     },
     {
+        "abbLowerCase": "cns",
+        "abbreviation": "CNS",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Central nervous system", "langTrad": "esp", "meaningTrad": "Sistema nervioso central", "abbreviationTrad": "SNC"}
+        ]
+    },
+    {
         "abbLowerCase": "copd",
         "abbreviation": "COPD",
         "use": "sigla",
@@ -1046,6 +1055,15 @@
         "meanings": [
             {"lang": "eng", "meaning": "Epidermal growth factor receptor (EGFR)", "langTrad": "esp", "meaningTrad": "Receptor del factor de crecimiento epidérmico", "abbreviationTrad": "RFCE"},
             {"lang": "eng", "meaning": "Estimated glomerular filtration rate (eGFR)", "langTrad": "esp", "meaningTrad": "Tasa de filtración glomerular estimada", "abbreviationTrad": "TFGe"}
+        ]
+    },
+    {
+        "abbLowerCase": "egfrm",
+        "abbreviation": "EGFRm",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Mutated epidermal growth factor receptor", "langTrad": "esp", "meaningTrad": "Receptor del factor de crecimiento epidérmico mutado, receptor del factor de crecimiento epidérmico con mutación positiva", "abbreviationTrad": "RFCEm"}
         ]
     },
     {
@@ -1866,6 +1884,15 @@
         ]
     },
     {
+        "abbLowerCase": "lft",
+        "abbreviation": "LFT",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Liver function test", "langTrad": "esp", "meaningTrad": "Pruebas de función hepática, prueba funcional hepática", "abbreviationTrad": "PFH"}
+        ]
+    },
+    {
         "abbLowerCase": "lh",
         "abbreviation": "LH",
         "use": "sigla",
@@ -2367,8 +2394,9 @@
         "abbLowerCase": "pfh",
         "abbreviation": "PFH",
         "use": "sigla",
-        "language": "inglés",
+        "language": "español e inglés",
         "meanings": [
+            {"lang": "esp", "meaning": "Pruebas de función hepática, prueba funcional hepática", "langTrad": "eng", "meaningTrad": "Liver function test", "abbreviationTrad": "LFT"},
             {"lang": "eng", "meaning": "Plasma free hemoglobin", "langTrad": "esp", "meaningTrad": "Hemoglobina libre en plasma", "abbreviationTrad": "PFH, por sus siglas en inglés"}
         ]
     },
@@ -2578,6 +2606,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Receptor del factor de crecimiento epidérmico", "langTrad": "eng", "meaningTrad": "Epidermal growth factor receptor", "abbreviationTrad": "EGFR"}
+        ]
+    },
+    {
+        "abbLowerCase": "rfcem",
+        "abbreviation": "RFCEm",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Receptor del factor de crecimiento epidérmico mutado, receptor del factor de crecimiento epidérmico con mutación positiva", "langTrad": "eng", "meaningTrad": "Mutated epidermal growth factor receptor", "abbreviationTrad": "EGFRm"}
         ]
     },
     {
@@ -2863,6 +2900,15 @@
         ]
     },
     {
+        "abbLowerCase": "snc",
+        "abbreviation": "SNC",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Sistema nervioso central", "langTrad": "eng", "meaningTrad": "Central nervous system", "abbreviationTrad": "CNS"}
+        ]
+    },
+    {
         "abbLowerCase": "sop",
         "abbreviation": "SOP",
         "use": "sigla",
@@ -3060,6 +3106,15 @@
         "language": "inglés",
         "meanings": [
                 {"lang": "eng", "meaning": "Thoracic radiotherapy", "langTrad": "esp", "meaningTrad": "Radioterapia torácica", "abbreviationTrad": "RTT"}
+        ]
+    },
+    {
+        "abbLowerCase": "tslp",
+        "abbreviation": "TSLP",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Thymic stromal lymphopoietin", "langTrad": "esp", "meaningTrad": "Linfopoyetina estromal tímica", "abbreviationTrad": "TSLP, por sus siglas en inglés"}
         ]
     },
     {
