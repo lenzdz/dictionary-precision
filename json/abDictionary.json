@@ -1103,6 +1103,15 @@
         ]
     },
     {
+        "abbLowerCase": "emd",
+        "abbreviation": "EMD",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Equipo multidisciplinario", "langTrad": "eng", "meaningTrad": "Multidisciplinary team", "abbreviationTrad": "MDT"}
+        ]
+    },
+    {
         "abbLowerCase": "emr",
         "abbreviation": "EMR",
         "use": "sigla",
@@ -2007,6 +2016,15 @@
         "language": "español e inglés",
         "meanings": [
             {"lang": "esp", "meaning": "Doctor en medicina, médico", "langTrad": "eng", "meaningTrad": "Doctor of medicine, medical doctor", "abbreviationTrad": "MD"}
+        ]
+    },
+    {
+        "abbLowerCase": "mdt",
+        "abbreviation": "MDT",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Multidisciplinary team", "langTrad": "esp", "meaningTrad": "Equipo multidisciplinario", "abbreviationTrad": "EMD"}
         ]
     },
     {
