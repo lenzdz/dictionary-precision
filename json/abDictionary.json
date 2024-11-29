@@ -271,6 +271,15 @@
         ]
     },
     {
+        "abbLowerCase": "ape",
+        "abbreviation": "APE",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Acute pulmonary oedema", "langTrad": "esp", "meaningTrad": "Edema pulmonar agudo", "abbreviationTrad": "EPA"}
+        ]
+    },
+    {
         "abbLowerCase": "apoa1",
         "abbreviation": "apoA1",
         "use": "sigla",
@@ -1145,6 +1154,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Embolia pulmonar", "langTrad": "eng", "meaningTrad": "Pulmonary embolism", "abbreviationTrad": "PE"}
+        ]
+    },
+    {
+        "abbLowerCase": "epa",
+        "abbreviation": "EPA",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Edema pulmonar agudo", "langTrad": "eng", "meaningTrad": "Acute pulmonary oedema", "abbreviationTrad": "APE"}
         ]
     },
     {
@@ -2425,6 +2443,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Progression-free survival", "langTrad": "esp", "meaningTrad": "Supervivencia libre de progresión", "abbreviationTrad": "SLP"}
+        ]
+    },
+    {
+        "abbLowerCase": "pld",
+        "abbreviation": "PLD",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Previous lung disease", "langTrad": "esp", "meaningTrad": "Enfermedad pulmonar previa", "abbreviationTrad": "PLD, por sus siglas en inglés"}
         ]
     },
     {
