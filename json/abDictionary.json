@@ -190,6 +190,15 @@
         ]
     },
     {
+        "abbLowerCase": "aine",
+        "abbreviation": "AINE",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Antiinflamatorio no esteroideo", "langTrad": "eng", "meaningTrad": "Nonsteroidal anti-inflammatory drug", "abbreviationTrad": "NSAID"}
+        ]
+    },
+    {
         "abbLowerCase": "ajcc",
         "abbreviation": "AJCC",
         "use": "sigla",
@@ -241,6 +250,15 @@
         "language": "inglés y español",
         "meanings": [
             {"lang": "eng", "meaning": "Adenosine monophosphate", "langTrad": "esp", "meaningTrad": "Monofosfato de adenosina, adenosín monofosfato (menos frecuente)", "abbreviationTrad": "AMP"}
+        ]
+    },
+    {
+        "abbLowerCase": "ampc",
+        "abbreviation": "AMPc",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Monofosfato de adenosina cíclico, adenosín monofosfato cíclico (menos frecuente)", "langTrad": "eng", "meaningTrad": "Cyclic adenosine monophosphate", "abbreviationTrad": "cAMP"}
         ]
     },
     {
@@ -478,6 +496,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Cáncer de mama", "langTrad": "eng", "meaningTrad": "Breast cancer", "abbreviationTrad": "BC"}
+        ]
+    },
+    {
+        "abbLowerCase": "camp",
+        "abbreviation": "cAMP",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Cyclic adenosine monophosphate", "langTrad": "esp", "meaningTrad": "Monofosfato de adenosina cíclico, adenosín monofosfato cíclico (menos frecuente)", "abbreviationTrad": "AMPc"}
         ]
     },
     {
@@ -1002,6 +1029,15 @@
         ]
     },
     {
+        "abbLowerCase": "ecg",
+        "abbreviation": "ECG",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Electrocardiograma", "langTrad": "eng", "meaningTrad": "Electrocardiogram", "abbreviationTrad": "ECG"}
+        ]
+    },
+    {
         "abbLowerCase": "ecv",
         "abbreviation": "ECV",
         "use": "sigla",
@@ -1431,6 +1467,15 @@
         ]
     },
     {
+        "abbLowerCase": "hcm",
+        "abbreviation": "HCM",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Hypertrophic cardiomyopathy", "langTrad": "esp", "meaningTrad": "Cardiomiopatía hipertrófica", "abbreviationTrad": "MCH"}
+        ]
+    },
+    {
         "abbLowerCase": "hd",
         "abbreviation": "HD",
         "use": "sigla",
@@ -1744,7 +1789,7 @@
         "use": "sigla",
         "language": "español",
         "meanings": [
-            {"lang": "esp", "meaning": "Imagen por resonancia magnética", "langTrad": "eng", "meaningTrad": "Magnetic Resonance Imaging", "abbreviationTrad": "MRI"}
+            {"lang": "esp", "meaning": "Imagen por resonancia magnética", "langTrad": "eng", "meaningTrad": "Magnetic resonance imaging", "abbreviationTrad": "MRI"}
         ]
     },
     {
@@ -2028,6 +2073,15 @@
         ]
     },
     {
+        "abbLowerCase": "mch",
+        "abbreviation": "MCH",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Cardiomiopatía hipertrófica", "langTrad": "eng", "meaningTrad": "Hypertrophic cardiomyopathy", "abbreviationTrad": "HCM"}
+        ]
+    },
+    {
         "abbLowerCase": "md",
         "abbreviation": "MD",
         "use": "sigla",
@@ -2178,6 +2232,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Novel oral anticoagulant, non-vitamin K antagonist oral anticoagulant", "langTrad": "esp", "meaningTrad": "Nuevos anticoagulantes oral, anticoagulante oral no antagonista de la vitamina K", "abbreviationTrad": "NACO"}
+        ]
+    },
+    {
+        "abbLowerCase": "nsaid",
+        "abbreviation": "NSAID",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Nonsteroidal anti-inflammatory drug", "langTrad": "esp", "meaningTrad": "Antiinflamatorio no esteroideo", "abbreviationTrad": "AINE"}
         ]
     },
     {
