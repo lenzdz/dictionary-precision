@@ -109,6 +109,15 @@
         ]
     },
     {
+        "abbLowerCase": "adl",
+        "abbreviation": "ADL",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Activities of daily living", "langTrad": "esp", "meaningTrad": "Actividades de la vida diaria", "abbreviationTrad": "AVD"}
+        ]
+    },
+    {
         "abbLowerCase": "adn",
         "abbreviation": "ADN",
         "use": "sigla",
@@ -196,6 +205,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Antiinflamatorio no esteroideo", "langTrad": "eng", "meaningTrad": "Nonsteroidal anti-inflammatory drug", "abbreviationTrad": "NSAID"}
+        ]
+    },
+    {
+        "abbLowerCase": "aivd",
+        "abbreviation": "AIVD",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Actividades instrumentales de la vida diaria", "langTrad": "eng", "meaningTrad": "Instrumental activities of daily living", "abbreviationTrad": "IADL"}
         ]
     },
     {
@@ -361,12 +379,30 @@
         ]
     },
     {
+        "abbLowerCase": "asc",
+        "abbreviation": "ASC",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Área de la superficie corporal", "langTrad": "eng", "meaningTrad": "Body surface area", "abbreviationTrad": "BSA"}
+        ]
+    },
+    {
         "abbLowerCase": "ascvd",
         "abbreviation": "ASCVD",
         "use": "sigla",
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Atherosclerotic cardiovascular disease", "langTrad": "esp", "meaningTrad": "Enfermedad cardiovascular aterosclerótica", "abbreviationTrad": "ECVA"}
+        ]
+    },
+    {
+        "abbLowerCase": "atg",
+        "abbreviation": "ATG",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Antithymocyte globulin", "langTrad": "esp", "meaningTrad": "Globulina antitimocítica", "abbreviationTrad": "ATG, por sus siglas en inglés"}
         ]
     },
     {
@@ -387,6 +423,15 @@
         "language": "inglés y español",
         "meanings": [
             {"lang": "eng", "meaning": "Adenosine triphosphate", "langTrad": "eng", "meaningTrad": "Trifosfato de adenosina, adenosín trifosfato (menos frecuente)", "abbreviationTrad": "ATP"}
+        ]
+    },
+    {
+        "abbLowerCase": "avd",
+        "abbreviation": "AVD",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Actividades de la vida diaria", "langTrad": "eng", "meaningTrad": "Activities of daily living", "abbreviationTrad": "ADL"}
         ]
     },
     {
@@ -450,6 +495,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Benign prostatic hyperplasia", "langTrad": "esp", "meaningTrad": "Hiperplasia prostática benigna", "abbreviationTrad": "HPB"}
+        ]
+    },
+    {
+        "abbLowerCase": "bsa",
+        "abbreviation": "BSA",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Body surface area", "langTrad": "esp", "meaningTrad": "Área de la superficie corporal", "abbreviationTrad": "ASC"}
         ]
     },
     {
@@ -1278,6 +1332,15 @@
         ]
     },
     {
+        "abbLowerCase": "esr",
+        "abbreviation": "ESR",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Erythrocyte sedimentation rate", "langTrad": "esp", "meaningTrad": "Tasa de sedimentación eritrocítica", "abbreviationTrad": "TSE o ESR, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "esrd",
         "abbreviation": "ESRD",
         "use": "sigla",
@@ -1575,6 +1638,15 @@
         ]
     },
     {
+        "abbLowerCase": "hsv",
+        "abbreviation": "HSV",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Herpes simplex virus", "langTrad": "esp", "meaningTrad": "Virus del herpes simple", "abbreviationTrad": "VSH"}
+        ]
+    },
+    {
         "abbLowerCase": "ht",
         "abbreviation": "HT",
         "use": "sigla",
@@ -1599,6 +1671,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Hypertension", "langTrad": "esp", "meaningTrad": "Hipertensión", "abbreviationTrad": "HT"}
+        ]
+    },
+    {
+        "abbLowerCase": "iadl",
+        "abbreviation": "IADL",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Instrumental activities of daily living", "langTrad": "esp", "meaningTrad": "Actividades instrumentales de la vida diaria", "abbreviationTrad": "AIVD"}
         ]
     },
     {
@@ -2393,9 +2474,10 @@
         "abbLowerCase": "pcr",
         "abbreviation": "PCR",
         "use": "sigla",
-        "language": "español",
+        "language": "español e inglés",
         "meanings": [
-            {"lang": "esp", "meaning": "Proteína C reactiva", "langTrad": "eng", "meaningTrad": "C-reactive protein", "abbreviationTrad": "CRP"}
+            {"lang": "esp", "meaning": "Proteína C reactiva", "langTrad": "eng", "meaningTrad": "C-reactive protein", "abbreviationTrad": "CRP"},
+            {"lang": "eng", "meaning": "Polymerase chain reaction", "langTrad": "esp", "meaningTrad": "Reacción en cadena de la polimerasa", "abbreviationTrad": "PCR, por sus siglas en inglés"}
         ]
     },
     {
@@ -2953,6 +3035,15 @@
         ]
     },
     {
+        "abbLowerCase": "sjs",
+        "abbreviation": "SJS",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Síndrome de Stevens-Johnson", "langTrad": "eng", "meaningTrad": "Stevens-Johnson syndrome", "abbreviationTrad": "SJS"}
+        ]
+    },
+    {
         "abbLowerCase": "sle",
         "abbreviation": "SLE",
         "use": "sigla",
@@ -3068,6 +3159,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Terapia anticoagulante oral, tratamiento anticoagulante oral", "langTrad": "eng", "meaningTrad": "Oral anticoagulation therapy, oral anticoagulant therapy, oral anticoagulant treatment", "abbreviationTrad": "OAT"}
+        ]
+    },
+    {
+        "abbLowerCase": "tb",
+        "abbreviation": "TB",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Tuberculosis", "langTrad": "eng", "meaningTrad": "Tuberculosis", "abbreviationTrad": "TB"}
         ]
     },
     {
@@ -3217,6 +3317,15 @@
         ]
     },
     {
+        "abbLowerCase": "tse",
+        "abbreviation": "TSE",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Tasa de sedimentación eritrocítica", "langTrad": "eng", "meaningTrad": "Erythrocyte sedimentation rate", "abbreviationTrad": "ESR"}
+        ]
+    },
+    {
         "abbLowerCase": "tslp",
         "abbreviation": "TSLP",
         "use": "sigla",
@@ -3322,6 +3431,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Very low density lipoprotein", "langTrad": "esp", "meaningTrad": "Lipoproteína de muy baja densidad", "abbreviationTrad": "VLDL, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "vsh",
+        "abbreviation": "VSH",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Virus del herpes simple", "langTrad": "eng", "meaningTrad": "Herpes simplex virus", "abbreviationTrad": "HSV"}
         ]
     },
     {
