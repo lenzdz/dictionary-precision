@@ -1892,6 +1892,15 @@
         ]
     },
     {
+        "abbLowerCase": "itinn",
+        "abbreviation": "ITINN",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Inhibidor de la transcriptasa inversa no análogo de los nucleósidos, análogo de nucleósidos inhibidores de la transcriptasa inversa", "langTrad": "eng", "meaningTrad": "Non-nucleoside analogue reverse transcriptase inhibitor, non-nucleoside reverse transcriptase inhibitor", "abbreviationTrad": "NNRTI"}
+        ]
+    },
+    {
         "abbLowerCase": "itr",
         "abbreviation": "ITR",
         "use": "sigla",
@@ -2304,6 +2313,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Neodjuvant chemotherapy", "langTrad": "esp", "meaningTrad": "Quimioterapia neoadyuvante", "abbreviationTrad": "QTN"}
+        ]
+    },
+    {
+        "abbLowerCase": "nnrti",
+        "abbreviation": "NNRTI",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Non-nucleoside analogue reverse transcriptase inhibitor, non-nucleoside reverse transcriptase inhibitor", "langTrad": "esp", "meaningTrad": "Inhibidor de la transcriptasa inversa no análogo de los nucleósidos, análogo de nucleósidos inhibidores de la transcriptasa inversa", "abbreviationTrad": "ITINN"}
         ]
     },
     {
@@ -2886,7 +2904,8 @@
         "use": "sigla",
         "language": "español e inglés",
         "meanings": [
-                {"lang": "esp", "meaning": "Radioterapia", "langTrad": "eng", "meaningTrad": "Radiotherapy", "abbreviationTrad": "RT"}
+                {"lang": "esp", "meaning": "Radioterapia", "langTrad": "eng", "meaningTrad": "Radiotherapy", "abbreviationTrad": "RT"},
+                {"lang": "eng", "meaning": "Reverse transcriptase", "langTrad": "esp", "meaningTrad": "Transcriptasa inversa", "abbreviationTrad": "TI"}
         ]
     },
     {
@@ -3240,7 +3259,16 @@
         "use": "sigla",
         "language": "español",
         "meanings": [
-            {"lang": "eng", "meaning": "Tasa de filtración glomerular estimada", "langTrad": "esp", "meaningTrad": "Estimated glomerular filtration rate", "abbreviationTrad": "eGFR"}
+            {"lang": "esp", "meaning": "Tasa de filtración glomerular estimada", "langTrad": "eng", "meaningTrad": "Estimated glomerular filtration rate", "abbreviationTrad": "eGFR"}
+        ]
+    },
+    {
+        "abbLowerCase": "ti",
+        "abbreviation": "TI",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Transcriptasa inversa", "langTrad": "esp", "meaningTrad": "Reverse transcriptase", "abbreviationTrad": "RT"}
         ]
     },
     {
