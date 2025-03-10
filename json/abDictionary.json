@@ -226,6 +226,24 @@
         ]
     },
     {
+        "abbLowerCase": "aki",
+        "abbreviation": "AKI",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Acute kidney injury", "langTrad": "esp", "meaningTrad": "Lesión renal aguda", "abbreviationTrad": "LRA"}
+        ]
+    },
+    {
+        "abbLowerCase": "akf",
+        "abbreviation": "AKF",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Acute kidney failure", "langTrad": "esp", "meaningTrad": "Insuficiencia renal aguda", "abbreviationTrad": "IRA"}
+        ]
+    },
+    {
         "abbLowerCase": "all",
         "abbreviation": "ALL",
         "use": "sigla",
@@ -331,6 +349,15 @@
         "language": "español e inglés",
         "meanings": [
             {"lang": "esp", "meaning": "Apolipoproteína B", "langTrad": "eng", "meaningTrad": "Apolipoprotein B", "abbreviationTrad": "apoB"}
+        ]
+    },   
+    {
+        "abbLowerCase": "arf",
+        "abbreviation": "ARF",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Acute renal failure", "langTrad": "esp", "meaningTrad": "Insuficiencia renal aguda", "abbreviationTrad": "IRA"}
         ]
     },
     {
@@ -1856,12 +1883,22 @@
         ]
     },
     {
+        "abbLowerCase": "ir",
+        "abbreviation": "IR",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Insuficiencia renal", "langTrad": "eng", "meaningTrad": "Kidney failure", "abbreviationTrad": "KF"}
+        ]
+    },
+    {
         "abbLowerCase": "ira",
         "abbreviation": "IRA",
         "use": "sigla",
         "language": "español",
         "meanings": [
-            {"lang": "esp", "meaning": "Infección respiratoria aguda", "langTrad": "eng", "meaningTrad": "Acute respiratory infection", "abbreviationTrad": "ARI"}
+            {"lang": "esp", "meaning": "Infección respiratoria aguda", "langTrad": "eng", "meaningTrad": "Acute respiratory infection", "abbreviationTrad": "ARI"},
+            {"lang": "esp", "meaning": "Insuficiencia renal aguda", "langTrad": "eng", "meaningTrad": "Acute kidney failure", "abbreviationTrad": "AKF"}
         ]
     },
     {
@@ -1980,6 +2017,15 @@
         "meanings": [
             {"lang": "eng", "meaning": "Kidney disease", "langTrad": "esp", "meaningTrad": "Enfermedad renal", "abbreviationTrad": "ER"},
             {"lang": "eng", "meaning": "Kawasaki disease", "langTrad": "esp", "meaningTrad": "Enfermedad de Kawasaki", "abbreviationTrad": "EK"}
+        ]
+    },
+    {
+        "abbLowerCase": "kf",
+        "abbreviation": "KF",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Kidney failure", "langTrad": "esp", "meaningTrad": "Insuficiencia renal", "abbreviationTrad": "IR"}
         ]
     },
     {
@@ -2115,6 +2161,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Liberación prolongada", "langTrad": "eng", "meaningTrad": "Extended release", "abbreviationTrad": "ER"}
+        ]
+    },
+    {
+        "abbLowerCase": "lra",
+        "abbreviation": "LRA",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Lesión renal aguda", "langTrad": "eng", "meaningTrad": "Acute kidney injury", "abbreviationTrad": "AKI"}
         ]
     },
     {
