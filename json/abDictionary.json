@@ -453,6 +453,15 @@
         ]
     },
     {
+        "abbLowerCase": "auc",
+        "abbreviation": "AUC",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Area under the curve", "langTrad": "esp", "meaningTrad": "Área bajo la curva", "abbreviationTrad": "AUC, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "avd",
         "abbreviation": "AVD",
         "use": "sigla",
