@@ -2380,6 +2380,15 @@
         ]
     },
     {
+        "abbLowerCase": "nibut",
+        "abbreviation": "NIBUT",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Non-invasive break-up time", "langTrad": "esp", "meaningTrad": "Tiempo de ruptura lagrimal no invasivo", "abbreviationTrad": "NIBUT, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "nnrti",
         "abbreviation": "NNRTI",
         "use": "sigla",
@@ -2485,6 +2494,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Overall survival", "langTrad": "esp", "meaningTrad": "Supervivencia global", "abbreviationTrad": "SG"}
+        ]
+    },
+    {
+        "abbLowerCase": "osdi",
+        "abbreviation": "OSDI",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Ocular surface disease index", "langTrad": "esp", "meaningTrad": "Índice de la enfermedad de la superficie ocular", "abbreviationTrad": "OSDI, por sus siglas en inglés"}
         ]
     },
     {
