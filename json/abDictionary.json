@@ -933,7 +933,7 @@
         "use": "sigla",
         "language": "inglés",
         "meanings": [
-            {"lang": "eng", "meaning": "Disease-free survival", "langTrad": "esp", "meaningTrad": "Supervivencia libre de enfermedad", "abbreviationTrad": "SLE"}
+            {"lang": "eng", "meaning": "Disease-free survival", "langTrad": "esp", "meaningTrad": "Supervivencia libre de enfermedad, supervivencia sin enfermedad (menos frecuente)", "abbreviationTrad": "SLE o SSE"}
         ]
     },
     {
@@ -3224,6 +3224,15 @@
         "language": "inglés",
         "meanings": [
                 {"lang": "eng", "meaning": "Salvage radiotherapy", "langTrad": "esp", "meaningTrad": "Radioterapia de rescate, radioterapia de salvamento", "abbreviationTrad": "RTR o RTS"}
+        ]
+    },
+    {
+        "abbLowerCase": "sse",
+        "abbreviation": "SSE",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+                {"lang": "esp", "meaning": "Supervivencia sin enfermedad", "langTrad": "eng", "meaningTrad": "Disease-free survival", "abbreviationTrad": "DFS"}
         ]
     },
     {
