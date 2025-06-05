@@ -244,12 +244,30 @@
         ]
     },
     {
+        "abbLowerCase": "alat",
+        "abbreviation": "ALAT",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Alanine aminotransferase", "langTrad": "esp", "meaningTrad": "Alanina aminotransferasa", "abbreviationTrad": "ALT"}
+        ]
+    },
+    {
         "abbLowerCase": "all",
         "abbreviation": "ALL",
         "use": "sigla",
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Acute lymphocytic leukemia", "langTrad": "esp", "meaningTrad": "Leucemia linfoblástica aguda", "abbreviationTrad": "LLA"}
+        ]
+    },
+    {
+        "abbLowerCase": "alt",
+        "abbreviation": "ALT",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Alanine aminotransferase", "langTrad": "esp", "meaningTrad": "Alanina aminotransferasa", "abbreviationTrad": "ALT"}
         ]
     },
     {
@@ -680,6 +698,15 @@
         ]
     },
     {
+        "abbLowerCase": "ck",
+        "abbreviation": "CK",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Creatine kinase", "langTrad": "esp", "meaningTrad": "Creatina cinasa", "abbreviationTrad": "CPK", "notes": "también conocida como «creatine phosphokinase» (CPK) en inglés y «creatina fosfocinasa» (CPK) en español"}
+        ]
+    },
+    {
         "abbLowerCase": "ckd",
         "abbreviation": "CKD",
         "use": "sigla",
@@ -743,6 +770,15 @@
         ]
     },
     {
+        "abbLowerCase": "cpk",
+        "abbreviation": "CPK",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Creatine phosphokinase, phosphocreatine kinase", "langTrad": "esp", "meaningTrad": "Creatina fosfocinasa", "abbreviationTrad": "CPK", "notes": "también conocida como «creatine kinase» (CK) en inglés y «creatina cinasa» (CK) en español"}
+        ]
+    },
+    {
         "abbLowerCase": "cpm",
         "abbreviation": "CPM",
         "use": "sigla",
@@ -779,6 +815,15 @@
         ]
     },
     {
+        "abbLowerCase": "cpre",
+        "abbreviation": "CPRE",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Colangiopancreatografía retrógrada endoscópica", "langTrad": "eng", "meaningTrad": "Endoscopic retrograde cholangiopancreatography", "abbreviationTrad": "ERCP"}
+        ]
+    },
+    {
         "abbLowerCase": "cr",
         "abbreviation": "CR",
         "use": "sigla",
@@ -795,15 +840,6 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "C-reactive protein", "langTrad": "esp", "meaningTrad": "Proteína C reactiva", "abbreviationTrad": "PCR"}
-        ]
-    },
-    {
-        "abbLowerCase": "cpre",
-        "abbreviation": "CPRE",
-        "use": "sigla",
-        "language": "español",
-        "meanings": [
-            {"lang": "esp", "meaning": "Colangiopancreatografía retrógrada endoscópica", "langTrad": "eng", "meaningTrad": "Endoscopic retrograde cholangiopancreatography", "abbreviationTrad": "ERCP"}
         ]
     },
     {
@@ -2227,6 +2263,15 @@
         ]
     },
     {
+        "abbLowerCase": "mace",
+        "abbreviation": "MACE",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Major adverse cardiac events", "langTrad": "esp", "meaningTrad": "Eventos cardiovasculares adversos mayores", "abbreviationTrad": "MACE, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "mch",
         "abbreviation": "MCH",
         "use": "sigla",
@@ -2404,6 +2449,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Novel oral anticoagulant, non-vitamin K antagonist oral anticoagulant", "langTrad": "esp", "meaningTrad": "Nuevos anticoagulantes oral, anticoagulante oral no antagonista de la vitamina K", "abbreviationTrad": "NACO"}
+        ]
+    },
+    {
+        "abbLowerCase": "nr1c1",
+        "abbreviation": "NR1C1",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Nuclear receptor subfamily 1, group C, member 1", "langTrad": "esp", "meaningTrad": "Receptor nuclear subfamilia 1, grupo C, miembro 1", "abbreviationTrad": "NR1C1"}
         ]
     },
     {
@@ -2724,6 +2778,42 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Péptido natriurético cerebral", "langTrad": "eng", "meaningTrad": "Brain natriuretic peptide", "abbreviationTrad": "BNP"}
+        ]
+    },
+    {
+        "abbLowerCase": "ppara",
+        "abbreviation": "PPARa",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Peroxisome proliferator-activated receptor alpha", "langTrad": "esp", "meaningTrad": "Receptor activado por el proliferador de peroxisomas alfa", "abbreviationTrad": "PPAR-α", "notes": "también conocido como NR1C1 (subfamilia 1 de receptores nucleares, grupo C, miembro 1)"}
+        ]
+    },
+    {
+        "abbLowerCase": "ppar-a",
+        "abbreviation": "PPAR-a",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Peroxisome proliferator-activated receptor alpha", "langTrad": "esp", "meaningTrad": "Receptor activado por el proliferador de peroxisomas alfa", "abbreviationTrad": "PPAR-α", "notes": "también conocido como NR1C1 (subfamilia 1 de receptores nucleares, grupo C, miembro 1)"}
+        ]
+    },
+    {
+        "abbLowerCase": "pparα",
+        "abbreviation": "PPARα",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Peroxisome proliferator-activated receptor alpha", "langTrad": "esp", "meaningTrad": "Receptor activado por el proliferador de peroxisomas alfa", "abbreviationTrad": "PPAR-α", "notes": "también conocido como NR1C1 (subfamilia 1 de receptores nucleares, grupo C, miembro 1)"}
+        ]
+    },
+    {
+        "abbLowerCase": "ppar-α",
+        "abbreviation": "PPAR-α",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Peroxisome proliferator-activated receptor alpha", "langTrad": "esp", "meaningTrad": "Receptor activado por el proliferador de peroxisomas alfa", "abbreviationTrad": "PPAR-α", "notes": "también conocido como NR1C1 (subfamilia 1 de receptores nucleares, grupo C, miembro 1)"}
         ]
     },
     {

@@ -156,7 +156,6 @@ request.onload = function () {
 
             let meanings = ``;
             element.meanings.forEach (function(definition) {
-
                 let meaning = highlightMatch(definition.meaning, searchedWord);
                 meaning = highlightInexactMatch(meaning, searchedWord);
 
@@ -166,11 +165,17 @@ request.onload = function () {
                 meaning = mayusCorrection(definition.meaning, meaning);
                 meaningTrad = mayusCorrection(definition.meaningTrad, meaningTrad);
 
+                let notes = definition.notes === undefined ? 
+                    ``: 
+                    `<br />
+                    <span style="color: var(--gray)"><em>Notas: ${definition.notes}.</em></span>`;
+                    
                 meanings += `
                 <li>
                     ${definition.lang}. ${meaning}.
                     <br />
                     <span style="color: var(--color1)">trad. ${definition.langTrad}. ${meaningTrad} (${definition.abbreviationTrad}).</span>
+                    ${notes}
                 </li>`;
             })
 
