@@ -191,7 +191,7 @@
         ]
     },
     {
-        "abbLowerCase": "ahbm",
+        "abbLowerCase": "ahmb",
         "abbreviation": "AHMB",
         "use": "sigla",
         "language": "inglés",
@@ -535,6 +535,15 @@
         ]
     },
     {
+        "abbLowerCase": "bcva",
+        "abbreviation": "BCVA",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Best corrected visual acuity", "langTrad": "esp", "meaningTrad": "Mejor agudeza visual corregida", "abbreviationTrad": "BCVA, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "bid",
         "abbreviation": "BID",
         "use": "sigla",
@@ -686,6 +695,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Concurrent chemoradiotherapy", "langTrad": "esp", "meaningTrad": "Quimiorradioterapia concurrente, quimiorradioterapia concomitante", "abbreviationTrad": "QRC o QRTC"}
+        ]
+    },
+    {
+        "abbLowerCase": "cct",
+        "abbreviation": "CCT",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Central corneal thickness", "langTrad": "esp", "meaningTrad": "Grosor corneal central", "abbreviationTrad": "CCT, por sus siglas en inglés"}
         ]
     },
     {
@@ -1174,6 +1192,15 @@
         ]
     },
     {
+        "abbLowerCase": "ecd",
+        "abbreviation": "ECD",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Endothelial cell density", "langTrad": "esp", "meaningTrad": "Densidad de células endoteliales", "abbreviationTrad": "ECD, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "ecog",
         "abbreviation": "ECOG",
         "use": "sigla",
@@ -1211,6 +1238,15 @@
         ]
     },
     {
+        "abbLowerCase": "edof",
+        "abbreviation": "EDOF",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Extended depth of field", "langTrad": "esp", "meaningTrad": "Profundidad de foco extendido", "abbreviationTrad": "EDOF, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "ee",
         "abbreviation": "EE",
         "use": "sigla",
@@ -1226,6 +1262,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Estado funcional", "langTrad": "eng", "meaningTrad": "Functional status", "abbreviationTrad": "FS"}
+        ]
+    },
+    {
+        "abbLowerCase": "efa",
+        "abbreviation": "EFA",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Effective fluid aspiration", "langTrad": "esp", "meaningTrad": "Aspiración efectiva de fluido", "abbreviationTrad": "EFA, por sus siglas en inglés"}
         ]
     },
     {
@@ -1477,6 +1522,15 @@
         ]
     },
     {
+        "abbLowerCase": "faz",
+        "abbreviation": "FAZ",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Foveal avascular zone", "langTrad": "esp", "meaningTrad": "Zona avascular foveal", "abbreviationTrad": "FAZ, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "fanv",
         "abbreviation": "FANV",
         "use": "sigla",
@@ -1564,6 +1618,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Glomerular filtration rate", "langTrad": "esp", "meaningTrad": "Tasa de filtración glomerular", "abbreviationTrad": "TFG"}
+        ]
+    },
+    {
+        "abbLowerCase": "gfs",
+        "abbreviation": "GFS",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Gravity fluidics system", "langTrad": "esp", "meaningTrad": "Sistema de fluídica por gravedad", "abbreviationTrad": "GFS, por sus siglas en inglés"}
         ]
     },
     {
