@@ -480,6 +480,15 @@
         ]
     },
     {
+        "abbLowerCase": "av",
+        "abbreviation": "AV",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Agudeza visual", "langTrad": "eng", "meaningTrad": "Visual acuity", "abbreviationTrad": "VA"}
+        ]
+    },
+    {
         "abbLowerCase": "avd",
         "abbreviation": "AVD",
         "use": "sigla",
@@ -666,7 +675,7 @@
         "use": "sigla",
         "language": "inglés",
         "meanings": [
-            {"lang": "eng", "meaning": "Confidential disclosure agreement", "langTrad": "esp", "meaningTrad": "Acuerdo de divulgación confidencial", "abbreviationTrad": "ADC"}
+            {"lang": "eng", "meaning": "Confidential disclosure agreement", "langTrad": "esp", "meaningTrad": "Acuerdo de divulgación confidencial", "abbreviationTrad": "ADC", "notes": "también denominado «acuerdo de confidencialidad»"}
         ]
     },
     {
@@ -703,7 +712,7 @@
         "use": "sigla",
         "language": "inglés y español",
         "meanings": [
-            {"lang": "eng", "meaning": "Creatine kinase", "langTrad": "esp", "meaningTrad": "Creatina cinasa", "abbreviationTrad": "CPK", "notes": "también conocida como «creatine phosphokinase» (CPK) en inglés y «creatina fosfocinasa» (CPK) en español"}
+            {"lang": "eng", "meaning": "Creatine kinase", "langTrad": "esp", "meaningTrad": "Creatina cinasa", "abbreviationTrad": "CK, por sus siglas en inglés", "notes": "también conocida como «creatine phosphokinase» (CPK) en inglés y «creatina fosfocinasa» (CPK) en español"}
         ]
     },
     {
@@ -1910,6 +1919,15 @@
         ]
     },
     {
+        "abbLowerCase": "iop",
+        "abbreviation": "IOP",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Intraocular pressure", "langTrad": "esp", "meaningTrad": "Presión intraocular", "abbreviationTrad": "PIO"}
+        ]
+    },
+    {
         "abbLowerCase": "iot",
         "abbreviation": "IOT",
         "use": "sigla",
@@ -2430,7 +2448,7 @@
         "use": "sigla",
         "language": "inglés",
         "meanings": [
-            {"lang": "eng", "meaning": "Non-disclosure agreement", "langTrad": "esp", "meaningTrad": "Acuerdo de no divulgación, acuerdo de confidencialidad", "abbreviationTrad": "ADC o NDA, por sus siglas en inglés"}
+            {"lang": "eng", "meaning": "Non-disclosure agreement", "langTrad": "esp", "meaningTrad": "Acuerdo de confidencialidad", "abbreviationTrad": "ADC o NDA, por sus siglas en inglés", "notes": "también denominado «acuerdo de divulgación confidencial»"}
         ]
     },
     {
@@ -2760,6 +2778,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Progression-free survival", "langTrad": "esp", "meaningTrad": "Supervivencia libre de progresión", "abbreviationTrad": "SLP"}
+        ]
+    },
+    {
+        "abbLowerCase": "pio",
+        "abbreviation": "PIO",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Presión intraocular", "langTrad": "eng", "meaningTrad": "Intraocular pressure", "abbreviationTrad": "IOP"}
         ]
     },
     {
@@ -3595,6 +3622,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Upper respiratory tract infection", "langTrad": "esp", "meaningTrad": "Infección del tracto respiratorio superior, infección de las vías respiratorias altas", "abbreviationTrad": "ITRS, IVRA o URTI, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "va",
+        "abbreviation": "VA",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Visual acuity", "langTrad": "esp", "meaningTrad": "Agudeza visual", "abbreviationTrad": "AV"}
         ]
     },
     {
