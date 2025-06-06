@@ -168,7 +168,7 @@ request.onload = function () {
                 let notes = definition.notes === undefined ? 
                     ``: 
                     `<br />
-                    <span style="color: var(--gray)"><em>Notas: ${definition.notes}.</em></span>`;
+                    <span style="color: var(--gray)">Notas: ${definition.notes}.</span>`;
                     
                 meanings += `
                 <li>
