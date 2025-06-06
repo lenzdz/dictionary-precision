@@ -4,6 +4,7 @@
 /* Colores */
 :root {
     --color1: #3f7cff;
+    --color2: #EA3546;
     --black: #000000;
     --gray: #999999;
     --white: #FFFFFF;
@@ -22,6 +23,7 @@ body {
     justify-content: center;
     min-height: 100vh;
     background: var(--color1);
+    background: linear-gradient(152deg,var(--color1) 35%, var(--color2) 100%);
 }
 
 .wrapper {
@@ -162,9 +164,28 @@ ul .content::-webkit-scrollbar-thumb{
 }
 
 .content li .details {
+    position: relative;
     padding-left: 10px;
     border-radius: 4px 0 0 4px;
+}
+
+.content li .detailsJustEng {
+    border-left: 3px solid var(--color2);
+}
+
+.content li .detailsJustEsp {
     border-left: 3px solid var(--color1);
+}
+
+.content li .detailsEngEsp::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 3px;
+    border-radius: 4px 0 0 4px;
+    height: 100%;
+    background: linear-gradient(to bottom, var(--color1), var(--color2));
 }
 
 .content li .details p {

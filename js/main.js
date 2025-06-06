@@ -155,6 +155,8 @@ request.onload = function () {
             language = element.language;
 
             let meanings = ``;
+            let engDefinition = 0;
+            let espDefinition = 0;
             element.meanings.forEach (function(definition) {
                 let meaning = highlightMatch(definition.meaning, searchedWord);
                 meaning = highlightInexactMatch(meaning, searchedWord);
@@ -165,6 +167,14 @@ request.onload = function () {
                 meaning = mayusCorrection(definition.meaning, meaning);
                 meaningTrad = mayusCorrection(definition.meaningTrad, meaningTrad);
 
+                let tradColor = definition.lang == "esp" ? `--color1`:`--color2`;
+
+                if (definition.lang == "esp") {
+                    espDefinition = 1;
+                } else {
+                    engDefinition = 1;
+                }
+
                 let notes = definition.notes === undefined ? 
                     ``: 
                     `<br />
@@ -174,22 +184,23 @@ request.onload = function () {
                 <li>
                     ${definition.lang}. ${meaning}.
                     <br />
-                    <span style="color: var(--color1)">trad. ${definition.langTrad}. ${meaningTrad} (${definition.abbreviationTrad}).</span>
+                    <span style="color: var(${tradColor})">trad. ${definition.langTrad}. ${meaningTrad} (${definition.abbreviationTrad}).</span>
                     ${notes}
                 </li>`;
             })
+        
+            let detailsClass = "";
+            if (espDefinition == 1 && engDefinition == 1) {
+                detailsClass = "detailsEngEsp";
+            } else if (espDefinition == 1 && engDefinition == 0) {
+                detailsClass = "detailsJustEsp";
+            } else {
+                detailsClass = "detailsJustEng";
+            }
 
-            // Term's first letter will be upper case
-            //term = element.term.charAt(0).toUpperCase() + element.term.slice(1);
-            // Highlight search in found element
-            //term = term.replace(new RegExp(searchedWord, "gi"), (match) => `<mark>${match}</mark>`);
-            
-            //termEng = element.termEng.replace(new RegExp(searchedWord, "gi"), (match) => `<mark>${match}</mark>`);
-            //abbreviationEng = element.abbreviationEng.replace(new RegExp(searchedWord, "gi"), (match) => `<mark>${match}</mark>`);
-            
             document.querySelector(".content").innerHTML += `
                     <li class="item">
-                        <div class="details">
+                        <div class="details ${detailsClass}">
                             <p>` + abbreviation + `</p>
                             <span class="use">Utilizada como ${use} en ${language}.</span>
                             <br />

@@ -1259,7 +1259,7 @@
         "abbLowerCase": "eich",
         "abbreviation": "EICH",
         "use": "sigla",
-        "language": "inglés",
+        "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Enfermedad de injerto contra huésped", "langTrad": "eng", "meaningTrad": "Graft versus host disease", "abbreviationTrad": "GvHD"}
         ]
