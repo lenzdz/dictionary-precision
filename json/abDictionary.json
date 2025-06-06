@@ -303,7 +303,7 @@
         "use": "sigla",
         "language": "inglés y español",
         "meanings": [
-            {"lang": "eng", "meaning": "Adenosine monophosphate", "langTrad": "esp", "meaningTrad": "Monofosfato de adenosina, adenosín monofosfato (menos frecuente)", "abbreviationTrad": "AMP"}
+            {"lang": "eng", "meaning": "Adenosine monophosphate", "langTrad": "esp", "meaningTrad": "Monofosfato de adenosina, adenosín monofosfato (menos frecuente)", "abbreviationTrad": "AMP", "notes": "también conocido como «adenosina monofosfato», «adenosín monofosfato» (formas no incorrectas, pero no las más comúnes ni preferidas) o «ácido 5’-adenílico»"}
         ]
     },
     {
@@ -1901,6 +1901,15 @@
         ]
     },
     {
+        "abbLowerCase": "iol",
+        "abbreviation": "IOL",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Intraocular lens", "langTrad": "esp", "meaningTrad": "Lente intraocular", "abbreviationTrad": "LIO", "notes": "puede ser utilizado como femenino o masculino en español"}
+        ]
+    },
+    {
         "abbLowerCase": "iot",
         "abbreviation": "IOT",
         "use": "sigla",
@@ -2003,7 +2012,7 @@
     {
         "abbLowerCase": "itrs",
         "abbreviation": "ITRS",
-        "use": "abreviatura",
+        "use": "sigla",
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Infección del tracto respiratorio superior", "langTrad": "eng", "meaningTrad": "Upper respiratory tract infection", "abbreviationTrad": "URTI"}
@@ -2170,6 +2179,15 @@
         "language": "inglés y español",
         "meanings": [
             {"lang": "eng", "meaning": "Luteinizing hormone-releasing hormone", "langTrad": "esp", "meaningTrad": "Hormona liberadora de hormona luteinizante", "abbreviationTrad": "LHRH"}
+        ]
+    },
+    {
+        "abbLowerCase": "lio",
+        "abbreviation": "LIO",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Lente intraocular", "langTrad": "eng", "meaningTrad": "Intraocular lens", "abbreviationTrad": "IOL", "notes": "puede ser utilizado como femenino o masculino en español"}
         ]
     },
     {
@@ -3564,7 +3582,7 @@
     {
         "abbLowerCase": "uri",
         "abbreviation": "URI",
-        "use": "abreviatura",
+        "use": "sigla",
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Upper respiratory tract infection", "langTrad": "esp", "meaningTrad": "Infección del tracto respiratorio superior, infección de las vías respiratorias altas", "abbreviationTrad": "ITRS, IVRA o URTI, por sus siglas en inglés"}
