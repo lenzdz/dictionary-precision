@@ -30,9 +30,10 @@
         "abbLowerCase": "ac",
         "abbreviation": "AC",
         "use": "sigla",
-        "language": "inglés",
+        "language": "inglés y español",
         "meanings": [
-            {"lang": "eng", "meaning": "Adjuvant chemotherapy", "langTrad": "esp", "meaningTrad": "Quimioterapia adyuvante", "abbreviationTrad": "QTA"}
+            {"lang": "eng", "meaning": "Adjuvant chemotherapy", "langTrad": "esp", "meaningTrad": "Quimioterapia adyuvante", "abbreviationTrad": "QTA"},
+            {"lang": "eng", "meaning": "Anterior chamber", "langTrad": "esp", "meaningTrad": "Cámara anterior", "abbreviationTrad": "AC, por sus siglas en inglés"}
         ]
     },
     {
@@ -172,12 +173,30 @@
         ]
     },
     {
+        "abbLowerCase": "afs",
+        "abbreviation": "AFS",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Active-fluidics system", "langTrad": "esp", "meaningTrad": "Sistema de fluídica activa", "abbreviationTrad": "AFS, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "aha",
         "abbreviation": "AHA",
         "use": "sigla",
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "American Heart Asociation", "langTrad": "esp", "meaningTrad": "Asociación Americana del Corazón", "abbreviationTrad": "AHA, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "ahbm",
+        "abbreviation": "AHMB",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Anterior hyaloid membrane barrier", "langTrad": "esp", "meaningTrad": "Barrera de la membrana hialoidea anterior", "abbreviationTrad": "AHMB, por sus siglas en inglés"}
         ]
     },
     {
