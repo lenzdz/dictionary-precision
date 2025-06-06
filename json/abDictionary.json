@@ -321,9 +321,10 @@
         "abbLowerCase": "aml",
         "abbreviation": "AML",
         "use": "sigla",
-        "language": "inglés",
+        "language": "inglés y español",
         "meanings": [
-            {"lang": "eng", "meaning": "Acute myeloid leukemia", "langTrad": "esp", "meaningTrad": "Leucemia mieloide aguda", "abbreviationTrad": "LMA"}
+            {"lang": "eng", "meaning": "Acute myeloid leukemia", "langTrad": "esp", "meaningTrad": "Leucemia mieloide aguda", "abbreviationTrad": "LMA"},
+            {"lang": "esp", "meaning": "Altura del menisco lagrimal", "langTrad": "eng", "meaningTrad": "Tear meniscus height", "abbreviationTrad": "TMH"}
         ]
     },
     {
@@ -1026,6 +1027,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Disease-free survival", "langTrad": "esp", "meaningTrad": "Supervivencia libre de enfermedad, supervivencia sin enfermedad (menos frecuente)", "abbreviationTrad": "SLE o SSE"}
+        ]
+    },
+    {
+        "abbLowerCase": "dgm",
+        "abbreviation": "DGM",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Disfunción de las glándulas de Meibomio", "langTrad": "eng", "meaningTrad": "Meibomian gland dysfunction", "abbreviationTrad": "MGD"}
         ]
     },
     {
@@ -2220,6 +2230,15 @@
         ]
     },
     {
+        "abbLowerCase": "kol",
+        "abbreviation": "KOL",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Key opinion leader", "langTrad": "esp", "meaningTrad": "Líder de opinión clave", "abbreviationTrad": "KOL, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "ks",
         "abbreviation": "Ks",
         "use": "sigla",
@@ -2487,6 +2506,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Mortalidad específica por cáncer de próstata", "langTrad": "eng", "meaningTrad": "Prostate cancer–specific mortality", "abbreviationTrad": "PCSM"}
+        ]
+    },
+    {
+        "abbLowerCase": "mgd",
+        "abbreviation": "MGD",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Meibomian gland dysfunction", "langTrad": "esp", "meaningTrad": "Disfunción de las glándulas de Meibomio", "abbreviationTrad": "DGM"}
         ]
     },
     {
@@ -3033,6 +3061,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Partial response", "langTrad": "esp", "meaningTrad": "Respuesta parcial", "abbreviationTrad": "RP"}
+        ]
+    },
+    {
+        "abbLowerCase": "prt",
+        "abbreviation": "PRT",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Phenol red thread test", "langTrad": "esp", "meaningTrad": "Prueba del rojo de fenol", "abbreviationTrad": "PRT, por sus siglas en inglés"}
         ]
     },
     {
@@ -3690,6 +3727,15 @@
         ]
     },
     {
+        "abbLowerCase": "tmh",
+        "abbreviation": "TMH",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Tear meniscus height", "langTrad": "esp", "meaningTrad": "Altura del menisco lagrimal", "abbreviationTrad": "AML"}
+        ]
+    },
+    {
         "abbLowerCase": "tmj",
         "abbreviation": "TMJ",
         "use": "sigla",
@@ -3904,6 +3950,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "World Health Organization", "langTrad": "esp", "meaningTrad": "Organización Mundial de la Salud", "abbreviationTrad": "OMS"}
+        ]
+    },
+    {
+        "abbLowerCase": "wtw",
+        "abbreviation": "WTW",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "White to white", "langTrad": "esp", "meaningTrad": "Distancia blanco-blanco", "abbreviationTrad": "WTW, por sus siglas en inglés"}
         ]
     },
     {
