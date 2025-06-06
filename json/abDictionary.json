@@ -49,8 +49,9 @@
         "abbLowerCase": "acd",
         "abbreviation": "ACD",
         "use": "sigla",
-        "language": "inglés",
+        "language": "inglés y español",
         "meanings": [
+            {"lang": "eng", "meaning": "Anterior chamber depth", "langTrad": "esp", "meaningTrad": "Profundidad de la cámara anterior", "abbreviationTrad": "ACD, por sus siglas en inglés"},
             {"lang": "eng", "meaning": "Atherosclerotic cerebrovascular disease", "langTrad": "esp", "meaningTrad": "Enfermedad cerebrovascular aterosclerótica", "abbreviationTrad": "ECVA"}
         ]
     },
@@ -260,6 +261,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Acute kidney failure", "langTrad": "esp", "meaningTrad": "Insuficiencia renal aguda", "abbreviationTrad": "IRA"}
+        ]
+    },
+    {
+        "abbLowerCase": "al",
+        "abbreviation": "AL",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Axial length", "langTrad": "esp", "meaningTrad": "Longitud axial", "abbreviationTrad": "LA o AL, por sus siglas en inglés"}
         ]
     },
     {
@@ -1156,6 +1166,24 @@
         ]
     },
     {
+        "abbLowerCase": "dtc",
+        "abbreviation": "DTC",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Direct-to-consumer", "langTrad": "esp", "meaningTrad": "Directo al consumidor", "abbreviationTrad": "DTC, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "dtp",
+        "abbreviation": "DTP",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Direct-to-patient", "langTrad": "esp", "meaningTrad": "Directo al paciente", "abbreviationTrad": "DTP, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "dvt",
         "abbreviation": "DVT",
         "use": "sigla",
@@ -1344,6 +1372,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Enfermedad de Kawasaki", "langTrad": "eng", "meaningTrad": "Kawasaki disease", "abbreviationTrad": "KD"}
+        ]
+    },
+    {
+        "abbLowerCase": "elp",
+        "abbreviation": "ELP",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Effective lens position", "langTrad": "esp", "meaningTrad": "Posición efectiva de la lente", "abbreviationTrad": "ELP, por sus siglas en inglés"}
         ]
     },
     {
@@ -2183,6 +2220,15 @@
         ]
     },
     {
+        "abbLowerCase": "ks",
+        "abbreviation": "Ks",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Keratometry", "langTrad": "esp", "meaningTrad": "Queratometría", "abbreviationTrad": "Ks, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "laba",
         "abbreviation": "LABA",
         "use": "sigla",
@@ -2198,6 +2244,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Long-acting muscarinic antagonist", "langTrad": "esp", "meaningTrad": "Antagonistas muscarínicos de acción prolongada", "abbreviationTrad": "AMAP"}
+        ]
+    },
+    {
+        "abbLowerCase": "lasik",
+        "abbreviation": "LASIK",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Laser-assisted in situ keratomileusis", "langTrad": "esp", "meaningTrad": "Queratomileusis in situ asistida por láser", "abbreviationTrad": "LASIK, por sus siglas en inglés"}
         ]
     },
     {
@@ -2351,6 +2406,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Lower respiratory tract infection", "langTrad": "esp", "meaningTrad": "Infección del tracto respiratorio inferior, infección de las vías respiratorias altas", "abbreviationTrad": "ITRI, IVRB"}
+        ]
+    },
+    {
+        "abbLowerCase": "lt",
+        "abbreviation": "LT",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Lens thickness", "langTrad": "esp", "meaningTrad": "Grosor del lente, grosor de la lente", "abbreviationTrad": "LT, por sus siglas en inglés", "notes": "si utiliza «lente» como sustantivo masculino, deberá utilizar «del»; si utiliza «lente» como sustantivo femenino, deberá utilizar «de la»"}
         ]
     },
     {
@@ -2696,6 +2760,15 @@
         ]
     },
     {
+        "abbLowerCase": "ovd",
+        "abbreviation": "OVD",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Ophthalmic viscosurgical device", "langTrad": "esp", "meaningTrad": "Dispositivo viscoquirúrgico oftálmico", "abbreviationTrad": "OVD, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "pa",
         "abbreviation": "PA",
         "use": "sigla",
@@ -2731,6 +2804,16 @@
         "meanings": [
             {"lang": "eng", "meaning": "Patient-controlled analgesia (PCA)", "langTrad": "esp", "meaningTrad": "Analgesia controlada por el paciente", "abbreviationTrad": "PCA, por sus siglas en inglés"},
             {"lang": "eng", "meaning": "Prostate cancer (PCa)", "langTrad": "esp", "meaningTrad": "Cáncer de próstata", "abbreviationTrad": "CaP"}
+        ]
+    },
+    {
+        "abbLowerCase": "pciol",
+        "abbreviation": "PCIOL",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Posterior chamber intraocular lens", "langTrad": "esp", "meaningTrad": "Lente intraocular de cámara posterior", "abbreviationTrad": "PCIOL, por sus siglas en inglés"},
+            {"lang": "eng", "meaning": "Presbyopia-correcting intraocular lens", "langTrad": "esp", "meaningTrad": "Lente intraocular corrector/a de la presbicia", "abbreviationTrad": "PCIOL, por sus siglas en inglés", "notes": "si utiliza «lente» como sustantivo masculino, deberá utilizar la palabra «corrector»; si utiliza «lente» como sustantivo femenino, deberá utilizar la palabra «correctora»"}
         ]
     },
     {
@@ -3462,6 +3545,15 @@
         ]
     },
     {
+        "abbLowerCase": "sun",
+        "abbreviation": "SUN",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+                {"lang": "eng", "meaning": "Standardization of uveitis nomenclature", "langTrad": "esp", "meaningTrad": "Estandarización de la nomenclatura de las uveítis", "abbreviationTrad": "SUN, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "t2d",
         "abbreviation": "T2D",
         "use": "sigla",
@@ -3504,6 +3596,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Tasa de beneficio clínico", "langTrad": "eng", "meaningTrad": "Clinical benefit rate", "abbreviationTrad": "CBR"}
+        ]
+    },
+    {
+        "abbLowerCase": "tbut",
+        "abbreviation": "TBUT",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Tear breakup time test", "langTrad": "esp", "meaningTrad": "Prueba de tiempo de ruptura lagrimal", "abbreviationTrad": "TBUT, por sus siglas en inglés"}
         ]
     },
     {
