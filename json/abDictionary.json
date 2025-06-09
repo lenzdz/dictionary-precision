@@ -9,6 +9,51 @@
         ]
     },
     {
+        "abbLowerCase": "aat",
+        "abbreviation": "AAT",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Aspartate aminotransferase, aspartate transaminase", "langTrad": "esp", "meaningTrad": "Aspartato aminotransferasa, aspartato transaminasa", "abbreviationTrad": "AST", "notes": "comúnmente conocida por la sigla AST. Sin embargo, también se le conoce por siglas en inglés como AspAT y ASAT"}
+        ]
+    },
+    {
+        "abbLowerCase": "aav",
+        "abbreviation": "AAV",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Adeno-associated virus", "langTrad": "esp", "meaningTrad": "Virus adenoasociado", "abbreviationTrad": "AAV, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "aav9",
+        "abbreviation": "AAV9",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Adeno-associated virus serotype 9", "langTrad": "esp", "meaningTrad": "Virus adenoasociado de serotipo 9", "abbreviationTrad": "AAV9, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "aav9-ab",
+        "abbreviation": "AAV9-Ab",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Adeno-associated virus serotype 9 antibody", "langTrad": "esp", "meaningTrad": "Anticuerpo del virus adenoasociado de serotipo 9", "abbreviationTrad": "AAV9-Ab, por sus siglas en inglés", "notes": "también puede presentarse como «anti-AAV9»"}
+        ]
+    },
+    {
+        "abbLowerCase": "aav9ab",
+        "abbreviation": "AAV9-Ab",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Adeno-associated virus serotype 9 antibody", "langTrad": "esp", "meaningTrad": "Anticuerpo del virus adenoasociado de serotipo 9", "abbreviationTrad": "AAV9-Ab, por sus siglas en inglés", "notes": "también puede presentarse como «anti-AAV9»"}
+        ]
+    },
+    {
         "abbLowerCase": "abap",
         "abbreviation": "ABAP",
         "use": "sigla",
@@ -327,6 +372,15 @@
         ]
     },
     {
+        "abbLowerCase": "ame",
+        "abbreviation": "AME",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Atrofia muscular espinal", "langTrad": "eng", "meaningTrad": "Spinal muscular atrophy", "abbreviationTrad": "SMA"}
+        ]
+    },
+    {
         "abbLowerCase": "aml",
         "abbreviation": "AML",
         "use": "sigla",
@@ -478,6 +532,33 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Atherosclerotic cardiovascular disease", "langTrad": "esp", "meaningTrad": "Enfermedad cardiovascular aterosclerótica", "abbreviationTrad": "ECVA"}
+        ]
+    },
+    {
+        "abbLowerCase": "asat",
+        "abbreviation": "ASAT",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Aspartate aminotransferase, aspartate transaminase", "langTrad": "esp", "meaningTrad": "Aspartato aminotransferasa, aspartato transaminasa", "abbreviationTrad": "AST", "notes": "comúnmente conocida por la sigla AST. Sin embargo, también se le conoce por siglas en inglés como AspAT y AAT"}
+        ]
+    },
+    {
+        "abbLowerCase": "aspat",
+        "abbreviation": "AspAT",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Aspartate aminotransferase, aspartate transaminase", "langTrad": "esp", "meaningTrad": "Aspartato aminotransferasa, aspartato transaminasa", "abbreviationTrad": "AST", "notes": "comúnmente conocida por la sigla AST. Sin embargo, también se le conoce por siglas en inglés como ASAT y AAT"}
+        ]
+    },
+    {
+        "abbLowerCase": "ast",
+        "abbreviation": "AST",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Aspartate aminotransferase, aspartate transaminase", "langTrad": "esp", "meaningTrad": "Aspartato aminotransferasa, aspartato transaminasa", "abbreviationTrad": "AST", "notes": "también conocida en inglés con las siglas AspAT, ASAT y AAT"}
         ]
     },
     {
@@ -2266,6 +2347,15 @@
         ]
     },
     {
+        "abbLowerCase": "kmt2a",
+        "abbreviation": "KMT2A",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Lysine methyltransferase 2A, histone-lysine N-methyltransferase 2A", "langTrad": "esp", "meaningTrad": "Lisina metil transferasa 2A, histona-lisina N-metiltransferasa 2A", "abbreviationTrad": "KMT2A"}
+        ]
+    },
+    {
         "abbLowerCase": "kol",
         "abbreviation": "KOL",
         "use": "sigla",
@@ -2307,7 +2397,7 @@
         "use": "sigla",
         "language": "inglés",
         "meanings": [
-            {"lang": "eng", "meaning": "Laser-assisted in situ keratomileusis", "langTrad": "esp", "meaningTrad": "Queratomileusis in situ asistida por láser", "abbreviationTrad": "LASIK, por sus siglas en inglés"}
+            {"lang": "eng", "meaning": "Laser-assisted in situ keratomileusis", "langTrad": "esp", "meaningTrad": "Queratomileusis <em>in situ</em> asistida por láser", "abbreviationTrad": "LASIK, por sus siglas en inglés"}
         ]
     },
     {
@@ -3055,6 +3145,15 @@
         ]
     },
     {
+        "abbLowerCase": "pnr",
+        "abbreviation": "PnR",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Pneumatic retinopexy", "langTrad": "esp", "meaningTrad": "Retinopexia neumática", "abbreviationTrad": "RN"}
+        ]
+    },
+    {
         "abbLowerCase": "ppara",
         "abbreviation": "PPARa",
         "use": "sigla",
@@ -3305,6 +3404,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Razón de momios diagnóstica, razón de oportunidades diagnóstica, razón de probabilidades diagnóstica", "langTrad": "eng", "meaningTrad": "Diagnostic odds ratio", "abbreviationTrad": "DOR"}
+        ]
+    },
+    {
+        "abbLowerCase": "rn",
+        "abbreviation": "RN",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Retinopexia neumática", "langTrad": "eng", "meaningTrad": "Pneumatic retinopexy", "abbreviationTrad": "PnR"}
         ]
     },
     {
@@ -3580,6 +3688,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Supervivencia libre de progresión", "langTrad": "eng", "meaningTrad": "Progression-free survival", "abbreviationTrad": "PFS"}
+        ]
+    },
+    {
+        "abbLowerCase": "sma",
+        "abbreviation": "SMA",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Spinal muscular atrophy", "langTrad": "esp", "meaningTrad": "Atrofia muscular espinal", "abbreviationTrad": "AME"}
         ]
     },
     {
@@ -3987,6 +4104,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Very low density lipoprotein", "langTrad": "esp", "meaningTrad": "Lipoproteína de muy baja densidad", "abbreviationTrad": "VLDL, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "vpp",
+        "abbreviation": "VPP",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Vitrectomía <em>pars plana</em>", "langTrad": "eng", "meaningTrad": "Pars plana vitrectomy", "abbreviationTrad": "PPV"}
         ]
     },
     {
