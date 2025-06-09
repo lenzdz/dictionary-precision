@@ -183,6 +183,15 @@
         ]
     },
     {
+        "abbLowerCase": "ah",
+        "abbreviation": "AH",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Atención hospitalaria", "langTrad": "eng", "meaningTrad": "Inpatient", "abbreviationTrad": "IP"}
+        ]
+    },
+    {
         "abbLowerCase": "aha",
         "abbreviation": "AHA",
         "use": "sigla",
@@ -1167,6 +1176,15 @@
         ]
     },
     {
+        "abbLowerCase": "drr",
+        "abbreviation": "DRR",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Desprendimiento de retina regmatógeno", "langTrad": "eng", "meaningTrad": "Rhegmatogenous retinal detachment", "abbreviationTrad": "RRD"}
+        ]
+    },
+    {
         "abbLowerCase": "dsvd",
         "abbreviation": "DSVD",
         "use": "sigla",
@@ -1273,6 +1291,15 @@
         "meanings": [
             {"lang": "esp", "meaning": "Enfermedad cardiovascular aterosclerótica", "langTrad": "eng", "meaningTrad": "Atherosclerotic Cardiovascular Disease", "abbreviationTrad": "ASCVD"},
             {"lang": "esp", "meaning": "Enfermedad cerebrovascular aterosclerótica", "langTrad": "eng", "meaningTrad": "Atherosclerotic Cerebrovascular Disease", "abbreviationTrad": "ACD"}
+        ]
+    },
+    {
+        "abbLowerCase": "ed",
+        "abbreviation": "ED",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Emergency department", "langTrad": "esp", "meaningTrad": "Servicio de urgencias", "abbreviationTrad": "SU"}
         ]
     },
     {
@@ -2063,6 +2090,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Intubación orotraqueal", "langTrad": "eng", "meaningTrad": "Orotracheal intubation", "abbreviationTrad": "OTI"}
+        ]
+    },
+    {
+        "abbLowerCase": "ip",
+        "abbreviation": "IP",
+        "use": "abreviatura",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Inpatient", "langTrad": "esp", "meaningTrad": "Atención hospitalaria", "abbreviationTrad": "AH"}
         ]
     },
     {
@@ -3055,6 +3091,15 @@
         ]
     },
     {
+        "abbLowerCase": "ppv",
+        "abbreviation": "PPV",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Pars plana vitrectomy", "langTrad": "esp", "meaningTrad": "Vitrectomía <em>pars plana</em>", "abbreviationTrad": "VPP"}
+        ]
+    },
+    {
         "abbLowerCase": "pr",
         "abbreviation": "PR",
         "use": "sigla",
@@ -3291,6 +3336,15 @@
         ]
     },
     {
+        "abbLowerCase": "rrd",
+        "abbreviation": "RRD",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Rhegmatogenous retinal detachment", "langTrad": "esp", "meaningTrad": "Desprendimiento de retina regmatógeno", "abbreviationTrad": "DRR"}
+        ]
+    },
+    {
         "abbLowerCase": "rra",
         "abbreviation": "RRA",
         "use": "sigla",
@@ -3324,6 +3378,7 @@
         "language": "español e inglés",
         "meanings": [
                 {"lang": "esp", "meaning": "Radioterapia", "langTrad": "eng", "meaningTrad": "Radiotherapy", "abbreviationTrad": "RT"},
+                {"lang": "eng", "meaning": "Retinal tear", "langTrad": "esp", "meaningTrad": "Desgarro de retina", "abbreviationTrad": "RT, por sus siglas en inglés"},
                 {"lang": "eng", "meaning": "Reverse transcriptase", "langTrad": "esp", "meaningTrad": "Transcriptasa inversa", "abbreviationTrad": "TI"}
         ]
     },
@@ -3446,6 +3501,15 @@
         ]
     },
     {
+        "abbLowerCase": "sfan",
+        "abbreviation": "SFAN",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Sexo femenino asignado al nacer", "langTrad": "eng", "meaningTrad": "Assigned female at birth", "abbreviationTrad": "AFAB"}
+        ]
+    },
+    {
         "abbLowerCase": "sfm",
         "abbreviation": "SFM",
         "use": "sigla",
@@ -3519,15 +3583,6 @@
         ]
     },
     {
-        "abbLowerCase": "sfan",
-        "abbreviation": "SFAN",
-        "use": "sigla",
-        "language": "español",
-        "meanings": [
-            {"lang": "esp", "meaning": "Sexo femenino asignado al nacer", "langTrad": "eng", "meaningTrad": "Assigned female at birth", "abbreviationTrad": "AFAB"}
-        ]
-    },
-    {
         "abbLowerCase": "sman",
         "abbreviation": "SMAN",
         "use": "sigla",
@@ -3579,6 +3634,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Síntomas del tracto urinario inferior", "langTrad": "eng", "meaningTrad": "Lower urinary tract symptoms", "abbreviationTrad": "LUTS"}
+        ]
+    },
+    {
+        "abbLowerCase": "su",
+        "abbreviation": "SU",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Servicio de urgencias", "langTrad": "eng", "meaningTrad": "Emergency department", "abbreviationTrad": "ED"}
         ]
     },
     {
