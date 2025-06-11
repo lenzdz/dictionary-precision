@@ -926,6 +926,15 @@
         ]
     },
     {
+        "abbLowerCase": "cpap",
+        "abbreviation": "CPAP",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Continuous positive airway pressure", "langTrad": "esp", "meaningTrad": "Presión positiva continua en las vías respiratorias", "abbreviationTrad": "CPAP, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "cpcnp",
         "abbreviation": "CPCNP",
         "use": "sigla",
@@ -2210,12 +2219,30 @@
         ]
     },
     {
+        "abbLowerCase": "ipap",
+        "abbreviation": "IPAP",
+        "use": "abreviatura",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Inspiratory positive airway pressure", "langTrad": "esp", "meaningTrad": "Presión positiva inspiratoria en las vías respiratorias", "abbreviationTrad": "IPAP, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "ipci",
         "abbreviation": "IPCI",
         "use": "sigla",
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Inhibidor de puntos de control inmunitario", "langTrad": "eng", "meaningTrad": "Immune checkpoint inhibitors", "abbreviationTrad": "ICI"}
+        ]
+    },
+    {
+        "abbLowerCase": "ipp",
+        "abbreviation": "IPP",
+        "use": "abreviatura",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Información para prescribir", "langTrad": "eng", "meaningTrad": "Prescribing information", "abbreviationTrad": "PI"}
         ]
     },
     {
@@ -2797,6 +2824,24 @@
         ]
     },
     {
+        "abbLowerCase": "nimv",
+        "abbreviation": "NIMV",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Non-invasive mechanical ventilation", "langTrad": "esp", "meaningTrad": "Ventilación mecánica no invasiva", "abbreviationTrad": "VMNI"}
+        ]
+    },
+    {
+        "abbLowerCase": "niv",
+        "abbreviation": "NIV",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Non-invasive ventilation", "langTrad": "esp", "meaningTrad": "Ventilación no invasiva", "abbreviationTrad": "VNI"}
+        ]
+    },
+    {
         "abbLowerCase": "nnrti",
         "abbreviation": "NNRTI",
         "use": "sigla",
@@ -3124,6 +3169,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Progression-free survival", "langTrad": "esp", "meaningTrad": "Supervivencia libre de progresión", "abbreviationTrad": "SLP"}
+        ]
+    },
+    {
+        "abbLowerCase": "pi",
+        "abbreviation": "PI",
+        "use": "abreviatura",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Prescribing information", "langTrad": "esp", "meaningTrad": "Información para prescribir", "abbreviationTrad": "IPP"}
         ]
     },
     {
@@ -4131,6 +4185,24 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Very low density lipoprotein", "langTrad": "esp", "meaningTrad": "Lipoproteína de muy baja densidad", "abbreviationTrad": "VLDL, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "vmni",
+        "abbreviation": "VMNI",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Ventilación mecánica no invasiva", "langTrad": "eng", "meaningTrad": "Non-invasive mechanical ventilation", "abbreviationTrad": "NIMV"}
+        ]
+    },
+    {
+        "abbLowerCase": "vni",
+        "abbreviation": "VNI",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Ventilación no invasiva", "langTrad": "eng", "meaningTrad": "Non-invasive ventilation", "abbreviationTrad": "NIV"}
         ]
     },
     {
