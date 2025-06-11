@@ -654,6 +654,15 @@
         ]
     },
     {
+        "abbLowerCase": "bipap",
+        "abbreviation": "BiPAP, BIPAP",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Bilevel positive airway pressure", "langTrad": "esp", "meaningTrad": "Presión positiva de dos niveles en las vías respiratorias", "abbreviationTrad": "BiPAP, por sus siglas en inglés o BIPAP, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "bmi",
         "abbreviation": "BMI",
         "use": "sigla",
@@ -696,6 +705,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Body surface area", "langTrad": "esp", "meaningTrad": "Área de la superficie corporal", "abbreviationTrad": "ASC"}
+        ]
+    },
+    {
+        "abbLowerCase": "bsid",
+        "abbreviation": "BSID",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Bayley scales of infant and toddler development", "langTrad": "esp", "meaningTrad": "Escalas Bayley de desarrollo del lactante y del niño pequeño", "abbreviationTrad": "BSID, por sus siglas en inglés"}
         ]
     },
     {
