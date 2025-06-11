@@ -854,6 +854,15 @@
         ]
     },
     {
+        "abbLowerCase": "chop intend",
+        "abbreviation": "CHOP INTEND",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Children’s Hospital of Philadelphia infant test of neuromuscular disorders", "langTrad": "esp", "meaningTrad": "Prueba infantil de trastornos neuromusculares del Hospital de Niños de Filadelfia", "abbreviationTrad": "CHOP INTEND, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "ci",
         "abbreviation": "CI",
         "use": "sigla",
