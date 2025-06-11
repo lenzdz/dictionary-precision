@@ -192,6 +192,15 @@
         ]
     },
     {
+        "abbLowerCase": "aesi",
+        "abbreviation": "AESI",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Adverse event of special interest", "langTrad": "esp", "meaningTrad": "Evento adverso de especial interés", "abbreviationTrad": "EAEI"}
+        ]
+    },
+    {
         "abbLowerCase": "af",
         "abbreviation": "AF",
         "use": "sigla",
@@ -1356,6 +1365,33 @@
         ]
     },
     {
+        "abbLowerCase": "eaei",
+        "abbreviation": "EAEI",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Evento adverso de especial interés", "langTrad": "eng", "meaningTrad": "Adverse event of special interest", "abbreviationTrad": "AESI"}
+        ]
+    },
+    {
+        "abbLowerCase": "eadt",
+        "abbreviation": "EADT",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Evento adverso derivado del tratamiento", "langTrad": "eng", "meaningTrad": "Treatment emergent adverse events", "abbreviationTrad": "TEAE"}
+        ]
+    },
+    {
+        "abbLowerCase": "eaet",
+        "abbreviation": "EAET",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Evento adverso emergente del tratamiento", "langTrad": "eng", "meaningTrad": "Treatment emergent adverse events", "abbreviationTrad": "TEAE"}
+        ]
+    },
+    {
         "abbLowerCase": "eca",
         "abbreviation": "ECA",
         "use": "sigla",
@@ -1589,6 +1625,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Edema pulmonar agudo", "langTrad": "eng", "meaningTrad": "Acute pulmonary oedema", "abbreviationTrad": "APE"}
+        ]
+    },
+    {
+        "abbLowerCase": "epap",
+        "abbreviation": "EPAP",
+        "use": "abreviatura",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Expiratory positive airway pressure", "langTrad": "esp", "meaningTrad": "Presión positiva espiratoria en las vías respiratorias", "abbreviationTrad": "EPAP, por sus siglas en inglés"}
         ]
     },
     {
@@ -3922,6 +3967,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Tasa de control de la enfermedad", "langTrad": "eng", "meaningTrad": "Disease control rate", "abbreviationTrad": "DCR"}
+        ]
+    },
+    {
+        "abbLowerCase": "teae",
+        "abbreviation": "TEAE",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Treatment emergent adverse events", "langTrad": "esp", "meaningTrad": "Evento adverso emergente del tratamiento, evento adverso derivado del tratamiento", "abbreviationTrad": "EAET o EADT"}
         ]
     },
     {
