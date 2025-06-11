@@ -1574,6 +1574,15 @@
         ]
     },
     {
+        "abbLowerCase": "ema",
+        "abbreviation": "EMA",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "European Medicines Agency", "langTrad": "esp", "meaningTrad": "Agencia Europea de Medicamentos", "abbreviationTrad": "EMA, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "emd",
         "abbreviation": "EMD",
         "use": "sigla",
