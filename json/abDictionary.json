@@ -1794,6 +1794,15 @@
         ]
     },
     {
+        "abbLowerCase": "fci",
+        "abbreviation": "FCI",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Formulario de consentimiento informado", "langTrad": "eng", "meaningTrad": "Informed consent form", "abbreviationTrad": "ICF"}
+        ]
+    },
+    {
         "abbLowerCase": "fda",
         "abbreviation": "FDA",
         "use": "sigla",
@@ -2129,12 +2138,12 @@
         ]
     },
     {
-        "abbLowerCase": "ics",
-        "abbreviation": "ICS",
+        "abbLowerCase": "icf",
+        "abbreviation": "ICF",
         "use": "sigla",
         "language": "inglés",
         "meanings": [
-            {"lang": "eng", "meaning": "Inhaled corticosteroid", "langTrad": "esp", "meaningTrad": "Corticosteroide inhalado", "abbreviationTrad": "CSI"}
+            {"lang": "eng", "meaning": "Informed consent form", "langTrad": "esp", "meaningTrad": "Formulario de consentimiento informado", "abbreviationTrad": "FCI"}
         ]
     },
     {
@@ -2153,6 +2162,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Immune checkpoint inhibitors", "langTrad": "esp", "meaningTrad": "Inhibidor de puntos de control inmunitario", "abbreviationTrad": "IPCI"}
+        ]
+    },
+    {
+        "abbLowerCase": "ics",
+        "abbreviation": "ICS",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Inhaled corticosteroid", "langTrad": "esp", "meaningTrad": "Corticosteroide inhalado", "abbreviationTrad": "CSI"}
         ]
     },
     {
@@ -4016,6 +4034,15 @@
         ]
     },
     {
+        "abbLowerCase": "tewl",
+        "abbreviation": "TEWL",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Transepidermal water loss", "langTrad": "esp", "meaningTrad": "Pérdida de agua transepidérmica", "abbreviationTrad": "TEWL, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "tfg",
         "abbreviation": "TFG",
         "use": "sigla",
@@ -4158,6 +4185,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Trombosis venosa profunda", "langTrad": "eng", "meaningTrad": "Deep vein thrombosis", "abbreviationTrad": "DVT"}
+        ]
+    },
+    {
+        "abbLowerCase": "twl",
+        "abbreviation": "TWL",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Transepidermal water loss", "langTrad": "esp", "meaningTrad": "Pérdida de agua transepidérmica", "abbreviationTrad": "TEWL, por sus siglas en inglés", "notes": "la sigla más común para este término es TEWL"}
         ]
     },
     {
