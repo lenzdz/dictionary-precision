@@ -1893,6 +1893,15 @@
         ]
     },
     {
+        "abbLowerCase": "gmap",
+        "abbreviation": "GMAP, gMAP",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Global Managed Access Program", "langTrad": "esp", "meaningTrad": "Programa Global de Acceso Gestionado", "abbreviationTrad": "GMAP, por sus siglas en inglés o gMAP, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "gnrh",
         "abbreviation": "GnRH",
         "use": "sigla",
@@ -1925,7 +1934,7 @@
         "use": "sigla",
         "language": "español e inglés",
         "meanings": [
-            {"lang": "esp", "meaning": "Hemoglobina A1c, hemoglobina glicosilada, hemoglobina A glucada​", "langTrad": "eng", "meaningTrad": "Hemoglobin A1c, glycated hemoglobin, glycosylated hemoglobin", "abbreviationTrad": "HbA1c"}
+            {"lang": "esp", "meaning": "Hemoglobina A1c, hemoglobina glicada, hemoglobina A glicada​", "langTrad": "eng", "meaningTrad": "Hemoglobin A1c, glycated hemoglobin", "abbreviationTrad": "HbA1c", "notes": "en algunos casos, puede encontrarse como «hemoglobina glicosilada». Sin embargo, ese término es incorrecto porque este marcador se forma por una reacción no enzimática (glicación) con la glucosa. Utilizar la palabra «glicosilada» implicaría una reacción enzimática que no ocurre en este proceso"}
         ]
     },
     {
@@ -1980,6 +1989,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Heart failure", "langTrad": "esp", "meaningTrad": "Insuficiencia cardíaca, falla cardíaca", "abbreviationTrad": "IC o FC"}
+        ]
+    },
+    {
+        "abbLowerCase": "hfmse",
+        "abbreviation": "HFMSE",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Hammersmith functional motor scale – expanded", "langTrad": "esp", "meaningTrad": "Escala funcional motora de Hammersmith ampliada", "abbreviationTrad": "HFMSE, por sus siglas en inglés"}
         ]
     },
     {
@@ -2364,6 +2382,15 @@
         ]
     },
     {
+        "abbLowerCase": "it",
+        "abbreviation": "IT",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Intratecal", "langTrad": "eng", "meaningTrad": "Intratecal", "abbreviationTrad": "IT"}
+        ]
+    },
+    {
         "abbLowerCase": "itb",
         "abbreviation": "ITB",
         "use": "sigla",
@@ -2385,9 +2412,10 @@
         "abbLowerCase": "itr",
         "abbreviation": "ITR",
         "use": "sigla",
-        "language": "español",
+        "language": "español e inglés",
         "meanings": [
-                {"lang": "esp", "meaning": "Infección del tracto respiratorio", "langTrad": "eng", "meaningTrad": "Respiratory tract infection", "abbreviationTrad": "RTI"}
+                {"lang": "esp", "meaning": "Infección del tracto respiratorio", "langTrad": "eng", "meaningTrad": "Respiratory tract infection", "abbreviationTrad": "RTI"},
+                {"lang": "eng", "meaning": "Inverted terminal repeats", "langTrad": "esp", "meaningTrad": "Repetición terminal invertida", "abbreviationTrad": "ITR, por sus siglas en inglés"}
         ]
     },
     {
@@ -2406,6 +2434,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Infección del tracto respiratorio superior", "langTrad": "eng", "meaningTrad": "Upper respiratory tract infection", "abbreviationTrad": "URTI"}
+        ]
+    },
+    {
+        "abbLowerCase": "itt",
+        "abbreviation": "ITT",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Intention-to-treat", "langTrad": "eng", "meaningTrad": "Intención de tratar", "abbreviationTrad": "ITT, por sus siglas en inglés"}
         ]
     },
     {
