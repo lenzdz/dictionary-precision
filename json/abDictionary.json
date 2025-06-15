@@ -2717,6 +2717,15 @@
         ]
     },
     {
+        "abbLowerCase": "lsn",
+        "abbreviation": "LSN",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Límite superior normal, límite superior de la normalidad, límite superior del rango normal", "langTrad": "eng", "meaningTrad": "Upper limit of normal", "abbreviationTrad": "ULN"}
+        ]
+    },
+    {
         "abbLowerCase": "lt",
         "abbreviation": "LT",
         "use": "sigla",
@@ -4231,6 +4240,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Transepidermal water loss", "langTrad": "esp", "meaningTrad": "Pérdida de agua transepidérmica", "abbreviationTrad": "TEWL, por sus siglas en inglés", "notes": "la sigla más común para este término es TEWL"}
+        ]
+    },
+    {
+        "abbLowerCase": "uln",
+        "abbreviation": "ULN",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Upper limit of normal", "langTrad": "esp", "meaningTrad": "Límite superior normal, límite superior de la normalidad, límite superior del rango normal", "abbreviationTrad": "LSN"}
         ]
     },
     {
