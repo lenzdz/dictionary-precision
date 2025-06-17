@@ -935,6 +935,15 @@
         ]
     },
     {
+        "abbLowerCase": "cp",
+        "abbreviation": "CP",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Corto plazo", "langTrad": "eng", "meaningTrad": "Short term", "abbreviationTrad": "ST"}
+        ]
+    },
+    {
         "abbLowerCase": "cpap",
         "abbreviation": "CPAP",
         "use": "sigla",
@@ -2686,6 +2695,7 @@
         "use": "sigla",
         "language": "español",
         "meanings": [
+            {"lang": "esp", "meaning": "Largo plazo", "langTrad": "eng", "meaningTrad": "Long term", "abbreviationTrad": "LT"},
             {"lang": "esp", "meaning": "Liberación prolongada", "langTrad": "eng", "meaningTrad": "Extended release", "abbreviationTrad": "ER"}
         ]
     },
@@ -2731,7 +2741,18 @@
         "use": "sigla",
         "language": "inglés",
         "meanings": [
-            {"lang": "eng", "meaning": "Lens thickness", "langTrad": "esp", "meaningTrad": "Grosor del lente, grosor de la lente", "abbreviationTrad": "LT, por sus siglas en inglés", "notes": "si utiliza «lente» como sustantivo masculino, deberá utilizar «del»; si utiliza «lente» como sustantivo femenino, deberá utilizar «de la»"}
+            {"lang": "eng", "meaning": "Lens thickness", "langTrad": "esp", "meaningTrad": "Grosor del lente, grosor de la lente", "abbreviationTrad": "LT, por sus siglas en inglés", "notes": "si utiliza «lente» como sustantivo masculino, deberá utilizar «del»; si utiliza «lente» como sustantivo femenino, deberá utilizar «de la»"},
+            {"lang": "eng", "meaning": "Long-term", "langTrad": "esp", "meaningTrad": "Largo plazo", "abbreviationTrad": "LP"}
+        ]
+    },
+    {
+        "abbLowerCase": "ltfu",
+        "abbreviation": "LTFU",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Long-term follow-up", "langTrad": "esp", "meaningTrad": "Seguimiento a largo plazo", "abbreviationTrad": "LP"},
+            {"lang": "eng", "meaning": "Loss to follow-up", "langTrad": "esp", "meaningTrad": "Pérdida en el seguimiento", "abbreviationTrad": "PEES"}
         ]
     },
     {
@@ -3268,6 +3289,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Positron emission tomography and computed tomography", "langTrad": "esp", "meaningTrad": "Tomografía por emisión de positrones con tomografía computarizada", "abbreviationTrad": "TEP"}
+        ]
+    },
+    {
+        "abbLowerCase": "pees",
+        "abbreviation": "PEES",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Pérdida en el seguimiento", "langTrad": "eng", "meaningTrad": "Loss to follow-up", "abbreviationTrad": "LTFU"}
         ]
     },
     {
@@ -3941,6 +3971,15 @@
         "language": "español",
         "meanings": [
                 {"lang": "esp", "meaning": "Supervivencia sin enfermedad", "langTrad": "eng", "meaningTrad": "Disease-free survival", "abbreviationTrad": "DFS"}
+        ]
+    },
+    {
+        "abbLowerCase": "st",
+        "abbreviation": "ST",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Short term", "langTrad": "esp", "meaningTrad": "Corto plazo", "abbreviationTrad": "CP"}
         ]
     },
     {
