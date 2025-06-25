@@ -1279,7 +1279,16 @@
         "use": "sigla",
         "language": "español",
         "meanings": [
-            {"lang": "esp", "meaning": "Diabetes mellitus tipo 2", "langTrad": "eng", "meaningTrad": "Type 2 diabetes mellitus", "abbreviationTrad": "T2D"}
+            {"lang": "esp", "meaning": "Diabetes <em>mellitus</em> tipo 2", "langTrad": "eng", "meaningTrad": "Type 2 diabetes mellitus", "abbreviationTrad": "T2D"}
+        ]
+    },
+    {
+        "abbLowerCase": "dmt",
+        "abbreviation": "DMT",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Disease modifying therapy", "langTrad": "esp", "meaningTrad": "Terapia modificadora de la enfermedad", "abbreviationTrad": "TME"}
         ]
     },
     {
@@ -1288,7 +1297,7 @@
         "use": "sigla",
         "language": "español",
         "meanings": [
-            {"lang": "esp", "meaning": "Diabetes mellitus tipo 2", "langTrad": "eng", "meaningTrad": "Type 2 diabetes mellitus", "abbreviationTrad": "T2DM"}
+            {"lang": "esp", "meaning": "Diabetes <em>mellitus</em> tipo 2", "langTrad": "eng", "meaningTrad": "Type 2 diabetes mellitus", "abbreviationTrad": "T2DM"}
         ]
     },
     {
@@ -3884,6 +3893,24 @@
         ]
     },
     {
+        "abbLowerCase": "rwd",
+        "abbreviation": "RWD",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Real-world data", "langTrad": "esp", "meaningTrad": "Datos del mundo real", "abbreviationTrad": "RWD, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "rwe",
+        "abbreviation": "RWE",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Real-world evidence", "langTrad": "esp", "meaningTrad": "Evidencia del mundo real", "abbreviationTrad": "RWE, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "scaav",
         "abbreviation": "scAAV",
         "use": "sigla",
@@ -4325,6 +4352,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Thrombotic microangiopathy", "langTrad": "esp", "meaningTrad": "Microangiopatía trombótica", "abbreviationTrad": "MAT"}
+        ]
+    },
+    {
+        "abbLowerCase": "tme",
+        "abbreviation": "TME",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Terapia modificadora de la enfermedad", "langTrad": "eng", "meaningTrad": "Disease modifying therapy", "abbreviationTrad": "DMT"}
         ]
     },
     {
