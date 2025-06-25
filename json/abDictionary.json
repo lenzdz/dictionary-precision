@@ -119,12 +119,30 @@
         ]
     },
     {
+        "abbLowerCase": "aco",
+        "abbreviation": "ACO",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Anterior capsule phimosis", "langTrad": "esp", "meaningTrad": "Síndrome de contracción capsular anterior", "abbreviationTrad": "SCC"}
+        ]
+    },
+    {
         "abbLowerCase": "acod",
         "abbreviation": "ACOD",
         "use": "sigla",
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Anticoagulantes orales directos, anticoagulantes orales de acción directa", "langTrad": "eng", "meaningTrad": "Direct oral anticoagulants, direct-acting oral anticoagulant", "abbreviationTrad": "DOAC"}
+        ]
+    },
+    {
+        "abbLowerCase": "acp",
+        "abbreviation": "ACP",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Anterior chamber depth", "langTrad": "esp", "meaningTrad": "Profundidad de la cámara anterior", "abbreviationTrad": "PCA o ACP, por sus siglas en inglés"}
         ]
     },
     {
@@ -470,7 +488,16 @@
         "meanings": [
             {"lang": "esp", "meaning": "Apolipoproteína B", "langTrad": "eng", "meaningTrad": "Apolipoprotein B", "abbreviationTrad": "apoB"}
         ]
-    },   
+    },
+    {
+        "abbLowerCase": "aptt",
+        "abbreviation": "aPTT",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Activated partial thromboplastin time", "langTrad": "esp", "meaningTrad": "Tiempo de tromboplastina parcial activada, tiempo parcial de tromboplastina activada", "abbreviationTrad": "TTPa o TPTa"}
+        ]
+    },
     {
         "abbLowerCase": "arf",
         "abbreviation": "ARF",
@@ -914,6 +941,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Cáncer de mama", "langTrad": "eng", "meaningTrad": "Breast cancer", "abbreviationTrad": "BC"}
+        ]
+    },
+    {
+        "abbLowerCase": "cme",
+        "abbreviation": "CME",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Cystoid macular edema", "langTrad": "esp", "meaningTrad": "Edema macular cistoide", "abbreviationTrad": "EMC"}
         ]
     },
     {
@@ -1589,6 +1625,15 @@
         "language": "inglés y español",
         "meanings": [
             {"lang": "eng", "meaning": "European Medicines Agency", "langTrad": "esp", "meaningTrad": "Agencia Europea de Medicamentos", "abbreviationTrad": "EMA, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "emc",
+        "abbreviation": "EMC",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Edema macular cistoide", "langTrad": "eng", "meaningTrad": "Cystoid macular edema", "abbreviationTrad": "CME"}
         ]
     },
     {
@@ -2792,6 +2837,15 @@
         ]
     },
     {
+        "abbLowerCase": "mat",
+        "abbreviation": "MAT",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Microangiopatía trombótica", "langTrad": "eng", "meaningTrad": "Thrombotic microangiopathy", "abbreviationTrad": "TMA"}
+        ]
+    },
+    {
         "abbLowerCase": "mch",
         "abbreviation": "MCH",
         "use": "sigla",
@@ -3153,6 +3207,15 @@
         ]
     },
     {
+        "abbLowerCase": "pac",
+        "abbreviation": "Pac",
+        "use": "abreviatura",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Paciente", "langTrad": "eng", "meaningTrad": "Patient", "abbreviationTrad": "Pt"}
+        ]
+    },
+    {
         "abbLowerCase": "pasi",
         "abbreviation": "PASI",
         "use": "sigla",
@@ -3167,6 +3230,7 @@
         "use": "sigla",
         "language": "inglés y español",
         "meanings": [
+            {"lang": "esp", "meaning": "Profundidad de la cámara anterior", "langTrad": "eng", "meaningTrad": "Anterior chamber depth", "abbreviationTrad": "ACP"},
             {"lang": "eng", "meaning": "Patient-controlled analgesia (PCA)", "langTrad": "esp", "meaningTrad": "Analgesia controlada por el paciente", "abbreviationTrad": "PCA, por sus siglas en inglés"},
             {"lang": "eng", "meaning": "Prostate cancer (PCa)", "langTrad": "esp", "meaningTrad": "Cáncer de próstata", "abbreviationTrad": "CaP"}
         ]
@@ -3261,6 +3325,15 @@
         "language": "inglés y español",
         "meanings": [
             {"lang": "eng", "meaning": "Programmed death-ligand 1", "langTrad": "esp", "meaningTrad": "Ligando 1 de muerte programada", "abbreviationTrad": "PD-L1"}
+        ]
+    },
+    {
+        "abbLowerCase": "pds",
+        "abbreviation": "PDS",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Pigment dispersion syndrome", "langTrad": "esp", "meaningTrad": "Síndrome de dispersión pigmentaria", "abbreviationTrad": "SDP"}
         ]
     },
     {
@@ -3374,6 +3447,24 @@
         ]
     },
     {
+        "abbLowerCase": "pncr",
+        "abbreviation": "PNCR",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Pediatric Neuromuscular Clinical Research", "langTrad": "esp", "meaningTrad": "Investigación Clínica Neuromuscular Pediátrica", "abbreviationTrad": "PNCR, por sus siglas en inglés", "notes": "más conocido como «Pediatric Neuromuscular Clinical Research Network» (PNCRN)"}
+        ]
+    },
+    {
+        "abbLowerCase": "pncrn",
+        "abbreviation": "PNCRN",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Pediatric Neuromuscular Clinical Research Network", "langTrad": "esp", "meaningTrad": "Red de Investigación Clínica Neuromuscular Pediátrica", "abbreviationTrad": "PNCRN, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "pnr",
         "abbreviation": "PnR",
         "use": "sigla",
@@ -3456,10 +3547,11 @@
     },
     {
         "abbLowerCase": "pt",
-        "abbreviation": "PT",
-        "use": "sigla",
+        "abbreviation": "PT, Pt",
+        "use": "sigla y abreviatura",
         "language": "inglés",
         "meanings": [
+            {"lang": "eng", "meaning": "Patient (Pt)", "langTrad": "esp", "meaningTrad": "Paciente", "abbreviationTrad": "Pac"},
             {"lang": "eng", "meaning": "Prothrombin time", "langTrad": "esp", "meaningTrad": "Tiempo de protrombina", "abbreviationTrad": "TP"}
         ]
     },
@@ -3470,6 +3562,15 @@
         "language": "inglés y español",
         "meanings": [
             {"lang": "eng", "meaning": "Parathyroid hormone", "langTrad": "esp", "meaningTrad": "Hormona paratiroidea", "abbreviationTrad": "PTH"}
+        ]
+    },
+    {
+        "abbLowerCase": "ptt",
+        "abbreviation": "PTT",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Partial thromboplastin time", "langTrad": "esp", "meaningTrad": "Tiempo parcial de tromboplastina, tiempo de tromboplastina parcial", "abbreviationTrad": "TPT o TTP", "notes": "también conocida en inglés como «activated partial thromboplastin time» (aPTT)"}
         ]
     },
     {
@@ -3569,6 +3670,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Respuesta completa", "langTrad": "eng", "meaningTrad": "Complete response", "abbreviationTrad": "CR"}
+        ]
+    },
+    {
+        "abbLowerCase": "rcp",
+        "abbreviation": "RCP",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Resumen de las características de producto", "langTrad": "eng", "meaningTrad": "Summary of product characteristic", "abbreviationTrad": "SmPC"}
         ]
     },
     {
@@ -3774,6 +3884,24 @@
         ]
     },
     {
+        "abbLowerCase": "scaav",
+        "abbreviation": "scAAV",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Self-complementary adeno-associated virus", "langTrad": "esp", "meaningTrad": "Virus adenoasociado autocomplementario", "abbreviationTrad": "scAAV, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "scc",
+        "abbreviation": "SCC",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Síndrome de contracción capsular anterior", "langTrad": "eng", "meaningTrad": "Anterior capsule phimosis", "abbreviationTrad": "ACO"}
+        ]
+    },
+    {
         "abbLowerCase": "sclc",
         "abbreviation": "SCLC",
         "use": "sigla",
@@ -3817,6 +3945,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Síndrome de dolor musculoesquelético amplificado", "langTrad": "eng", "meaningTrad": "Amplified musculoskeletal pain syndrome", "abbreviationTrad": "AMPS"}
+        ]
+    },
+    {
+        "abbLowerCase": "sdp",
+        "abbreviation": "SDP",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Síndrome de dispersión pigmentaria", "langTrad": "eng", "meaningTrad": "Pigment dispersion syndrome", "abbreviationTrad": "PDS"}
         ]
     },
     {
@@ -3935,6 +4072,24 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Sexo femenino asignado al nacer", "langTrad": "eng", "meaningTrad": "Assigned male at birth", "abbreviationTrad": "AMAB"}
+        ]
+    },
+    {
+        "abbLowerCase": "smn",
+        "abbreviation": "SMN",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "[Proteína de] supervivencia de las neuronas motoras", "langTrad": "eng", "meaningTrad": "Survival of motor neuron [protein]", "abbreviationTrad": "SMN"}
+        ]
+    },
+    {
+        "abbLowerCase": "smPC",
+        "abbreviation": "SmPC",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Summary of product characteristic", "langTrad": "esp", "meaningTrad": "Resumen de las características de producto", "abbreviationTrad": "RCP o SmPC, por sus siglas en inglés"}
         ]
     },
     {
@@ -4164,6 +4319,15 @@
         ]
     },
     {
+        "abbLowerCase": "tma",
+        "abbreviation": "TMA",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Thrombotic microangiopathy", "langTrad": "esp", "meaningTrad": "Microangiopatía trombótica", "abbreviationTrad": "MAT"}
+        ]
+    },
+    {
         "abbLowerCase": "tmh",
         "abbreviation": "TMH",
         "use": "sigla",
@@ -4207,6 +4371,24 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Terapia de privación de andrógenos", "langTrad": "eng", "meaningTrad": "Androgen deprivation therapy", "abbreviationTrad": "ADT"}
+        ]
+    },
+    {
+        "abbLowerCase": "tpt",
+        "abbreviation": "TPT",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Tiempo parcial de tromboplastina", "langTrad": "eng", "meaningTrad": "Partial thromboplastin time", "abbreviationTrad": "PTT", "notes": "también conocida en español como «tiempo de tromboplastina parcial» (TTP)"}
+        ]
+    },
+    {
+        "abbLowerCase": "tpta",
+        "abbreviation": "TPTa",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Tiempo parcial de tromboplastina activada", "langTrad": "eng", "meaningTrad": "Activated partial thromboplastin time", "abbreviationTrad": "aPTT", "notes": "también conocida en español como «tiempo de tromboplastina parcial activada» (TTPa)"}
         ]
     },
     {
@@ -4258,9 +4440,19 @@
         "abbLowerCase": "ttp",
         "abbreviation": "TTP",
         "use": "sigla",
-        "language": "inglés",
+        "language": "inglés y español",
         "meanings": [
+            {"lang": "esp", "meaning": "Tiempo de tromboplastina parcial", "langTrad": "eng", "meaningTrad": "Partial thromboplastin time", "abbreviationTrad": "PTT", "notes": "también conocida en español como «tiempo parcial de tromboplastina» (TPT)"},
             {"lang": "eng", "meaning": "Time to progression", "langTrad": "esp", "meaningTrad": "Tiempo hasta la progresión", "abbreviationTrad": "TP"}
+        ]
+    },
+    {
+        "abbLowerCase": "ttpa",
+        "abbreviation": "TTPa",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Tiempo de tromboplastina parcial activada", "langTrad": "eng", "meaningTrad": "Activated partial thromboplastin time", "abbreviationTrad": "PTTa", "notes": "también conocida en español como «tiempo parcial de tromboplastina activada» (TPTa)"}
         ]
     },
     {
