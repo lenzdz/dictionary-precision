@@ -1,5 +1,41 @@
 [
     {
+        "abbLowerCase": "1l",
+        "abbreviation": "1L",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Primera línea", "langTrad": "eng", "meaningTrad": "First-line", "abbreviationTrad": "1L"}
+        ]
+    },
+    {
+        "abbLowerCase": "2l",
+        "abbreviation": "2L",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Segunda línea", "langTrad": "eng", "meaningTrad": "Second-line", "abbreviationTrad": "2L"}
+        ]
+    },
+    {
+        "abbLowerCase": "3l",
+        "abbreviation": "3L",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Tercera línea", "langTrad": "eng", "meaningTrad": "Third-line", "abbreviationTrad": "3L"}
+        ]
+    },
+    {
+        "abbLowerCase": "4l",
+        "abbreviation": "4L",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Cuarta línea", "langTrad": "eng", "meaningTrad": "Fourth-line", "abbreviationTrad": "4L"}
+        ]
+    },
+    {
         "abbLowerCase": "aas",
         "abbreviation": "AAS",
         "use": "sigla",
@@ -562,6 +598,24 @@
         ]
     },
     {
+        "abbLowerCase": "asco",
+        "abbreviation": "ASCO",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "American Society of Clinical Oncology", "langTrad": "esp", "meaningTrad": "Sociedad Americana de Oncología Clínica", "abbreviationTrad": "ASCO, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "asco vf",
+        "abbreviation": "ASCO VF",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "ASCO value framework", "langTrad": "esp", "meaningTrad": "Marco de valor de la ASCO", "abbreviationTrad": "ASCO VF, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "ascvd",
         "abbreviation": "ASCVD",
         "use": "sigla",
@@ -678,6 +732,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Best corrected visual acuity", "langTrad": "esp", "meaningTrad": "Mejor agudeza visual corregida", "abbreviationTrad": "BCVA, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "bicr",
+        "abbreviation": "BICR",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Blinded independent central review", "langTrad": "esp", "meaningTrad": "Revisión central ciega independiente", "abbreviationTrad": "BICR, por sus siglas en inglés"}
         ]
     },
     {
@@ -4660,6 +4723,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "World Health Organization", "langTrad": "esp", "meaningTrad": "Organización Mundial de la Salud", "abbreviationTrad": "OMS"}
+        ]
+    },
+    {
+        "abbLowerCase": "who-mgrs",
+        "abbreviation": "WHO-MGRS",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "World Health Organization Multicenter Growth Reference Study", "langTrad": "esp", "meaningTrad": "Estudio multicéntrico de la WHO sobre el patrón de crecimiento", "abbreviationTrad": "WHO-MGRS, por sus siglas en inglés"}
         ]
     },
     {
