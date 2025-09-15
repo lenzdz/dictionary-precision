@@ -1457,6 +1457,7 @@
     {
         "abbLowerCase": "drs",
         "abbreviation": "DRS",
+        "aliases": ["hola"],
         "use": "sigla",
         "language": "inglés y español",
         "meanings": [
@@ -1466,6 +1467,7 @@
     {
         "abbLowerCase": "drs-p",
         "abbreviation": "DRS-P",
+        "aliases": ["entré"],
         "use": "sigla",
         "language": "inglés y español",
         "meanings": [

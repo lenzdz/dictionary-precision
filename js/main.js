@@ -52,11 +52,10 @@ request.onload = function () {
         for (var i = 0; i < abDictionary.length; i++) {
             if (searchedWord == abDictionary[i].abbLowerCase) {
                 found = i;
+                console.log(abDictionary[i].aliases);
                 break;
             }
         }
-
-        
 
         return found;
     }
