@@ -535,6 +535,15 @@
         ]
     },
     {
+        "abbLowerCase": "arcc",
+        "abbreviation": "aRCC",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Advanced renal cell carcinoma", "langTrad": "esp", "meaningTrad": "Carcinoma de células renales avanzado", "abbreviationTrad": "CCRa"}
+        ]
+    },
+    {
         "abbLowerCase": "arf",
         "abbreviation": "ARF",
         "use": "sigla",
@@ -904,6 +913,24 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Council of Cardiovascular Nursing and Allied Professions [currently the Association of Cardiovascular Nursing and Allied Professions, ACNAP]", "langTrad": "esp", "meaningTrad": "Consejo de Enfermería Cardiovascular y Profesiones Afines [actualmente la Asociación de Enfermería Cardiovascular y Profesiones Afines, ACNAP", "abbreviationTrad": "CCNAP (antiguo) o ACNAP (actual), por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "ccr",
+        "abbreviation": "CCR",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Carcinoma de células renales", "langTrad": "eng", "meaningTrad": "Renal cell carcinoma", "abbreviationTrad": "RCC"}
+        ]
+    },
+    {
+        "abbLowerCase": "ccra",
+        "abbreviation": "CCRa",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Carcinoma de células renales avanzado", "langTrad": "eng", "meaningTrad": "Advanced renal cell carcinoma", "abbreviationTrad": "aRCC"}
         ]
     },
     {
@@ -1425,6 +1452,33 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Desprendimiento de retina regmatógeno", "langTrad": "eng", "meaningTrad": "Rhegmatogenous retinal detachment", "abbreviationTrad": "RRD"}
+        ]
+    },
+    {
+        "abbLowerCase": "drs",
+        "abbreviation": "DRS",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Disease-related symptom", "langTrad": "esp", "meaningTrad": "Síntoma relacionados con la enfermedad", "abbreviationTrad": "DRS, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "drs-p",
+        "abbreviation": "DRS-P",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Disease-related symptom - physical", "langTrad": "esp", "meaningTrad": "Síntoma relacionados con la enfermedad - físico", "abbreviationTrad": "DRS-P, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "drsp",
+        "abbreviation": "DRS-P",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Disease-related symptom - physical", "langTrad": "esp", "meaningTrad": "Síntoma relacionados con la enfermedad - físico", "abbreviationTrad": "DRS-P, por sus siglas en inglés"}
         ]
     },
     {
@@ -3742,6 +3796,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Respuesta completa", "langTrad": "eng", "meaningTrad": "Complete response", "abbreviationTrad": "CR"}
+        ]
+    },
+    {
+        "abbLowerCase": "rcc",
+        "abbreviation": "RCC",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Renal cell carcinoma", "langTrad": "esp", "meaningTrad": "Carcinoma de células renales", "abbreviationTrad": "CCR"}
         ]
     },
     {
