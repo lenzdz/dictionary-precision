@@ -50,12 +50,17 @@ request.onload = function () {
         found = -1; // initialize found to false
 
         for (var i = 0; i < abDictionary.length; i++) {
+            if (abDictionary[i].aliases?.includes(searchedWord)) {
+                found = i;
+                break;
+            };
             if (searchedWord == abDictionary[i].abbLowerCase) {
                 found = i;
-                console.log(abDictionary[i].aliases);
                 break;
             }
         }
+
+
 
         return found;
     }

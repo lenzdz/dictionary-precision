@@ -1457,14 +1457,22 @@
     {
         "abbLowerCase": "drs",
         "abbreviation": "DRS",
-        "aliases": ["hola", "chao"],
         "use": "sigla",
         "language": "inglés y español",
         "meanings": [
             {"lang": "eng", "meaning": "Disease-related symptom", "langTrad": "esp", "meaningTrad": "Síntoma relacionados con la enfermedad", "abbreviationTrad": "DRS, por sus siglas en inglés"}
         ]
     },
-
+    {
+        "abbLowerCase": "drs-p",
+        "abbreviation": "DRS-P",
+        "aliases": ["drsp"],
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Disease-related symptom - physical", "langTrad": "esp", "meaningTrad": "Síntoma relacionados con la enfermedad - físico", "abbreviationTrad": "DRS-P, por sus siglas en inglés"}
+        ]
+    },
     {
         "abbLowerCase": "dsvd",
         "abbreviation": "DSVD",
