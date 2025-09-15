@@ -74,15 +74,7 @@
     {
         "abbLowerCase": "aav9-ab",
         "abbreviation": "AAV9-Ab",
-        "use": "sigla",
-        "language": "inglés y español",
-        "meanings": [
-            {"lang": "eng", "meaning": "Adeno-associated virus serotype 9 antibody", "langTrad": "esp", "meaningTrad": "Anticuerpo del virus adenoasociado de serotipo 9", "abbreviationTrad": "AAV9-Ab, por sus siglas en inglés", "notes": "también puede presentarse como «anti-AAV9»"}
-        ]
-    },
-    {
-        "abbLowerCase": "aav9ab",
-        "abbreviation": "AAV9-Ab",
+        "aliases": ["aav9ab"],
         "use": "sigla",
         "language": "inglés y español",
         "meanings": [
@@ -618,6 +610,7 @@
     {
         "abbLowerCase": "asco vf",
         "abbreviation": "ASCO VF",
+        "aliases": ["ascovf"],
         "use": "sigla",
         "language": "inglés y español",
         "meanings": [
@@ -982,6 +975,7 @@
     {
         "abbLowerCase": "chop intend",
         "abbreviation": "CHOP INTEND",
+        "aliases": ["chopintend"],
         "use": "sigla",
         "language": "inglés",
         "meanings": [
@@ -2227,17 +2221,9 @@
         ]
     },
     {
-        "abbLowerCase": "hscrp",
-        "abbreviation": "hsCRP",
-        "use": "sigla",
-        "language": "inglés",
-        "meanings": [
-            {"lang": "eng", "meaning": "High-sensitivity C-reactive protein", "langTrad": "esp", "meaningTrad": "Proteína C-reactiva de alta sensibilidad", "abbreviationTrad": "PCR-as"}
-        ]
-    },
-    {
         "abbLowerCase": "hs-crp",
         "abbreviation": "hs-CRP",
+        "aliases": ["hscrp"],
         "use": "sigla",
         "language": "inglés",
         "meanings": [
@@ -2508,15 +2494,6 @@
         ]
     },
     {
-        "abbLowerCase": "ipss",
-        "abbreviation": "IPSS",
-        "use": "sigla",
-        "language": "inglés y español",
-        "meanings": [
-            {"lang": "eng", "meaning": "International Prostate Symptom Score", "langTrad": "esp", "meaningTrad": "Puntuación Internacional de Síntomas Prostáticos", "abbreviationTrad": "IPSS, por sus siglas en inglés"}
-        ]
-    },
-    {
         "abbLowerCase": "ir",
         "abbreviation": "IR",
         "use": "sigla",
@@ -2647,6 +2624,7 @@
     {
         "abbLowerCase": "i-pss",
         "abbreviation": "I-PSS",
+        "aliases": ["ipss"],
         "use": "sigla",
         "language": "inglés y español",
         "meanings": [
@@ -2756,6 +2734,7 @@
     {
         "abbLowerCase": "ldl-c",
         "abbreviation": "LDL-C",
+        "aliases": ["ldlc"],
         "use": "sigla",
         "language": "inglés",
         "meanings": [
@@ -2765,6 +2744,7 @@
     {
         "abbLowerCase": "ldl-p",
         "abbreviation": "LDL-P",
+        "aliases": ["ldlp"],
         "use": "sigla",
         "language": "inglés",
         "meanings": [
@@ -2801,19 +2781,11 @@
     {
         "abbLowerCase": "lh-rh",
         "abbreviation": "LH-RH",
+        "aliases": ["lhrh"],
         "use": "sigla",
         "language": "inglés y español",
         "meanings": [
             {"lang": "eng", "meaning": "Luteinizing hormone-releasing hormone", "langTrad": "esp", "meaningTrad": "Hormona liberadora de hormona luteinizante", "abbreviationTrad": "LH-RH"}
-        ]
-    },
-    {
-        "abbLowerCase": "lhrh",
-        "abbreviation": "LHRH",
-        "use": "sigla",
-        "language": "inglés y español",
-        "meanings": [
-            {"lang": "eng", "meaning": "Luteinizing hormone-releasing hormone", "langTrad": "esp", "meaningTrad": "Hormona liberadora de hormona luteinizante", "abbreviationTrad": "LHRH"}
         ]
     },
     {
@@ -3119,6 +3091,7 @@
     {
         "abbLowerCase": "neo-ct",
         "abbreviation": "Neo-CT",
+        "aliases": ["neoct"],
         "use": "sigla",
         "language": "inglés",
         "meanings": [
@@ -3394,6 +3367,7 @@
     {
         "abbLowerCase": "pcr-as",
         "abbreviation": "PCR-as",
+        "aliases": ["pcras"],
         "use": "sigla",
         "language": "español",
         "meanings": [
@@ -3410,35 +3384,19 @@
         ]
     },
     {
-        "abbLowerCase": "pd1",
-        "abbreviation": "PD-1",
-        "use": "sigla",
-        "language": "inglés y español",
-        "meanings": [
-            {"lang": "eng", "meaning": "Programmed cell death protein 1", "langTrad": "esp", "meaningTrad": "Proteína de muerte celular programada 1", "abbreviationTrad": "PD-1"}
-        ]
-    },
-    {
         "abbLowerCase": "pd-1",
         "abbreviation": "PD-1",
+        "aliases": ["pd1"],
         "use": "sigla",
         "language": "inglés y español",
         "meanings": [
             {"lang": "eng", "meaning": "Programmed cell death protein 1", "langTrad": "esp", "meaningTrad": "Proteína de muerte celular programada 1", "abbreviationTrad": "PD-1"}
-        ]
-    },
-    {
-        "abbLowerCase": "pdl1",
-        "abbreviation": "PD-L1",
-        "use": "sigla",
-        "language": "inglés y español",
-        "meanings": [
-            {"lang": "eng", "meaning": "Programmed death-ligand 1", "langTrad": "esp", "meaningTrad": "Ligando 1 de muerte programada", "abbreviationTrad": "PD-L1"}
         ]
     },
     {
         "abbLowerCase": "pd-l1",
         "abbreviation": "PD-L1",
+        "aliases": ["pdl1"],
         "use": "sigla",
         "language": "inglés y español",
         "meanings": [
@@ -3476,6 +3434,7 @@
     {
         "abbLowerCase": "pet-ct",
         "abbreviation": "PET-CT",
+        "aliases": ["petct"],
         "use": "sigla",
         "language": "inglés",
         "meanings": [
@@ -3601,26 +3560,9 @@
         ]
     },
     {
-        "abbLowerCase": "ppar-a",
-        "abbreviation": "PPAR-a",
-        "use": "sigla",
-        "language": "inglés y español",
-        "meanings": [
-            {"lang": "eng", "meaning": "Peroxisome proliferator-activated receptor alpha", "langTrad": "esp", "meaningTrad": "Receptor activado por el proliferador de peroxisomas alfa", "abbreviationTrad": "PPAR-α", "notes": "también conocido como NR1C1 (subfamilia 1 de receptores nucleares, grupo C, miembro 1)"}
-        ]
-    },
-    {
-        "abbLowerCase": "pparα",
-        "abbreviation": "PPARα",
-        "use": "sigla",
-        "language": "inglés y español",
-        "meanings": [
-            {"lang": "eng", "meaning": "Peroxisome proliferator-activated receptor alpha", "langTrad": "esp", "meaningTrad": "Receptor activado por el proliferador de peroxisomas alfa", "abbreviationTrad": "PPAR-α", "notes": "también conocido como NR1C1 (subfamilia 1 de receptores nucleares, grupo C, miembro 1)"}
-        ]
-    },
-    {
         "abbLowerCase": "ppar-α",
-        "abbreviation": "PPAR-α",
+        "abbreviation": "PPAR-α, PPAR-a",
+        "aliases": ["ppar-a", "ppara", "pparα"],
         "use": "sigla",
         "language": "inglés y español",
         "meanings": [
@@ -3910,21 +3852,21 @@
         ]
     },
     {
-        "abbLowerCase": "rrd",
-        "abbreviation": "RRD",
-        "use": "sigla",
-        "language": "inglés",
-        "meanings": [
-            {"lang": "eng", "meaning": "Rhegmatogenous retinal detachment", "langTrad": "esp", "meaningTrad": "Desprendimiento de retina regmatógeno", "abbreviationTrad": "DRR"}
-        ]
-    },
-    {
         "abbLowerCase": "rra",
         "abbreviation": "RRA",
         "use": "sigla",
         "language": "español e inglés",
         "meanings": [
             {"lang": "esp", "meaning": "Reducción del riesgo absoluto", "langTrad": "eng", "meaningTrad": "Absolute risk reduction", "abbreviationTrad": "ARR"}
+        ]
+    },
+    {
+        "abbLowerCase": "rrd",
+        "abbreviation": "RRD",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Rhegmatogenous retinal detachment", "langTrad": "esp", "meaningTrad": "Desprendimiento de retina regmatógeno", "abbreviationTrad": "DRR"}
         ]
     },
     {
@@ -4403,6 +4345,7 @@
     {
         "abbLowerCase": "tep-tc",
         "abbreviation": "TEP-TC",
+        "aliases": ["teptc"],
         "use": "sigla",
         "language": "español",
         "meanings": [
@@ -4783,6 +4726,7 @@
     {
         "abbLowerCase": "who-mgrs",
         "abbreviation": "WHO-MGRS",
+        "aliases": ["whomgrs"],
         "use": "sigla",
         "language": "inglés y español",
         "meanings": [
@@ -4801,6 +4745,7 @@
     {
         "abbLowerCase": "β2ap",
         "abbreviation": "β2AP",
+        "aliases": ["b2ap"],
         "use": "sigla",
         "language": "español",
         "meanings": [
@@ -4810,19 +4755,11 @@
     {
         "abbLowerCase": "β3-ara",
         "abbreviation": "β3-ARA",
+        "aliases": ["β3ara", "b3-ara", "b3ara"],
         "use": "sigla",
         "language": "inglés y español",
         "meanings": [
             {"lang": "esp", "meaning": "Agonista de los receptores β₃ adrenérgicos, agonista de los receptores β₃ adrenérgicos", "langTrad": "eng", "meaningTrad": "β₃-adrenoreceptor agonists", "abbreviationTrad": "β3-ARA"}
-        ]
-    },
-    {
-        "abbLowerCase": "β3ara",
-        "abbreviation": "β3ARA",
-        "use": "sigla",
-        "language": "inglés y español",
-        "meanings": [
-            {"lang": "esp", "meaning": "Agonista de los receptores β₃ adrenérgicos, agonista de los receptores β₃ adrenérgicos", "langTrad": "eng", "meaningTrad": "β₃-adrenoreceptor agonists, β₃ adrenergic receptor agonist ", "abbreviationTrad": "β3-ARA"}
         ]
     }
 ]

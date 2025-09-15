@@ -50,14 +50,17 @@ request.onload = function () {
         found = -1; // initialize found to false
 
         for (var i = 0; i < abDictionary.length; i++) {
-            if (abDictionary[i].aliases?.includes(searchedWord)) {
-                found = i;
-                break;
-            };
+            // Buscar por término de búsqueda
             if (searchedWord == abDictionary[i].abbLowerCase) {
                 found = i;
                 break;
             }
+            // Buscar por alias, ya sea con símbolos diferentes o su ausencia.
+            // Por ejemplo, si la sigla busca es DRS-P, pero el usuario busca "drsp" (sin guion) la entrada asociada a DRS-P retornará su información gracias a que tiene un ítem correspondiente a los posibles alias con los que puede buscarse, sin guion.
+            if (abDictionary[i].aliases?.includes(searchedWord)) {
+                found = i;
+                break;
+            };
         }
 
 
