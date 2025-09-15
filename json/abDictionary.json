@@ -2990,6 +2990,16 @@
         ]
     },
     {
+        "abbLowerCase": "mos",
+        "abbreviation": "mOS",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Mean overall survival", "langTrad": "esp", "meaningTrad": "Media de la supervivencia global", "abbreviationTrad": "mSG"},
+            {"lang": "eng", "meaning": "Median overall survival", "langTrad": "esp", "meaningTrad": "Mediana de la supervivencia global", "abbreviationTrad": "mSG"}
+        ]
+    },
+    {
         "abbLowerCase": "mrd",
         "abbreviation": "MRD",
         "use": "sigla",
@@ -3014,6 +3024,16 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Messenger ribonucleic acid", "langTrad": "esp", "meaningTrad": "Ácido ribonucleico mensajero", "abbreviationTrad": "ARNm"}
+        ]
+    },
+    {
+        "abbLowerCase": "msg",
+        "abbreviation": "mSG",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Media de la supervivencia global", "langTrad": "eng", "meaningTrad": "Mean overall survival", "abbreviationTrad": "mOS"},
+            {"lang": "esp", "meaning": "Mediana de la supervivencia global", "langTrad": "eng", "meaningTrad": "Median overall survival", "abbreviationTrad": "mOS"}
         ]
     },
     {
