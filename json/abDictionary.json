@@ -1821,6 +1821,16 @@
         ]
     },
     {
+        "abbLowerCase": "eq-5d-3l",
+        "abbreviation": "EuroQoL-5D-3L, EQ-5D-3L",
+        "aliases": ["euroqol-5d-3l", "euroqol5d3l", "euroqol 5d3l", "euroqol 5d-3l", "eq5d3l", "eq 5d 3l", "eq-5d3l", "eq5d-3l", "eq-5d 3l", "eq 5d-3l", "eq5d 3l", "eq 5d3l"],
+        "use": "abreviatura",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "EuroQoL 5-dimensions 3-level questionnaire", "langTrad": "esp", "meaningTrad": "Cuestionario de 5 dimensiones y 3 niveles del grupo EuroQoL", "abbreviationTrad": "EuroQoL-5D-3L, por sus siglas en inglés o EQ-5D-3L, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "er",
         "abbreviation": "ER",
         "use": "sigla",
