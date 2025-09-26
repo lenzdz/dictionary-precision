@@ -74,7 +74,7 @@
     {
         "abbLowerCase": "aav9-ab",
         "abbreviation": "AAV9-Ab",
-        "aliases": ["aav9ab"],
+        "aliases": ["aav9ab", "antiaav9", "anti-aav9"],
         "use": "sigla",
         "language": "inglés y español",
         "meanings": [
@@ -234,7 +234,7 @@
         "use": "sigla",
         "language": "inglés",
         "meanings": [
-            {"lang": "eng", "meaning": "Adverse event", "langTrad": "esp", "meaningTrad": "Evento adverso", "abbreviationTrad": "EA"}
+            {"lang": "eng", "meaning": "Adverse event, adverse effect", "langTrad": "esp", "meaningTrad": "Evento adverso, efecto adverso", "abbreviationTrad": "EA"}
         ]
     },
     {
@@ -1509,7 +1509,7 @@
         "use": "sigla",
         "language": "español",
         "meanings": [
-            {"lang": "esp", "meaning": "Evento adverso", "langTrad": "eng", "meaningTrad": "Adverse event", "abbreviationTrad": "AE"}
+            {"lang": "esp", "meaning": "Evento adverso, efecto adverso", "langTrad": "eng", "meaningTrad": "Adverse event, adverse effect", "abbreviationTrad": "AE"}
         ]
     },
     {
@@ -2525,9 +2525,10 @@
         "abbLowerCase": "irt",
         "abbreviation": "IRT",
         "use": "sigla",
-        "language": "español",
+        "language": "español e inglés",
         "meanings": [
-            {"lang": "esp", "meaning": "Insuficiencia renal terminal", "langTrad": "eng", "meaningTrad": "End-stage renal disease", "abbreviationTrad": "ESRD"}
+            {"lang": "esp", "meaning": "Insuficiencia renal terminal", "langTrad": "eng", "meaningTrad": "End-stage renal disease", "abbreviationTrad": "ESRD"},
+            {"lang": "eng", "meaning": "Immune reconstitution therapy", "langTrad": "esp", "meaningTrad": "Terapia de reconstitución inmunitaria", "abbreviationTrad": "TRI o IRT, por sus siglas en inglés"}
         ]
     },
     {
@@ -2555,6 +2556,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Inhibidor de la transcriptasa inversa no análogo de los nucleósidos, análogo de nucleósidos inhibidores de la transcriptasa inversa", "langTrad": "eng", "meaningTrad": "Non-nucleoside analogue reverse transcriptase inhibitor, non-nucleoside reverse transcriptase inhibitor", "abbreviationTrad": "NNRTI"}
+        ]
+    },
+        {
+        "abbLowerCase": "itk",
+        "abbreviation": "ITK",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Inhibidor de la tirosina cinasa, inhibidor de la tirosina quinasa", "langTrad": "eng", "meaningTrad": "Tyrosine kinase inhibitor", "abbreviationTrad": "TKI"}
         ]
     },
     {
@@ -3458,7 +3468,7 @@
         "use": "sigla",
         "language": "inglés",
         "meanings": [
-            {"lang": "eng", "meaning": "Positron emission tomography and computed tomography", "langTrad": "esp", "meaningTrad": "Tomografía por emisión de positrones con tomografía computarizada", "abbreviationTrad": "TEP"}
+            {"lang": "eng", "meaning": "Positron emission tomography and computed tomography", "langTrad": "esp", "meaningTrad": "Tomografía por emisión de positrones con tomografía computarizada", "abbreviationTrad": "TEP-TC"}
         ]
     },
     {
@@ -4423,7 +4433,7 @@
         "use": "sigla",
         "language": "inglés",
         "meanings": [
-            {"lang": "eng", "meaning": "Tyrosine kinase inhibitor", "langTrad": "esp", "meaningTrad": "Inhibidor de la tirosina cinasa, inhibidor de la tirosina quinasa", "abbreviationTrad": "TKI, por sus siglas en inglés"}
+            {"lang": "eng", "meaning": "Tyrosine kinase inhibitor", "langTrad": "esp", "meaningTrad": "Inhibidor de la tirosina cinasa, inhibidor de la tirosina quinasa", "abbreviationTrad": "ITK o TKI, por sus siglas en inglés"}
         ]
     },
     {
@@ -4515,6 +4525,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Tasa de respuesta", "langTrad": "eng", "meaningTrad": "Response rate", "abbreviationTrad": "RR"}
+        ]
+    },
+    {
+        "abbLowerCase": "tri",
+        "abbreviation": "TRI",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Terapia de reconstitución inmunitaria", "langTrad": "eng", "meaningTrad": "Immune reconstitution therapy", "abbreviationTrad": "IRT"}
         ]
     },
     {

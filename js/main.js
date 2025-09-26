@@ -56,7 +56,7 @@ request.onload = function () {
                 break;
             }
             // Buscar por alias, ya sea con símbolos diferentes o su ausencia.
-            // Por ejemplo, si la sigla busca es DRS-P, pero el usuario busca "drsp" (sin guion) la entrada asociada a DRS-P retornará su información gracias a que tiene un ítem correspondiente a los posibles alias con los que puede buscarse, sin guion.
+            // Por ejemplo, si la sigla buscada es DRS-P, pero el usuario busca "drsp" (sin guion) la entrada asociada a DRS-P retornará su información gracias a que tiene un ítem correspondiente a los posibles alias con los que puede buscarse, sin guion.
             if (abDictionary[i].aliases?.includes(searchedWord)) {
                 found = i;
                 break;
@@ -94,7 +94,7 @@ request.onload = function () {
     function fuzzySearchMatchesByTerm(searchedWord) {
         fuzzyMatches = new Set();;
 
-        // Prioritizing of results that match accents and diacritics.
+        // Prioritizing results that match accents and diacritics.
         for (var i = 0; i < abDictionary.length; i++) {
              abDictionary[i].meanings.forEach(function(element) {
                 if (element.meaning.toLowerCase().includes(searchedWord)) {
