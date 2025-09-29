@@ -491,6 +491,15 @@
         ]
     },
     {
+        "abbLowerCase": "apd",
+        "abbreviation": "APD",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Acid peptic disease", "langTrad": "esp", "meaningTrad": "Enfermedad ácido péptica", "abbreviationTrad": "EAP"}
+        ]
+    },
+    {
         "abbLowerCase": "ape",
         "abbreviation": "APE",
         "use": "sigla",
@@ -1549,6 +1558,15 @@
         ]
     },
     {
+        "abbLowerCase": "eap",
+        "abbreviation": "EAP",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Enfermedad ácido péptica", "langTrad": "eng", "meaningTrad": "Acid peptic disease", "abbreviationTrad": "APD"}
+        ]
+    },
+    {
         "abbLowerCase": "eca",
         "abbreviation": "ECA",
         "use": "sigla",
@@ -1950,7 +1968,7 @@
         "use": "abreviatura",
         "language": "inglés y español",
         "meanings": [
-            {"lang": "eng", "meaning": "European Quality of Life [Group]", "langTrad": "esp", "meaningTrad": "[Grupo] Europeo de Calidad de Vida", "abbreviationTrad": "EuroQoL, por sus siglas en inglés"}
+            {"lang": "eng", "meaning": "European Quality of Life Group", "langTrad": "esp", "meaningTrad": "Grupo Europeo de Calidad de Vida", "abbreviationTrad": "EuroQoL, por sus siglas en inglés"}
         ]
     },
     {
@@ -2122,6 +2140,15 @@
         "language": "inglés y español",
         "meanings": [
             {"lang": "eng", "meaning": "Gonadotropin-releasing hormone", "langTrad": "esp", "meaningTrad": "Hormona liberadora de gonadotropina", "abbreviationTrad": "LH"}
+        ]
+    },
+    {
+        "abbLowerCase": "gr",
+        "abbreviation": "GR",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Eritrocito, glóbulo rojo", "langTrad": "eng", "meaningTrad": "Red blood cell", "abbreviationTrad": "RBC"}
         ]
     },
     {
@@ -3799,6 +3826,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Each week", "langTrad": "esp", "meaningTrad": "Cada semana", "abbreviationTrad": "c/ semana"}
+        ]
+    },
+    {
+        "abbLowerCase": "rbc",
+        "abbreviation": "RBC",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Red blood cell", "langTrad": "esp", "meaningTrad": "Eritrocito, glóbulo rojo", "abbreviationTrad": "GR o RBC, por sus siglas en inglés"}
         ]
     },
     {
