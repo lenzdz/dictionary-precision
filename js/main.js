@@ -30,12 +30,14 @@ request.onload = function () {
         }
 
         // Search fuzzy matches (useful for not exact searches)
-        fuzzyByAbbreviation = fuzzySearchMatchesByAbbreviation(searchedWord);
-        fuzzyByTerm = fuzzySearchMatchesByTerm(searchedWord);
-        fuzzyByTrad = fuzzySearchMatchesByTermTrad(searchedWord);
+        if (found == -1) {
+            fuzzyByAbbreviation = fuzzySearchMatchesByAbbreviation(searchedWord);
+            fuzzyByTerm = fuzzySearchMatchesByTerm(searchedWord);
+            fuzzyByTrad = fuzzySearchMatchesByTermTrad(searchedWord);
 
-        // Merge all Sets to have just one entry per item found in the fuzzy searches
-        matches = new Set([...matches, ...fuzzyByAbbreviation, ...fuzzyByTerm, ...fuzzyByTrad]);
+            // Merge all Sets to have just one entry per item found in the fuzzy searches
+            matches = new Set([...matches, ...fuzzyByAbbreviation, ...fuzzyByTerm, ...fuzzyByTrad]);
+        }
 
         // If any of the searches was succesful, then show in screen results. Otherwise, show not found message
         if (matches.size > 0) {
@@ -317,7 +319,7 @@ request.onload = function () {
     function mayusCorrection(originalText, meaning) {
         let numUpperCases = countUpperCases(originalText);
 
-        const exceptions = ["a", "de", "del", "el", "en", "la", "para", "por", "the", "to"];
+        const exceptions = ["a", "de", "del", "el", "en", "la", "para", "por", "the", "to", "and"];
         if (numUpperCases > 1) {
 
             return meaning.split(' ').map((word) => {

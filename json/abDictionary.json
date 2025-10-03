@@ -3327,6 +3327,15 @@
         ]
     },
     {
+        "abbLowerCase": "ne",
+        "abbreviation": "NE",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "No estimable", "langTrad": "eng", "meaningTrad": "Not estimable", "abbreviationTrad": "NE"}
+        ]
+    },
+    {
         "abbLowerCase": "neo-ct",
         "abbreviation": "Neo-CT",
         "aliases": ["neoct"],
@@ -3385,9 +3394,10 @@
         "abbLowerCase": "nr",
         "abbreviation": "NR",
         "use": "sigla",
-        "language": "inglés",
+        "language": "inglés y español",
         "meanings": [
-            {"lang": "eng", "meaning": "Not reached", "langTrad": "esp", "meaningTrad": "No alcanzado", "abbreviationTrad": "NA"}
+            {"lang": "eng", "meaning": "Not reached", "langTrad": "esp", "meaningTrad": "No alcanzado", "abbreviationTrad": "NA"},
+            {"lang": "eng", "meaning": "Not reported", "langTrad": "esp", "meaningTrad": "No reportado", "abbreviationTrad": "NR"}
         ]
     },
     {
@@ -3633,7 +3643,7 @@
     {
         "abbLowerCase": "pd-1",
         "abbreviation": "PD-1",
-        "aliases": ["pd1"],
+        "aliases": ["pd1", "pd 1"],
         "use": "sigla",
         "language": "inglés y español",
         "meanings": [
@@ -3643,7 +3653,7 @@
     {
         "abbLowerCase": "pd-l1",
         "abbreviation": "PD-L1",
-        "aliases": ["pdl1"],
+        "aliases": ["pdl1", "pd l1"],
         "use": "sigla",
         "language": "inglés y español",
         "meanings": [
