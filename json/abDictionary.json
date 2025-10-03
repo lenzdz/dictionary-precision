@@ -927,6 +927,15 @@
         ]
     },
     {
+        "abbLowerCase": "ccrm",
+        "abbreviation": "CCRm",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Carcinoma de células renales metastásico", "langTrad": "eng", "meaningTrad": "Metastatic renal cell carcinoma", "abbreviationTrad": "mRCC"}
+        ]
+    },
+    {
         "abbLowerCase": "ccrt",
         "abbreviation": "CCRT, cCRT",
         "use": "sigla",
@@ -988,6 +997,7 @@
         "use": "sigla",
         "language": "inglés",
         "meanings": [
+            {"lang": "eng", "meaning": "Checkpoint inhibitors", "langTrad": "esp", "meaningTrad": "Inhibidor de punto de control", "abbreviationTrad": "IPC", "notes": "el uso de esta sigla es muy infrecuente, se prefiere su alternativa de uso más amplio: «ICI»"},
             {"lang": "eng", "meaning": "Confidence interval", "langTrad": "esp", "meaningTrad": "Intervalo de confianza", "abbreviationTrad": "IC"}
         ]
     },
@@ -2382,6 +2392,15 @@
         ]
     },
     {
+        "abbLowerCase": "ibp",
+        "abbreviation": "IBP",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Inhibidor de la bomba de protones", "langTrad": "eng", "meaningTrad": "Proton pump inhibitor", "abbreviationTrad": "PPI"}
+        ]
+    },
+    {
         "abbLowerCase": "ibs",
         "abbreviation": "IBS",
         "use": "sigla",
@@ -2492,6 +2511,15 @@
         ]
     },
     {
+        "abbLowerCase": "imdc",
+        "abbreviation": "IMDC",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+                {"lang": "eng", "meaning": "International mRCC Database Consortium", "langTrad": "esp", "meaningTrad": "Consorcio Internacional de Bases de Datos de Carcinoma Metastásico de Células Renales", "abbreviationTrad": "IMDC, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "imrt",
         "abbreviation": "IMRT",
         "use": "sigla",
@@ -2573,6 +2601,15 @@
         ]
     },
     {
+        "abbLowerCase": "ipc",
+        "abbreviation": "IPC",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Inhibidor de punto de control", "langTrad": "eng", "meaningTrad": "Checkpoint inhibitors", "abbreviationTrad": "CI", "notes": "el uso de esta sigla es muy infrecuente, se prefiere su alternativa de uso más amplio: «IPCI»"}
+        ]
+    },
+    {
         "abbLowerCase": "ipci",
         "abbreviation": "IPCI",
         "use": "sigla",
@@ -2647,6 +2684,15 @@
         ]
     },
     {
+        "abbLowerCase": "itc",
+        "abbreviation": "ITC",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Inhibidor de la tirosina cinasa", "langTrad": "eng", "meaningTrad": "Tyrosine kinase inhibitor", "abbreviationTrad": "TKI"}
+        ]
+    },
+    {
         "abbLowerCase": "itinn",
         "abbreviation": "ITINN",
         "use": "sigla",
@@ -2655,7 +2701,7 @@
             {"lang": "esp", "meaning": "Inhibidor de la transcriptasa inversa no análogo de los nucleósidos, análogo de nucleósidos inhibidores de la transcriptasa inversa", "langTrad": "eng", "meaningTrad": "Non-nucleoside analogue reverse transcriptase inhibitor, non-nucleoside reverse transcriptase inhibitor", "abbreviationTrad": "NNRTI"}
         ]
     },
-        {
+    {
         "abbLowerCase": "itk",
         "abbreviation": "ITK",
         "use": "sigla",
@@ -2978,6 +3024,15 @@
         ]
     },
     {
+        "abbLowerCase": "lsmd",
+        "abbreviation": "LSMD",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Least squares mean difference", "langTrad": "eng", "meaningTrad": "Diferencia de medias por mínimos cuadrados", "abbreviationTrad": "LSMD, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "lt",
         "abbreviation": "LT",
         "use": "sigla",
@@ -3107,6 +3162,24 @@
         ]
     },
     {
+        "abbLowerCase": "mpfs",
+        "abbreviation": "mPFS",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Mean progression-free survival", "langTrad": "esp", "meaningTrad": "Media de la supervivencia libre de progresión, supervivencia libre de progresión media", "abbreviationTrad": "mSLP o SLPm"}
+        ]
+    },
+    {
+        "abbLowerCase": "mrcc",
+        "abbreviation": "mRCC",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Metastatic renal cell carcinoma", "langTrad": "esp", "meaningTrad": "Carcinoma de células renales metastásico", "abbreviationTrad": "CCRm"}
+        ]
+    },
+    {
         "abbLowerCase": "mrd",
         "abbreviation": "MRD",
         "use": "sigla",
@@ -3144,12 +3217,31 @@
         ]
     },
     {
+        "abbLowerCase": "mslp",
+        "abbreviation": "mSLP",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Media de la supervivencia libre de progresión", "langTrad": "eng", "meaningTrad": "Mean progression-free survival", "abbreviationTrad": "mPFS"}
+        ]
+    },
+    {
         "abbLowerCase": "mtor",
         "abbreviation": "mTOR",
         "use": "sigla",
         "language": "inglés y español",
         "meanings": [
             {"lang": "eng", "meaning": "Mammalian target of rapamycin, mechanistic target of rapamycin", "langTrad": "esp", "meaningTrad": "Diana de rapamicina en células de mamífero, blanco de la rapamicina en los mamíferos", "abbreviationTrad": "mTOR"}
+        ]
+    },
+    {
+        "abbLowerCase": "na",
+        "abbreviation": "NA",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "No alcanzado", "langTrad": "eng", "meaningTrad": "Not reached", "abbreviationTrad": "NR"},
+            {"lang": "eng", "meaning": "Not available", "langTrad": "esp", "meaningTrad": "No disponible", "abbreviationTrad": "ND"}
         ]
     },
     {
@@ -3217,6 +3309,15 @@
         ]
     },
     {
+        "abbLowerCase": "nd",
+        "abbreviation": "ND",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "No disponible", "langTrad": "eng", "meaningTrad": "Not available", "abbreviationTrad": "NA"}
+        ]
+    },
+    {
         "abbLowerCase": "nda",
         "abbreviation": "NDA",
         "use": "sigla",
@@ -3278,6 +3379,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Novel oral anticoagulant, non-vitamin K antagonist oral anticoagulant", "langTrad": "esp", "meaningTrad": "Nuevos anticoagulantes oral, anticoagulante oral no antagonista de la vitamina K", "abbreviationTrad": "NACO"}
+        ]
+    },
+    {
+        "abbLowerCase": "nr",
+        "abbreviation": "NR",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Not reached", "langTrad": "esp", "meaningTrad": "No alcanzado", "abbreviationTrad": "NA"}
         ]
     },
     {
@@ -3704,6 +3814,15 @@
         "language": "inglés y español",
         "meanings": [
             {"lang": "eng", "meaning": "Peroxisome proliferator-activated receptor alpha", "langTrad": "esp", "meaningTrad": "Receptor activado por el proliferador de peroxisomas alfa", "abbreviationTrad": "PPAR-α", "notes": "también conocido como NR1C1 (subfamilia 1 de receptores nucleares, grupo C, miembro 1)"}
+        ]
+    },
+    {
+        "abbLowerCase": "ppi",
+        "abbreviation": "PPI",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Proton pump inhibitor", "langTrad": "esp", "meaningTrad": "Inhibidor de la bomba de protones", "abbreviationTrad": "IBP"}
         ]
     },
     {
@@ -4254,6 +4373,15 @@
         ]
     },
     {
+        "abbLowerCase": "sgm",
+        "abbreviation": "SGm",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Supervivencia global media", "langTrad": "eng", "meaningTrad": "Mean overall survival", "abbreviationTrad": "mOS"}
+        ]
+    },
+    {
         "abbLowerCase": "sii",
         "abbreviation": "SII",
         "use": "sigla",
@@ -4306,6 +4434,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Supervivencia libre de progresión", "langTrad": "eng", "meaningTrad": "Progression-free survival", "abbreviationTrad": "PFS"}
+        ]
+    },
+    {
+        "abbLowerCase": "slpm",
+        "abbreviation": "SLPm",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Supervivencia libre de progresión media", "langTrad": "eng", "meaningTrad": "Median progression-free survival", "abbreviationTrad": "mPFS"}
         ]
     },
     {
