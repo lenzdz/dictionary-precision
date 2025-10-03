@@ -864,15 +864,6 @@
         ]
     },
     {
-        "abbLowerCase": "cam",
-        "abbreviation": "CaM",
-        "use": "sigla",
-        "language": "español",
-        "meanings": [
-            {"lang": "esp", "meaning": "Cáncer de mama", "langTrad": "eng", "meaningTrad": "Breast cancer", "abbreviationTrad": "BC"}
-        ]
-    },
-    {
         "abbLowerCase": "camp",
         "abbreviation": "cAMP",
         "use": "sigla",
@@ -887,7 +878,7 @@
         "use": "sigla",
         "language": "español",
         "meanings": [
-            {"lang": "esp", "meaning": "Cáncer de próstata", "langTrad": "eng", "meaningTrad": "Prostate cancer (PCa)", "abbreviationTrad": "PCa"}
+            {"lang": "esp", "meaning": "Cáncer de próstata", "langTrad": "eng", "meaningTrad": "Prostate cancer", "abbreviationTrad": "PCa"}
         ]
     },
     {
@@ -1029,7 +1020,8 @@
     },
     {
         "abbLowerCase": "cm",
-        "abbreviation": "CM",
+        "abbreviation": "CM, CaM",
+        "aliases": ["cam"],
         "use": "sigla",
         "language": "español",
         "meanings": [
@@ -1087,7 +1079,7 @@
         "use": "sigla",
         "language": "español",
         "meanings": [
-            {"lang": "esp", "meaning": "Cáncer de pulmón no microcítico, cáncer de pulmón de células no pequeñas", "langTrad": "eng", "meaningTrad": "Non-small cell lung cancer", "abbreviationTrad": "NSCLC"}
+            {"lang": "esp", "meaning": "Cáncer de pulmón de células no pequeñas, cáncer de pulmón no microcítico", "langTrad": "eng", "meaningTrad": "Non-small cell lung cancer", "abbreviationTrad": "NSCLC"}
         ]
     },
     {
@@ -2071,6 +2063,26 @@
         ]
     },
     {
+        "abbLowerCase": "fksi-19",
+        "abbreviation": "FKSI-19",
+        "aliases": ["fksi19", "fksi 19"],
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Functional assessment of cancer therapy - Kidney symptom index 19", "langTrad": "esp", "meaningTrad": "Evaluación funcional de la terapia del cáncer - Índice de síntomas renales 19", "abbreviationTrad": "FKSI-19, por sus siglas en inglés", "notes": "también conocida como «NCCN/FKSI-19»"}
+        ]
+    },
+    {
+        "abbLowerCase": "fksi-drs",
+        "abbreviation": "FKSI-DRS",
+        "aliases": ["fksidrs", "fksi drs"],
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Functional assessment of cancer therapy - Kidney symptom index - Disease-Related Symptoms", "langTrad": "esp", "meaningTrad": "Evaluación funcional de la terapia del cáncer - Índice de síntomas renales - Síntomas relacionados con la enfermedad", "abbreviationTrad": "FKSI-DRS, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "flt3",
         "abbreviation": "FLT3",
         "use": "sigla",
@@ -2083,8 +2095,9 @@
         "abbLowerCase": "fms",
         "abbreviation": "FMS",
         "use": "sigla",
-        "language": "inglés",
+        "language": "inglés y español",
         "meanings": [
+            {"lang": "eng", "meaning": "Feline McDonough sarcoma", "langTrad": "esp", "meaningTrad": "Sarcoma McDonough felino", "abbreviationTrad": "FMS, por sus siglas en inglés"},
             {"lang": "eng", "meaning": "Fibromyalgia syndrome", "langTrad": "esp", "meaningTrad": "Fibromialgia, síndrome de fibromialgia", "abbreviationTrad": "SF o SFM"}
         ]
     },
@@ -2095,6 +2108,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Functional status", "langTrad": "esp", "meaningTrad": "Estado funcional", "abbreviationTrad": "EF"}
+        ]
+    },
+    {
+        "abbLowerCase": "fwb",
+        "abbreviation": "FWB",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Functional well-being", "langTrad": "esp", "meaningTrad": "bienestar funcional", "abbreviationTrad": "FWB, por sus siglas en inglés"}
         ]
     },
     {
@@ -3176,6 +3198,16 @@
         ]
     },
     {
+        "abbLowerCase": "nccn/fksi-19",
+        "abbreviation": "NCCN/FKSI-19",
+        "aliases": ["nccnfksi19", "nccn fksi 19", "nccn/fksi 19", "nccn fksi19", "nccn fksi-19", "nccn-fksi-19", "nccn-fksi 19", "nfksi19", "nfksi-19", "n-fksi-19", "nfksi 19"],
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "National Comprehensive Cancer Network functional assessment of cancer therapy - Kidney symptom index 19", "langTrad": "esp", "meaningTrad": "Evaluación funcional de la terapia del cáncer de la Red Nacional Integral del Cáncer - Índice de síntomas renales 19", "abbreviationTrad": "FKSI-19, por sus siglas en inglés", "notes": "también conocida como «NFKSI-19»"}
+        ]
+    },
+    {
         "abbLowerCase": "nci",
         "abbreviation": "NCI",
         "use": "sigla",
@@ -3856,6 +3888,16 @@
         ]
     },
     {
+        "abbLowerCase": "rcc-si",
+        "abbreviation": "RCC-SI",
+        "aliases": ["rccsi", "rcc si"],
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Renal cell carcinoma – Symptom index", "langTrad": "esp", "meaningTrad": "Carcinoma de células renales - Índice de síntomas", "abbreviationTrad": "RCC-SI, por siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "rcp",
         "abbreviation": "RCP",
         "use": "sigla",
@@ -4082,6 +4124,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Real-world evidence", "langTrad": "esp", "meaningTrad": "Evidencia del mundo real", "abbreviationTrad": "RWE, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "sc",
+        "abbreviation": "SC",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Subcutáneo", "langTrad": "eng", "meaningTrad": "Subcutaneous", "abbreviationTrad": "SC"}
         ]
     },
     {
