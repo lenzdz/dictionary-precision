@@ -586,7 +586,8 @@
         "use": "sigla",
         "language": "inglés",
         "meanings": [
-            {"lang": "eng", "meaning": "Absolute risk reduction", "langTrad": "esp", "meaningTrad": "Reducción del riesgo absoluto", "abbreviationTrad": "RRA"}
+            {"lang": "eng", "meaning": "Absolute risk reduction", "langTrad": "esp", "meaningTrad": "Reducción del riesgo absoluto", "abbreviationTrad": "RRA"},
+            {"lang": "eng", "meaning": "Annualized relapse rate", "langTrad": "esp", "meaningTrad": "Tasa anual de recaídas, tasa anualizada de recaídas", "abbreviationTrad": "TAR"}
         ]
     },
     {
@@ -2748,6 +2749,15 @@
         ]
     },
     {
+        "abbLowerCase": "itu",
+        "abbreviation": "ITU",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+                {"lang": "esp", "meaning": "Infección del tracto urinario", "langTrad": "eng", "meaningTrad": "Urinary tract infection", "abbreviationTrad": "UTI"}
+        ]
+    },
+    {
         "abbLowerCase": "iv",
         "abbreviation": "IV",
         "use": "abreviatura",
@@ -4591,6 +4601,15 @@
         ]
     },
     {
+        "abbLowerCase": "tar",
+        "abbreviation": "TAR",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Tasa anual de recaídas, tasa anualizada de recaídas", "langTrad": "eng", "meaningTrad": "Annualized relapse rate", "abbreviationTrad": "ARR"}
+        ]
+    },
+    {
         "abbLowerCase": "tb",
         "abbreviation": "TB",
         "use": "sigla",
@@ -4916,6 +4935,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Upper respiratory tract infection", "langTrad": "esp", "meaningTrad": "Infección del tracto respiratorio superior, infección de las vías respiratorias altas", "abbreviationTrad": "ITRS, IVRA o URTI, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "uti",
+        "abbreviation": "UTI",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+                {"lang": "eng", "meaning": "Urinary tract infection", "langTrad": "esp", "meaningTrad": "Infección del tracto urinario", "abbreviationTrad": "ITU"}
         ]
     },
     {
