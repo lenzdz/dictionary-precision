@@ -747,6 +747,15 @@
         ]
     },
     {
+        "abbLowerCase": "bat",
+        "abbreviation": "BAT",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Best-available therapy", "langTrad": "esp", "meaningTrad": "Mejor terapia disponible", "abbreviationTrad": "MTD"}
+        ]
+    },
+    {
         "abbLowerCase": "bc",
         "abbreviation": "BC",
         "use": "sigla",
@@ -3410,6 +3419,26 @@
         ]
     },
     {
+        "abbLowerCase": "mpn-saf",
+        "abbreviation": "MPN-SAF",
+        "aliases": ["mpn saf", "mpnsaf"],
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Myeloproliferative neoplasm - Symptom assessment form", "langTrad": "esp", "meaningTrad": "Formulario de evaluación de los síntomas de las neoplasias mieloproliferativas", "abbreviationTrad": "MPN-SAF, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "mpn-saf-tss",
+        "abbreviation": "MPN-SAF-TSS",
+        "aliases": ["mpn saf tss", "mpnsaftss", "mpn saftss", "mpnsaf tss", "mpn saf-tss", "mpn-saf tss", "mpn-saftss", "mpnsaf-tss"],
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Myeloproliferative neoplasm - Symptom assessment form - Total symptom score", "langTrad": "esp", "meaningTrad": "Formulario de evaluación de los síntomas de las neoplasias mieloproliferativas - Puntaje totalizado de síntomas", "abbreviationTrad": "MPN-SAF-TSS, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "mrcc",
         "abbreviation": "mRCC",
         "use": "sigla",
@@ -3462,6 +3491,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Media de la supervivencia libre de progresión", "langTrad": "eng", "meaningTrad": "Mean progression-free survival", "abbreviationTrad": "mPFS"}
+        ]
+    },
+    {
+        "abbLowerCase": "mtd",
+        "abbreviation": "MTD",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Mejor terapia disponible", "langTrad": "eng", "meaningTrad": "Best-available therapy", "abbreviationTrad": "BAT"}
         ]
     },
     {
@@ -3600,6 +3638,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Non-invasive break-up time", "langTrad": "esp", "meaningTrad": "Tiempo de ruptura lagrimal no invasivo", "abbreviationTrad": "NIBUT, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "nice",
+        "abbreviation": "NICE",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "National Institute for Health and Care Excellence", "langTrad": "esp", "meaningTrad": "Instituto Nacional para la Calidad de la Sanidad y de la Asistencia", "abbreviationTrad": "NICE, por sus siglas en inglés"}
         ]
     },
     {
@@ -4163,6 +4210,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Partial thromboplastin time", "langTrad": "esp", "meaningTrad": "Tiempo parcial de tromboplastina, tiempo de tromboplastina parcial", "abbreviationTrad": "TPT o TTP", "notes": "también conocida en inglés como «activated partial thromboplastin time» (aPTT)"}
+        ]
+    },
+    {
+        "abbLowerCase": "pv",
+        "abbreviation": "PV",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Polycythemia vera", "langTrad": "esp", "meaningTrad": "Policitemia vera", "abbreviationTrad": "PV"}
         ]
     },
     {
