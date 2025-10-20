@@ -238,6 +238,15 @@
         ]
     },
     {
+        "abbLowerCase": "aee",
+        "abbreviation": "AEE",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Agente estimulante de la eritropoyesis", "langTrad": "eng", "meaningTrad": "Erythropoiesis stimulating agent", "abbreviationTrad": "ESA"}
+        ]
+    },
+    {
         "abbLowerCase": "aesi",
         "abbreviation": "AESI",
         "use": "sigla",
@@ -600,6 +609,15 @@
         ]
     },
     {
+        "abbLowerCase": "asat",
+        "abbreviation": "ASAT",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Aspartate aminotransferase, aspartate transaminase", "langTrad": "esp", "meaningTrad": "Aspartato aminotransferasa, aspartato transaminasa", "abbreviationTrad": "AST", "notes": "comúnmente conocida por la sigla AST. Sin embargo, también se le conoce por siglas en inglés como AspAT y AAT"}
+        ]
+    },
+    {
         "abbLowerCase": "asc",
         "abbreviation": "ASC",
         "use": "sigla",
@@ -637,12 +655,12 @@
         ]
     },
     {
-        "abbLowerCase": "asat",
-        "abbreviation": "ASAT",
+        "abbLowerCase": "ash",
+        "abbreviation": "ASH",
         "use": "sigla",
         "language": "inglés",
         "meanings": [
-            {"lang": "eng", "meaning": "Aspartate aminotransferase, aspartate transaminase", "langTrad": "esp", "meaningTrad": "Aspartato aminotransferasa, aspartato transaminasa", "abbreviationTrad": "AST", "notes": "comúnmente conocida por la sigla AST. Sin embargo, también se le conoce por siglas en inglés como AspAT y AAT"}
+            {"lang": "eng", "meaning": "American Society of Hematology", "langTrad": "esp", "meaningTrad": "Sociedad Americana de Hematología", "abbreviationTrad": "ASH, por sus siglas en inglés"}
         ]
     },
     {
@@ -819,6 +837,15 @@
         ]
     },
     {
+        "abbLowerCase": "bsh",
+        "abbreviation": "BSH",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "British Society of Hematology", "langTrad": "esp", "meaningTrad": "Sociedad Británica de Hematología", "abbreviationTrad": "BSH, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "bsid",
         "abbreviation": "BSID",
         "use": "sigla",
@@ -964,6 +991,15 @@
         ]
     },
     {
+        "abbLowerCase": "cfs",
+        "abbreviation": "CFS",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Cerebrospinal fluid", "langTrad": "esp", "meaningTrad": "Líquido cefalorraquídeo", "abbreviationTrad": "LCR"}
+        ]
+    },
+    {
         "abbLowerCase": "chd",
         "abbreviation": "CHD",
         "use": "sigla",
@@ -1049,12 +1085,30 @@
         ]
     },
     {
+        "abbLowerCase": "cml",
+        "abbreviation": "CML",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Chronic myeloid leukemia", "langTrad": "esp", "meaningTrad": "Leucemia mieloide crónica", "abbreviationTrad": "LMC"}
+        ]
+    },
+    {
         "abbLowerCase": "cns",
         "abbreviation": "CNS",
         "use": "sigla",
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Central nervous system", "langTrad": "esp", "meaningTrad": "Sistema nervioso central", "abbreviationTrad": "SNC"}
+        ]
+    },
+    {
+        "abbLowerCase": "comfort",
+        "abbreviation": "COMFORT",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Controlled Myelofibrosis Study with Oral JAK Inhibitor Treatment", "langTrad": "esp", "meaningTrad": "Estudio controlado de mielofibrosis con tratamiento oral de inhibidores de JAK", "abbreviationTrad": "COMFORT, por sus siglas en inglés"}
         ]
     },
     {
@@ -1213,6 +1267,15 @@
         ]
     },
     {
+        "abbLowerCase": "ctcae",
+        "abbreviation": "CTCAE",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Common terminology criteria for adverse events", "langTrad": "esp", "meaningTrad": "Criterios de terminología común para eventos adversos", "abbreviationTrad": "CTCAE, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "ctx",
         "abbreviation": "CTX, CTx",
         "use": "sigla",
@@ -1321,6 +1384,15 @@
         "language": "inglés y español",
         "meanings": [
             {"lang": "eng", "meaning": "Dihydrotestosterone", "langTrad": "esp", "meaningTrad": "Dihidrotestosterona", "abbreviationTrad": "DHT"}
+        ]
+    },
+    {
+        "abbLowerCase": "dipss",
+        "abbreviation": "DIPSS",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Dynamic international prognostic scoring system", "langTrad": "esp", "meaningTrad": "Sistema dinámico internacional de puntuación pronóstica", "abbreviationTrad": "DIPSS, por sus siglas en inglés"}
         ]
     },
     {
@@ -1707,6 +1779,15 @@
         ]
     },
     {
+        "abbLowerCase": "eha",
+        "abbreviation": "EHA",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "European Hematology Association", "langTrad": "esp", "meaningTrad": "Asociación Europea de Hematología", "abbreviationTrad": "EHA, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "ehgna",
         "abbreviation": "EHGNA",
         "use": "sigla",
@@ -1797,6 +1878,15 @@
         ]
     },
     {
+        "abbLowerCase": "eortc",
+        "abbreviation": "EORTC",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "European Organisation for Research and Treatment of Cancer", "langTrad": "esp", "meaningTrad": "Organización Europea para la Investigación y Tratamiento del Cáncer", "abbreviationTrad": "EORTC, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "enpm",
         "abbreviation": "ENPM",
         "use": "sigla",
@@ -1830,6 +1920,15 @@
         "language": "inglés y español",
         "meanings": [
             {"lang": "eng", "meaning": "Expiratory positive airway pressure", "langTrad": "esp", "meaningTrad": "Presión positiva espiratoria en las vías respiratorias", "abbreviationTrad": "EPAP, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "epo",
+        "abbreviation": "EPO",
+        "use": "abreviatura",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Eritropoyetina", "langTrad": "eng", "meaningTrad": "Erythropoietin", "abbreviationTrad": "EPO"}
         ]
     },
     {
@@ -1908,6 +2007,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Enfermedad renal terminal", "langTrad": "eng", "meaningTrad": "End-stage renal disease", "abbreviationTrad": "ESRD"}
+        ]
+    },
+    {
+        "abbLowerCase": "esa",
+        "abbreviation": "ESA",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Erythropoiesis stimulating agent", "langTrad": "esp", "meaningTrad": "Agente estimulante de la eritropoyesis", "abbreviationTrad": "AEE"}
         ]
     },
     {
@@ -2203,6 +2311,16 @@
         ]
     },
     {
+        "abbLowerCase": "hb",
+        "abbreviation": "Hb",
+        "aliases": ["hgb"],
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Hemoglobina​", "langTrad": "eng", "meaningTrad": "Hemoglobin", "abbreviationTrad": "Hb"}
+        ]
+    },
+    {
         "abbLowerCase": "hba1c",
         "abbreviation": "HbA1c",
         "use": "sigla",
@@ -2372,6 +2490,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Hypertension", "langTrad": "esp", "meaningTrad": "Hipertensión", "abbreviationTrad": "HT"}
+        ]
+    },
+    {
+        "abbLowerCase": "hu",
+        "abbreviation": "HU",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Hidroxiurea", "langTrad": "eng", "meaningTrad": "Hydroxyurea", "abbreviationTrad": "HU"}
         ]
     },
     {
@@ -2629,6 +2756,25 @@
         ]
     },
     {
+        "abbLowerCase": "ipss",
+        "abbreviation": "IPSS",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "International prognostic scoring system", "langTrad": "esp", "meaningTrad": "Sistema internacional de puntaje del pronóstico", "abbreviationTrad": "IPSS, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "ipss-r",
+        "abbreviation": "IPSS-R",
+        "aliases": ["ipss r", "ipssr"],
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Revised international prognostic scoring system", "langTrad": "esp", "meaningTrad": "Sistema internacional de puntaje del pronóstico revisado", "abbreviationTrad": "IPSS-R, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "ir",
         "abbreviation": "IR",
         "use": "sigla",
@@ -2877,6 +3023,24 @@
         ]
     },
     {
+        "abbLowerCase": "lce",
+        "abbreviation": "LCE",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Líquido cerebroespinal", "langTrad": "eng", "meaningTrad": "Cerebrospinal fluid", "abbreviationTrad": "CFS", "notes": "más comúnmente conocido como «líquido cefalorraquídeo (LCR)»."}
+        ]
+    },
+    {
+        "abbLowerCase": "lcr",
+        "abbreviation": "LCR",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Líquido cefalorraquídeo", "langTrad": "eng", "meaningTrad": "Cerebrospinal fluid", "abbreviationTrad": "CFS"}
+        ]
+    },
+    {
         "abbLowerCase": "ldh",
         "abbreviation": "LDH",
         "use": "sigla",
@@ -2985,6 +3149,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Leucemia mieloide aguda", "langTrad": "eng", "meaningTrad": "Acute myeloid leukemia", "abbreviationTrad": "AML"}
+        ]
+    },
+    {
+        "abbLowerCase": "lmc",
+        "abbreviation": "LMC",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Leucemia mieloide crónica", "langTrad": "eng", "meaningTrad": "Chronic myeloid leukemia", "abbreviationTrad": "CML"}
         ]
     },
     {
@@ -3574,6 +3747,15 @@
         ]
     },
     {
+        "abbLowerCase": "parp",
+        "abbreviation": "PARP",
+        "use": "abreviatura",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Poly(ADP-ribose) polymerase", "langTrad": "esp", "meaningTrad": "Poli (ADP‐ribosa) polimerasa", "abbreviationTrad": "PARP"}
+        ]
+    },
+    {
         "abbLowerCase": "pasi",
         "abbreviation": "PASI",
         "use": "sigla",
@@ -4089,6 +4271,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Receptor del factor de crecimiento epidérmico mutado, receptor del factor de crecimiento epidérmico con mutación positiva", "langTrad": "eng", "meaningTrad": "Mutated epidermal growth factor receptor", "abbreviationTrad": "EGFRm"}
+        ]
+    },
+    {
+        "abbLowerCase": "rfcev",
+        "abbreviation": "RFCEV",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Receptor del factor de crecimiento endotelial vascular", "langTrad": "eng", "meaningTrad": "Vascular endothelial growth factor receptor", "abbreviationTrad": "VEGFR"}
         ]
     },
     {
@@ -4655,6 +4846,15 @@
         ]
     },
     {
+        "abbLowerCase": "tdc",
+        "abbreviation": "TDC",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Tiempo hasta el deterioro confirmado", "langTrad": "eng", "meaningTrad": "Time to confirmed deterioration", "abbreviationTrad": "TTCD"}
+        ]
+    },
+    {
         "abbLowerCase": "teae",
         "abbreviation": "TEAE",
         "use": "sigla",
@@ -4717,6 +4917,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Tasa de filtración glomerular estimada", "langTrad": "eng", "meaningTrad": "Estimated glomerular filtration rate", "abbreviationTrad": "eGFR"}
+        ]
+    },
+    {
+        "abbLowerCase": "thdc",
+        "abbreviation": "THDc",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Tiempo hasta el deterioro confirmado", "langTrad": "eng", "meaningTrad": "Time to confirmed deterioration", "abbreviationTrad": "TTCD"}
         ]
     },
     {
@@ -4874,6 +5083,33 @@
         ]
     },
     {
+        "abbLowerCase": "ttcd",
+        "abbreviation": "TTCD",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Time to confirmed deterioration", "langTrad": "esp", "meaningTrad": "Tiempo hasta el deterioro confirmado", "abbreviationTrad": "TDC o THDc"}
+        ]
+    },
+    {
+        "abbLowerCase": "ttfcd",
+        "abbreviation": "TTFCD",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Time to first confirmed deterioration", "langTrad": "esp", "meaningTrad": "Tiempo hasta el primer deterioro confirmado", "abbreviationTrad": "TTFCD, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "ttfd",
+        "abbreviation": "TTFD",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Time to first deterioration", "langTrad": "esp", "meaningTrad": "Tiempo hasta el primer deterioro", "abbreviationTrad": "TTFD, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "ttp",
         "abbreviation": "TTP",
         "use": "sigla",
@@ -4971,6 +5207,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Ventrículo derecho", "langTrad": "eng", "meaningTrad": "Right ventricle", "abbreviationTrad": "RV"}
+        ]
+    },
+    {
+        "abbLowerCase": "vegfr",
+        "abbreviation": "VEGFR",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Vascular endothelial growth factor receptor", "langTrad": "esp", "meaningTrad": "Receptor del factor de crecimiento endotelial vascular", "abbreviationTrad": "RFCEV"}
         ]
     },
     {
