@@ -2648,6 +2648,15 @@
         ]
     },
     {
+        "abbLowerCase": "imid",
+        "abbreviation": "IMiD",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+                {"lang": "eng", "meaning": "Immunomodulatory drug", "langTrad": "esp", "meaningTrad": "Medicamento inmunomodulador", "abbreviationTrad": "IMiD, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "imrt",
         "abbreviation": "IMRT",
         "use": "sigla",
@@ -2757,11 +2766,13 @@
     },
     {
         "abbLowerCase": "ipss",
-        "abbreviation": "IPSS",
+        "abbreviation": "IPSS, I-PSS",
+        "aliases": ["i-pss", "i pss"],
         "use": "sigla",
         "language": "inglés y español",
         "meanings": [
-            {"lang": "eng", "meaning": "International prognostic scoring system", "langTrad": "esp", "meaningTrad": "Sistema internacional de puntaje del pronóstico", "abbreviationTrad": "IPSS, por sus siglas en inglés"}
+            {"lang": "eng", "meaning": "International prognostic scoring system (IPSS)", "langTrad": "esp", "meaningTrad": "Sistema internacional de puntaje del pronóstico", "abbreviationTrad": "IPSS, por sus siglas en inglés"},
+            {"lang": "eng", "meaning": "International prostate symptom score (I-PSS)", "langTrad": "esp", "meaningTrad": "Puntuación internacional de síntomas prostáticos", "abbreviationTrad": "I-PSS, por sus siglas en inglés"}
         ]
     },
     {
@@ -2931,22 +2942,21 @@
         ]
     },
     {
-        "abbLowerCase": "i-pss",
-        "abbreviation": "I-PSS",
-        "aliases": ["ipss"],
-        "use": "sigla",
-        "language": "inglés y español",
-        "meanings": [
-            {"lang": "eng", "meaning": "International Prostate Symptom Score", "langTrad": "esp", "meaningTrad": "Puntuación Internacional de Síntomas Prostáticos", "abbreviationTrad": "I-PSS, por sus siglas en inglés"}
-        ]
-    },
-    {
         "abbLowerCase": "jak",
         "abbreviation": "JAK",
         "use": "sigla",
         "language": "inglés y español",
         "meanings": [
             {"lang": "eng", "meaning": "Janus kinase", "langTrad": "esp", "meaningTrad": "Cinasa Jano", "abbreviationTrad": "JAK"}
+        ]
+    },
+    {
+        "abbLowerCase": "jump",
+        "abbreviation": "JUMP",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "JAK Inhibitor RUxolitinib in  Myelofibrosis Patients study", "langTrad": "esp", "meaningTrad": "Estudio sobre el inhibidor de JAK Ruxolitinib en pacientes con mielofibrosis", "abbreviationTrad": "JUMP, por sus siglas en inglés"}
         ]
     },
     {
@@ -2966,6 +2976,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Kidney failure", "langTrad": "esp", "meaningTrad": "Insuficiencia renal", "abbreviationTrad": "IR"}
+        ]
+    },
+    {
+        "abbLowerCase": "km",
+        "abbreviation": "KM",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Kaplan–Meier", "langTrad": "esp", "meaningTrad": "Kaplan–Meier", "abbreviationTrad": "KM"}
         ]
     },
     {
@@ -3161,6 +3180,15 @@
         ]
     },
     {
+        "abbLowerCase": "lnh",
+        "abbreviation": "LNH",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Linfoma no Hodgkin", "langTrad": "eng", "meaningTrad": "Non-Hodgkin's lymphoma", "abbreviationTrad": "NHL"}
+        ]
+    },
+    {
         "abbLowerCase": "lp",
         "abbreviation": "LP",
         "use": "sigla",
@@ -3317,6 +3345,25 @@
         ]
     },
     {
+        "abbLowerCase": "mf",
+        "abbreviation": "MF",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Mielofibrosis", "langTrad": "eng", "meaningTrad": "Myelofibrosis", "abbreviationTrad": "MF"}
+        ]
+    },
+    {
+        "abbLowerCase": "mf-saf",
+        "abbreviation": "MF-SAF",
+        "aliases": ["mf saf", "mfsaf"],
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Myelofibrosis symptom assessment form", "langTrad": "esp", "meaningTrad": "Formulario de evaluación de los síntomas de la mielofibrosis", "abbreviationTrad": "MF-SAF, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "mgd",
         "abbreviation": "MGD",
         "use": "sigla",
@@ -3351,6 +3398,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Mean progression-free survival", "langTrad": "esp", "meaningTrad": "Media de la supervivencia libre de progresión, supervivencia libre de progresión media", "abbreviationTrad": "mSLP o SLPm"}
+        ]
+    },
+    {
+        "abbLowerCase": "mpn",
+        "abbreviation": "MPN",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Myeloproliferative neoplasm", "langTrad": "esp", "meaningTrad": "Neoplasia mieloproliferativa", "abbreviationTrad": "NMP"}
         ]
     },
     {
@@ -3529,6 +3585,15 @@
         ]
     },
     {
+        "abbLowerCase": "nhl",
+        "abbreviation": "NHL",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Non-Hodgkin's lymphoma", "langTrad": "esp", "meaningTrad": "Linfoma no Hodgkin", "abbreviationTrad": "LNH"}
+        ]
+    },
+    {
         "abbLowerCase": "nibut",
         "abbreviation": "NIBUT",
         "use": "sigla",
@@ -3553,6 +3618,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Non-invasive ventilation", "langTrad": "esp", "meaningTrad": "Ventilación no invasiva", "abbreviationTrad": "VNI"}
+        ]
+    },
+    {
+        "abbLowerCase": "nmp",
+        "abbreviation": "NMP",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Neoplasia mieloproliferativa", "langTrad": "eng", "meaningTrad": "Myeloproliferative neoplasm", "abbreviationTrad": "MPN"}
         ]
     },
     {
