@@ -500,6 +500,16 @@
         ]
     },
     {
+        "abbLowerCase": "anti-tnf",
+        "abbreviation": "Anti-TNF",
+        "aliases": ["anti tnf", "antitnf"],
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Anti tumor necrosis factor", "langTrad": "esp", "meaningTrad": "National Administration of Drugs, Foods, and Medical Devices", "abbreviationTrad": "ANMAT, as per the Spanish acronym"}
+        ]
+    },
+    {
         "abbLowerCase": "apd",
         "abbreviation": "APD",
         "use": "sigla",
@@ -1323,6 +1333,24 @@
         ]
     },
     {
+        "abbLowerCase": "dae",
+        "abbreviation": "DAE",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Drug adverse event", "langTrad": "esp", "meaningTrad": "Evento adverso a medicamento", "abbreviationTrad": "EAM"}
+        ]
+    },
+    {
+        "abbLowerCase": "dar",
+        "abbreviation": "DAR",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Drug adverse reaction", "langTrad": "esp", "meaningTrad": "Reacción adversa al medicamento", "abbreviationTrad": "RAM"}
+        ]
+    },
+    {
         "abbLowerCase": "dash",
         "abbreviation": "DASH",
         "use": "sigla",
@@ -1639,6 +1667,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Evento adverso emergente del tratamiento", "langTrad": "eng", "meaningTrad": "Treatment emergent adverse events", "abbreviationTrad": "TEAE"}
+        ]
+    },
+    {
+        "abbLowerCase": "eam",
+        "abbreviation": "EAM",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Evento adverso a medicamento", "langTrad": "eng", "meaningTrad": "Drug adverse event", "abbreviationTrad": "DAE"}
         ]
     },
     {
@@ -4231,6 +4268,16 @@
         ]
     },
     {
+        "abbLowerCase": "qlq-c30",
+        "abbreviation": "QLQ-C30",
+        "aliases": ["qlq c30", "qlqc30"],
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Quality of life questionnaire - Core 30", "langTrad": "esp", "meaningTrad": "Cuestionario sobre calidad de vida - Core 30", "abbreviationTrad": "QLQ-C30, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "qol",
         "abbreviation": "QoL",
         "use": "sigla",
@@ -4309,6 +4356,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Each week", "langTrad": "esp", "meaningTrad": "Cada semana", "abbreviationTrad": "c/ semana"}
+        ]
+    },
+    {
+        "abbLowerCase": "ram",
+        "abbreviation": "RAM",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Reacción adversa al medicamento", "langTrad": "eng", "meaningTrad": "Drug adverse reaction", "abbreviationTrad": "DAR"}
         ]
     },
     {
