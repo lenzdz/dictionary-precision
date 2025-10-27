@@ -2120,6 +2120,15 @@
         ]
     },
     {
+        "abbLowerCase": "et",
+        "abbreviation": "ET",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Essential thrombocythemia", "langTrad": "esp", "meaningTrad": "Trombocitemia esencial", "abbreviationTrad": "TE"}
+        ]
+    },
+    {
         "abbLowerCase": "euroqol",
         "abbreviation": "EuroQoL",
         "use": "abreviatura",
@@ -2385,6 +2394,15 @@
         ]
     },
     {
+        "abbLowerCase": "hbv",
+        "abbreviation": "HBV",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Hepatitis B virus", "langTrad": "esp", "meaningTrad": "Virus de la hepatitis B", "abbreviationTrad": "VHB"}
+        ]
+    },
+    {
         "abbLowerCase": "hcp",
         "abbreviation": "HCP",
         "use": "sigla",
@@ -2454,6 +2472,16 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "[Eje] hipotalámico-hipofisario-adrenal", "langTrad": "eng", "meaningTrad": "Hypothalamic-pituitary-adrenal [axis]", "abbreviationTrad": "HPA"}
+        ]
+    },
+    {
+        "abbLowerCase": "hiper-cvad",
+        "abbreviation": "Hiper-CVAD",
+        "aliases": ["hiper cvad", "hipercvad"],
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Quimioterapia hiperfraccionada de ciclofosfamida, vincristina, Adriamycin (doxorrubicina) y dexametasona", "langTrad": "eng", "meaningTrad": "Hyper-fractionated cyclophosphamide, vincristine, Adriamycin (doxorubicin), and dexamethasone chemotherapy", "abbreviationTrad": "Hyper-CVAD"}
         ]
     },
     {
@@ -2545,6 +2573,16 @@
         "language": "español e inglés",
         "meanings": [
             {"lang": "esp", "meaning": "Hidroxiurea", "langTrad": "eng", "meaningTrad": "Hydroxyurea", "abbreviationTrad": "HU"}
+        ]
+    },
+    {
+        "abbLowerCase": "hyper-cvad",
+        "abbreviation": "Hyper-CVAD",
+        "aliases": ["hyper cvad", "hypercvad"],
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Hyper-fractionated cyclophosphamide, vincristine, Adriamycin (doxorubicin), and dexamethasone chemotherapy", "langTrad": "esp", "meaningTrad": "Quimioterapia hiperfraccionada de ciclofosfamida, vincristina, Adriamycin (doxorrubicina) y dexametasona", "abbreviationTrad": "Hiper-CVAD"}
         ]
     },
     {
@@ -4158,6 +4196,15 @@
         ]
     },
     {
+        "abbLowerCase": "po",
+        "abbreviation": "PO",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Por vía oral", "langTrad": "eng", "meaningTrad": "Oral administration, oral route​​ administration", "abbreviationTrad": "PO", "notes": "sigla basada en la expresión latina <em>per so</em>"}
+        ]
+    },
+    {
         "abbLowerCase": "ppara",
         "abbreviation": "PPARa",
         "use": "sigla",
@@ -4259,6 +4306,42 @@
         ]
     },
     {
+        "abbLowerCase": "q2w",
+        "abbreviation": "Q2W",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Cada dos semanas", "langTrad": "eng", "meaningTrad": "Once every two weeks, every-other-week", "abbreviationTrad": "Q2W"}
+        ]
+    },
+    {
+        "abbLowerCase": "q3w",
+        "abbreviation": "Q3W",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Cada tres semanas", "langTrad": "eng", "meaningTrad": "Once every three weeks", "abbreviationTrad": "Q3W"}
+        ]
+    },
+    {
+        "abbLowerCase": "q4w",
+        "abbreviation": "Q4W",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Cada cuatro semanas", "langTrad": "eng", "meaningTrad": "Once every four weeks", "abbreviationTrad": "Q4W"}
+        ]
+    },
+    {
+        "abbLowerCase": "qd",
+        "abbreviation": "QD",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Una vez al día", "langTrad": "eng", "meaningTrad": "Once a day", "abbreviationTrad": "QD"}
+        ]
+    },
+    {
         "abbLowerCase": "qi",
         "abbreviation": "QI",
         "use": "sigla",
@@ -4347,6 +4430,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Quimioterapia neoadyuvante", "langTrad": "eng", "meaningTrad": "Neodjuvant chemotherapy", "abbreviationTrad": "NAC,  NACT o Neo-CT"}
+        ]
+    },
+    {
+        "abbLowerCase": "qw",
+        "abbreviation": "QW",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Cada semanas", "langTrad": "eng", "meaningTrad": "Once a week", "abbreviationTrad": "QW"}
         ]
     },
     {
@@ -4511,6 +4603,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Respuesta parcial", "langTrad": "eng", "meaningTrad": "Partial response", "abbreviationTrad": "PR"}
+        ]
+    },
+    {
+        "abbLowerCase": "rpsft",
+        "abbreviation": "RPSFT",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Rank preserving structural failure time", "langTrad": "esp", "meaningTrad": "Rango que preserva el tiempo de falla estructural", "abbreviationTrad": "RPSFT, por sus siglas en inglés"}
         ]
     },
     {
@@ -5041,6 +5142,15 @@
         ]
     },
     {
+        "abbLowerCase": "te",
+        "abbreviation": "TE",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Trombocitemia esencial", "langTrad": "eng", "meaningTrad": "Essential thrombocythemia", "abbreviationTrad": "ET"}
+        ]
+    },
+    {
         "abbLowerCase": "teae",
         "abbreviation": "TEAE",
         "use": "sigla",
@@ -5269,6 +5379,15 @@
         ]
     },
     {
+        "abbLowerCase": "tss",
+        "abbreviation": "TSS",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Total symptom score", "langTrad": "esp", "meaningTrad": "Puntaje totalizado de síntomas", "abbreviationTrad": "TSS, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "ttcd",
         "abbreviation": "TTCD",
         "use": "sigla",
@@ -5411,6 +5530,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Vejiga hiperactiva", "langTrad": "eng", "meaningTrad": "Overactive bladder", "abbreviationTrad": "OAB"}
+        ]
+    },
+    {
+        "abbLowerCase": "vhb",
+        "abbreviation": "VHB",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Virus de la hepatitis B", "langTrad": "eng", "meaningTrad": "Hepatitis B virus", "abbreviationTrad": "HBV"}
         ]
     },
     {
