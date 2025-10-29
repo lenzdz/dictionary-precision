@@ -1688,6 +1688,15 @@
         ]
     },
     {
+        "abbLowerCase": "ebmt",
+        "abbreviation": "EBMT",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "European Society for Blood and Marrow Transplantation", "langTrad": "esp", "meaningTrad": "Sociedad Europea para el Trasplante de Sangre y Médula Ósea", "abbreviationTrad": "EBMT, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "eca",
         "abbreviation": "ECA",
         "use": "sigla",
@@ -1849,6 +1858,16 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Enfermedad de injerto contra huésped", "langTrad": "eng", "meaningTrad": "Graft versus host disease", "abbreviationTrad": "GvHD"}
+        ]
+    },
+    {
+        "abbLowerCase": "eich-re",
+        "abbreviation": "EICH-RE",
+        "aliases": ["eichre", "eich re"],
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Enfermedad de injerto contra huésped refractaria a esteroides", "langTrad": "eng", "meaningTrad": "Steroid-refractory graft versus host disease", "abbreviationTrad": "SR-GvHD"}
         ]
     },
     {
@@ -3866,7 +3885,8 @@
         "use": "sigla",
         "language": "inglés",
         "meanings": [
-            {"lang": "eng", "meaning": "Objective response rate", "langTrad": "esp", "meaningTrad": "Tasa de respuesta objetiva", "abbreviationTrad": "TRO"}
+            {"lang": "eng", "meaning": "Objective response rate", "langTrad": "esp", "meaningTrad": "Tasa de respuesta objetiva", "abbreviationTrad": "TRO"},
+            {"lang": "eng", "meaning": "Overall response rate", "langTrad": "esp", "meaningTrad": "Tasa de respuesta global", "abbreviationTrad": "TRG"}
         ]
     },
     {
@@ -4998,6 +5018,16 @@
         ]
     },
     {
+        "abbLowerCase": "sr-gvhd",
+        "abbreviation": "SR-GvHD",
+        "aliases": ["srgvhd", "sr gvhd"],
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Steroid-refractory graft versus host disease", "langTrad": "esp", "meaningTrad": "Enfermedad de injerto contra huésped refractaria a esteroides", "abbreviationTrad": "EICH-RE"}
+        ]
+    },
+    {
         "abbLowerCase": "srt",
         "abbreviation": "SRT",
         "use": "sigla",
@@ -5331,6 +5361,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Tasa de respuesta", "langTrad": "eng", "meaningTrad": "Response rate", "abbreviationTrad": "RR"}
+        ]
+    },
+    {
+        "abbLowerCase": "trg",
+        "abbreviation": "TRG",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Tasa de respuesta global", "langTrad": "eng", "meaningTrad": "Overall response rate", "abbreviationTrad": "ORR"}
         ]
     },
     {
