@@ -3754,6 +3754,15 @@
         ]
     },
     {
+        "abbLowerCase": "nih",
+        "abbreviation": "NIH",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "National Institutes of Health", "langTrad": "esp", "meaningTrad": "Institutos Nacionales de Salud", "abbreviationTrad": "NIH, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "nimv",
         "abbreviation": "NIMV",
         "use": "sigla",
