@@ -2012,7 +2012,7 @@
         "use": "abreviatura",
         "language": "inglés y español",
         "meanings": [
-            {"lang": "eng", "meaning": "EuroQoL 5-dimensions 3-level questionnaire", "langTrad": "esp", "meaningTrad": "Cuestionario de 5 dimensiones y 3 niveles del grupo EuroQoL", "abbreviationTrad": "EuroQoL-5D-3L, por sus siglas en inglés o EQ-5D-3L, por sus siglas en inglés"}
+            {"lang": "eng", "meaning": "EuroQoL 5-dimensions questionnaire", "langTrad": "esp", "meaningTrad": "Cuestionario de 5 dimensiones del grupo EuroQoL", "abbreviationTrad": "EuroQoL-5D-3L, por sus siglas en inglés o EQ-5D-3L, por sus siglas en inglés"}
         ]
     },
     {
@@ -2023,6 +2023,16 @@
         "language": "inglés y español",
         "meanings": [
             {"lang": "eng", "meaning": "EuroQoL 5-dimensions 3-level questionnaire", "langTrad": "esp", "meaningTrad": "Cuestionario de 5 dimensiones y 3 niveles del grupo EuroQoL", "abbreviationTrad": "EuroQoL-5D-3L, por sus siglas en inglés o EQ-5D-3L, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "eq-5d-5l",
+        "abbreviation": "EuroQoL-5D-5L, EQ-5D-5L",
+        "aliases": ["euroqol-5d-5l", "euroqol5d5l", "euroqol 5d5l", "euroqol 5d-5l", "eq5d3l", "eq 5d 5l", "eq-5d5l", "eq5d-5l", "eq-5d 5l", "eq 5d-5l", "eq5d 5l", "eq 5d5l"],
+        "use": "abreviatura",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "EuroQoL 5-dimensions 5-level questionnaire", "langTrad": "esp", "meaningTrad": "Cuestionario de 5 dimensiones y 5 niveles del grupo EuroQoL", "abbreviationTrad": "EuroQoL-5D-3L, por sus siglas en inglés o EQ-5D-3L, por sus siglas en inglés"}
         ]
     },
     {
