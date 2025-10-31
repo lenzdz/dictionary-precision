@@ -1249,6 +1249,15 @@
         ]
     },
     {
+        "abbLowerCase": "crr",
+        "abbreviation": "CRR",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Complete response rate", "langTrad": "esp", "meaningTrad": "Tasa de respuesta completa", "abbreviationTrad": "TRC"}
+        ]
+    },
+    {
         "abbLowerCase": "crp",
         "abbreviation": "CRP",
         "use": "sigla",
@@ -2734,6 +2743,15 @@
         ]
     },
     {
+        "abbLowerCase": "icp",
+        "abbreviation": "ICP",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Intervención coronaria percutánea", "langTrad": "eng", "meaningTrad": "Percutaneous coronary intervention", "abbreviationTrad": "PCI"}
+        ]
+    },
+    {
         "abbLowerCase": "ics",
         "abbreviation": "ICS",
         "use": "sigla",
@@ -4074,6 +4092,15 @@
         ]
     },
     {
+        "abbLowerCase": "pci",
+        "abbreviation": "PCI",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Percutaneous coronary intervention", "langTrad": "esp", "meaningTrad": "Intervención coronaria percutánea", "abbreviationTrad": "ICP"}
+        ]
+    },
+    {
         "abbLowerCase": "pciol",
         "abbreviation": "PCIOL",
         "use": "sigla",
@@ -4711,6 +4738,15 @@
         ]
     },
     {
+        "abbLowerCase": "rfs",
+        "abbreviation": "RFS",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Relapse-free survival", "langTrad": "esp", "meaningTrad": "Supervivencia libre de recaídas", "abbreviationTrad": "SLR"}
+        ]
+    },
+    {
         "abbLowerCase": "rm",
         "abbreviation": "RM",
         "use": "sigla",
@@ -5091,6 +5127,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Supervivencia libre de progresión media", "langTrad": "eng", "meaningTrad": "Median progression-free survival", "abbreviationTrad": "mPFS"}
+        ]
+    },
+    {
+        "abbLowerCase": "slr",
+        "abbreviation": "SLR",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Supervivencia libre de recaídas", "langTrad": "eng", "meaningTrad": "Relapse-free survival", "abbreviationTrad": "RFS"}
         ]
     },
     {
@@ -5582,6 +5627,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Tasa de respuesta", "langTrad": "eng", "meaningTrad": "Response rate", "abbreviationTrad": "RR"}
+        ]
+    },
+    {
+        "abbLowerCase": "trc",
+        "abbreviation": "TRC",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Tasa de respuesta completa", "langTrad": "eng", "meaningTrad": "Complete response rate", "abbreviationTrad": "CRR"}
         ]
     },
     {
