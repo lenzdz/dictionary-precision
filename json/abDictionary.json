@@ -2275,6 +2275,15 @@
         ]
     },
     {
+        "abbLowerCase": "ffs",
+        "abbreviation": "FFS",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+                {"lang": "eng", "meaning": "Failure-free survival", "langTrad": "esp", "meaningTrad": "Supervivencia sin fracaso", "abbreviationTrad": "SSF"}
+        ]
+    },
+    {
         "abbLowerCase": "fksi-19",
         "abbreviation": "FKSI-19",
         "aliases": ["fksi19", "fksi 19"],
@@ -3772,6 +3781,15 @@
         ]
     },
     {
+        "abbLowerCase": "net",
+        "abbreviation": "NET",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Neuroendocrine tumor", "langTrad": "esp", "meaningTrad": "Tumor neuroendocrino", "abbreviationTrad": "TNE"}
+        ]
+    },
+    {
         "abbLowerCase": "nhl",
         "abbreviation": "NHL",
         "use": "sigla",
@@ -4161,6 +4179,16 @@
         ]
     },
     {
+        "abbLowerCase": "pet 68ga-dotate",
+        "abbreviation": "PET ⁶⁸Ga-DOTATE",
+        "aliases": ["pet68gadotate", "pet 68gadotate", "pet68ga dotate", "pet 68ga dotate", "pet68 gadotate", "pet68ga dotate", "pet 68 ga dotate", "pet 68 ga-dotate", "pet 68 gadotate"],
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Positron emission tomography imaging with 68-Gallium DOTATATE, 68-Gallium DOTATATE positron emission tomography", "langTrad": "esp", "meaningTrad": "Tomografía por emisión de positrones con Galio-68 DOTATATE", "abbreviationTrad": "TEP ⁶⁸Ga-DOTATE"}
+        ]
+    },
+    {
         "abbLowerCase": "pet-ct",
         "abbreviation": "PET-CT",
         "aliases": ["petct"],
@@ -4305,7 +4333,7 @@
         "use": "sigla",
         "language": "español e inglés",
         "meanings": [
-            {"lang": "esp", "meaning": "Quimioterapia con 6-mercaptopurina, vincristina, metotrexato y prednisona", "langTrad": "eng", "meaningTrad": "6-mercaptopurine, vincristine, methotrexate, and prednisone chemotherapy", "abbreviationTrad": "POMP", "notes": "sigla derivada de «<strong>P</strong>AGUrinitol (6-mercaptopurina), <strong>O</strong>hncovin® (vincristina), <strong>M</strong>etotrexato y <steong>P</strong>rednisona."}
+            {"lang": "esp", "meaning": "Quimioterapia con 6-mercaptopurina, vincristina, metotrexato y prednisona", "langTrad": "eng", "meaningTrad": "6-mercaptopurine, vincristine, methotrexate, and prednisone chemotherapy", "abbreviationTrad": "POMP", "notes": "sigla derivada de «<strong>P</strong>AGUrinitol (6-mercaptopurina), <strong>O</strong>hncovin® (vincristina), <strong>M</strong>etotrexato y <strong>P</strong>rednisona."}
         ]
     },
     {
@@ -5139,12 +5167,39 @@
         ]
     },
     {
+        "abbLowerCase": "ss",
+        "abbreviation": "SS",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+                {"lang": "esp", "meaning": "Somatostatina", "langTrad": "eng", "meaningTrad": "Somatostatin", "abbreviationTrad": "SS"}
+        ]
+    },
+    {
         "abbLowerCase": "sse",
         "abbreviation": "SSE",
         "use": "sigla",
         "language": "español",
         "meanings": [
                 {"lang": "esp", "meaning": "Supervivencia sin enfermedad", "langTrad": "eng", "meaningTrad": "Disease-free survival", "abbreviationTrad": "DFS"}
+        ]
+    },
+    {
+        "abbLowerCase": "ssf",
+        "abbreviation": "SSF",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+                {"lang": "esp", "meaning": "Supervivencia sin fracaso", "langTrad": "eng", "meaningTrad": "Failure-free survival", "abbreviationTrad": "FFS"}
+        ]
+    },
+    {
+        "abbLowerCase": "sstr",
+        "abbreviation": "SSTR",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+                {"lang": "eng", "meaning": "Somatostatin receptor", "langTrad": "esp", "meaningTrad": "Receptor de somatostatina", "abbreviationTrad": "SSTR, por sus siglas en inglés"}
         ]
     },
     {
@@ -5329,6 +5384,16 @@
         ]
     },
     {
+        "abbLowerCase": "tep 68ga-dotate",
+        "abbreviation": "TEP ⁶⁸Ga-DOTATE",
+        "aliases": ["tep68gadotate", "tep 68gadotate", "tep68ga dotate", "tep 68ga dotate", "tep68 gadotate", "tep68ga dotate", "tep 68 ga dotate", "tep 68 ga-dotate", "tep 68 gadotate"],
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Tomografía por emisión de positrones con Galio-68 DOTATATE", "langTrad": "eng", "meaningTrad": "Positron emission tomography imaging with 68-Gallium DOTATATE, 68-Gallium DOTATATE positron emission tomography", "abbreviationTrad": "PET ⁶⁸Ga-DOTATE"}
+        ]
+    },
+    {
         "abbLowerCase": "tep-tc",
         "abbreviation": "TEP-TC",
         "aliases": ["teptc"],
@@ -5444,6 +5509,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Trasplante de médula ósea", "langTrad": "eng", "meaningTrad": "Bone marrow transplant", "abbreviationTrad": "BMT", "notes": "también conocido como «trasplante de células madre hematopoyéticas» (TCPH)."}
+        ]
+    },
+    {
+        "abbLowerCase": "tne",
+        "abbreviation": "TNE",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Tumor neuroendocrino", "langTrad": "eng", "meaningTrad": "Neuroendocrine tumor", "abbreviationTrad": "NET"}
         ]
     },
     {
@@ -5779,6 +5853,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Ventilación no invasiva", "langTrad": "eng", "meaningTrad": "Non-invasive ventilation", "abbreviationTrad": "NIV"}
+        ]
+    },
+    {
+        "abbLowerCase": "vp",
+        "abbreviation": "VP",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Vincristine-prednisone", "langTrad": "esp", "meaningTrad": "Vincristina-prednisona", "abbreviationTrad": "VP"}
         ]
     },
     {
