@@ -820,6 +820,15 @@
         ]
     },
     {
+        "abbLowerCase": "bmt",
+        "abbreviation": "BMT",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Bone marrow transplant", "langTrad": "esp", "meaningTrad": "Trasplante de médula ósea", "abbreviationTrad": "TMO", "notes": "también conocido como «hematopoietic stem-cell transplantation» (HSCT)."}
+        ]
+    },
+    {
         "abbLowerCase": "bnp",
         "abbreviation": "BNP",
         "use": "sigla",
@@ -2523,6 +2532,15 @@
         ]
     },
     {
+        "abbLowerCase": "hp",
+        "abbreviation": "HP",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Hipertensión pulmonar", "langTrad": "eng", "meaningTrad": "Pulmonary hypertension", "abbreviationTrad": "PH"}
+        ]
+    },
+    {
         "abbLowerCase": "hpa",
         "abbreviation": "HPA",
         "use": "sigla",
@@ -2557,6 +2575,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "High-sensitivity C-reactive protein", "langTrad": "esp", "meaningTrad": "Proteína C-reactiva de alta sensibilidad", "abbreviationTrad": "PCR-as"}
+        ]
+    },
+    {
+        "abbLowerCase": "hsct",
+        "abbreviation": "HSCT",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Hematopoietic stem-cell transplantation", "langTrad": "esp", "meaningTrad": "Trasplante de células madre hematopoyéticas", "abbreviationTrad": "TCMH", "notes": "también conocido como «trasplante de células progenitoras hematopoyéticas» (TCPH), «trasplante de precursores hematopoyéticos» (TPH) y «trasplante de médula ósea» (TMO) (genérico)."}
         ]
     },
     {
@@ -2743,12 +2770,21 @@
         ]
     },
     {
+        "abbLowerCase": "imar",
+        "abbreviation": "IMAR",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Immune-mediated adverse reaction", "langTrad": "esp", "meaningTrad": "Reacción adversa inmunomediada", "abbreviationTrad": "RAI o RAIM"}
+        ]
+    },
+    {
         "abbLowerCase": "imc",
         "abbreviation": "IMC",
         "use": "sigla",
         "language": "español",
         "meanings": [
-            {"lang": "eng", "meaning": "Índice de masa corporal", "langTrad": "esp", "meaningTrad": "Body mass index", "abbreviationTrad": "BMI"}
+            {"lang": "esp", "meaning": "Índice de masa corporal", "langTrad": "eng", "meaningTrad": "Body mass index", "abbreviationTrad": "BMI"}
         ]
     },
     {
@@ -4154,6 +4190,17 @@
         ]
     },
     {
+        "abbLowerCase": "ph",
+        "abbreviation": "pH, Ph, PH",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Potencial de hidrógeno", "langTrad": "eng", "meaningTrad": "Potential of hydrogen", "abbreviationTrad": "Ph"},
+            {"lang": "eng", "meaning": "Philadelphia chromosome", "langTrad": "esp", "meaningTrad": "Cromosoma Filadelfia", "abbreviationTrad": "Ph, por sus siglas en inglés"},
+            {"lang": "eng", "meaning": "Pulmonary hypertension", "langTrad": "esp", "meaningTrad": "Hipertensión pulmonar", "abbreviationTrad": "HP"}
+        ]
+    },
+    {
         "abbLowerCase": "pi",
         "abbreviation": "PI",
         "use": "abreviatura",
@@ -4487,6 +4534,24 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Each week", "langTrad": "esp", "meaningTrad": "Cada semana", "abbreviationTrad": "c/ semana"}
+        ]
+    },
+    {
+        "abbLowerCase": "rai",
+        "abbreviation": "RAI",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Reacción adversa inmunomediada", "langTrad": "eng", "meaningTrad": "Immune-mediated adverse reaction", "abbreviationTrad": "IMAR", "notes": "también conocida por la sigla «RAIM»."}
+        ]
+    },
+    {
+        "abbLowerCase": "raim",
+        "abbreviation": "RAIM",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Reacción adversa inmunomediada", "langTrad": "eng", "meaningTrad": "Immune-mediated adverse reaction", "abbreviationTrad": "IMAR", "notes": "también conocida por la sigla «RAI»."}
         ]
     },
     {
@@ -5182,6 +5247,24 @@
         ]
     },
     {
+        "abbLowerCase": "tcmh",
+        "abbreviation": "TCMH",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Trasplante de células madre hematopoyéticas", "langTrad": "eng", "meaningTrad": "Hematopoietic stem-cell transplantation", "abbreviationTrad": "HSCT"}
+        ]
+    },
+    {
+        "abbLowerCase": "tcph",
+        "abbreviation": "TCPH",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Trasplante de células progenitoras hematopoyéticas", "langTrad": "eng", "meaningTrad": "Hematopoietic stem-cell transplantation", "abbreviationTrad": "HSCT", "notes": "más conocido como «trasplante de células madre hematopoyéticas» (TCPH)."}
+        ]
+    },
+    {
         "abbLowerCase": "tdc",
         "abbreviation": "TDC",
         "use": "sigla",
@@ -5328,6 +5411,15 @@
         ]
     },
     {
+        "abbLowerCase": "tmo",
+        "abbreviation": "TMO",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Trasplante de médula ósea", "langTrad": "eng", "meaningTrad": "Bone marrow transplant", "abbreviationTrad": "BMT", "notes": "también conocido como «trasplante de células madre hematopoyéticas» (TCPH)."}
+        ]
+    },
+    {
         "abbLowerCase": "tnf",
         "abbreviation": "TNF",
         "use": "sigla",
@@ -5353,6 +5445,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Terapia de privación de andrógenos", "langTrad": "eng", "meaningTrad": "Androgen deprivation therapy", "abbreviationTrad": "ADT"}
+        ]
+    },
+    {
+        "abbLowerCase": "tph",
+        "abbreviation": "TPH",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Trasplante de precursores hematopoyéticos", "langTrad": "eng", "meaningTrad": "Hematopoietic stem-cell transplantation", "abbreviationTrad": "HSCT", "notes": "más conocido como «trasplante de células madre hematopoyéticas» (TCPH)."}
         ]
     },
     {
