@@ -3634,6 +3634,15 @@
         ]
     },
     {
+        "abbLowerCase": "mtc",
+        "abbreviation": "MTC",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Medicina tradicional china", "langTrad": "eng", "meaningTrad": "Traditional Chinese medicine", "abbreviationTrad": "TCM"}
+        ]
+    },
+    {
         "abbLowerCase": "mtd",
         "abbreviation": "MTD",
         "use": "sigla",
@@ -4288,6 +4297,15 @@
         "language": "español e inglés",
         "meanings": [
             {"lang": "esp", "meaning": "Por vía oral", "langTrad": "eng", "meaningTrad": "Oral administration, oral route​​ administration", "abbreviationTrad": "PO", "notes": "sigla basada en la expresión latina <em>per so</em>"}
+        ]
+    },
+    {
+        "abbLowerCase": "pomp",
+        "abbreviation": "POMP",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Quimioterapia con 6-mercaptopurina, vincristina, metotrexato y prednisona", "langTrad": "eng", "meaningTrad": "6-mercaptopurine, vincristine, methotrexate, and prednisone chemotherapy", "abbreviationTrad": "POMP", "notes": "sigla derivada de «<strong>P</strong>AGUrinitol (6-mercaptopurina), <strong>O</strong>hncovin® (vincristina), <strong>M</strong>etotrexato y <steong>P</strong>rednisona."}
         ]
     },
     {
@@ -5244,6 +5262,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Tasa de control de la enfermedad", "langTrad": "eng", "meaningTrad": "Disease control rate", "abbreviationTrad": "DCR"}
+        ]
+    },
+    {
+        "abbLowerCase": "tcm",
+        "abbreviation": "TCM",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Traditional Chinese medicine", "langTrad": "esp", "meaningTrad": "Medicina tradicional china", "abbreviationTrad": "MTC"}
         ]
     },
     {
