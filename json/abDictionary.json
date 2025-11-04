@@ -1038,15 +1038,6 @@
         ]
     },
     {
-        "abbLowerCase": "cfs",
-        "abbreviation": "CFS",
-        "use": "sigla",
-        "language": "inglés",
-        "meanings": [
-            {"lang": "eng", "meaning": "Cerebrospinal fluid", "langTrad": "esp", "meaningTrad": "Líquido cefalorraquídeo", "abbreviationTrad": "LCR"}
-        ]
-    },
-    {
         "abbLowerCase": "chd",
         "abbreviation": "CHD",
         "use": "sigla",
@@ -1110,6 +1101,33 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Colesterol transportado por lipoproteínas de baja densidad", "langTrad": "eng", "meaningTrad": "Low-density lipoprotein-cholesterol", "abbreviationTrad": "LDL-C"}
+        ]
+    },
+    {
+        "abbLowerCase": "cll",
+        "abbreviation": "CLL",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Cadena ligera libre", "langTrad": "eng", "meaningTrad": "Kappa free light", "abbreviationTrad": "FLC"}
+        ]
+    },
+    {
+        "abbLowerCase": "cllk",
+        "abbreviation": "CLLK",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Cadena ligera libre kappa", "langTrad": "eng", "meaningTrad": "Kappa free light chain", "abbreviationTrad": "KFLC"}
+        ]
+    },
+    {
+        "abbLowerCase": "clll",
+        "abbreviation": "CLLL",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Cadena ligera libre lambda", "langTrad": "eng", "meaningTrad": "Lambda free light chain", "abbreviationTrad": "LFLC"}
         ]
     },
     {
@@ -1304,6 +1322,15 @@
         ]
     },
     {
+        "abbLowerCase": "csf",
+        "abbreviation": "CSF",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Cerebrospinal fluid", "langTrad": "esp", "meaningTrad": "Líquido cefalorraquídeo", "abbreviationTrad": "LCR"}
+        ]
+    },
+    {
         "abbLowerCase": "css",
         "abbreviation": "css",
         "use": "sigla",
@@ -1376,6 +1403,16 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Cardiovascular disease", "langTrad": "esp", "meaningTrad": "Enfermedad cardiovascular", "abbreviationTrad": "ECV"}
+        ]
+    },
+    {
+        "abbLowerCase": "cxcl-13",
+        "abbreviation": "CXCL-13",
+        "aliases": ["cxcl13", "cxcl 13"],
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "C-X-C motif chemokine ligand 13", "langTrad": "esp", "meaningTrad": "Ligando 13 de la quimiocina con motivo C-X-C", "abbreviationTrad": "CXCL-13, por sus siglas en inglés"}
         ]
     },
     {
@@ -2341,6 +2378,15 @@
         ]
     },
     {
+        "abbLowerCase": "flc",
+        "abbreviation": "FLC",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Free light chain", "langTrad": "esp", "meaningTrad": "Cadena ligera libre", "abbreviationTrad": "CLL"}
+        ]
+    },
+    {
         "abbLowerCase": "flt3",
         "abbreviation": "FLT3",
         "use": "sigla",
@@ -3183,6 +3229,15 @@
         ]
     },
     {
+        "abbLowerCase": "kflc",
+        "abbreviation": "KFLC",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Kappa free light chain", "langTrad": "esp", "meaningTrad": "Cadena ligera libre kappa", "abbreviationTrad": "CLLK"}
+        ]
+    },
+    {
         "abbLowerCase": "km",
         "abbreviation": "KM",
         "use": "sigla",
@@ -3260,7 +3315,7 @@
         "use": "sigla",
         "language": "español",
         "meanings": [
-            {"lang": "esp", "meaning": "Líquido cefalorraquídeo", "langTrad": "eng", "meaningTrad": "Cerebrospinal fluid", "abbreviationTrad": "CFS"}
+            {"lang": "esp", "meaning": "Líquido cefalorraquídeo", "langTrad": "eng", "meaningTrad": "Cerebrospinal fluid", "abbreviationTrad": "CSF"}
         ]
     },
     {
@@ -3308,6 +3363,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Liberación extendida", "langTrad": "eng", "meaningTrad": "Extended release", "abbreviationTrad": "ER"}
+        ]
+    },
+    {
+        "abbLowerCase": "lflc",
+        "abbreviation": "LFLC",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Lambda free light chain", "langTrad": "esp", "meaningTrad": "Cadena ligera libre lambda", "abbreviationTrad": "CLLL"}
         ]
     },
     {
