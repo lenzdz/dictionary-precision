@@ -615,7 +615,26 @@
         "use": "sigla",
         "language": "inglés",
         "meanings": [
-                {"lang": "eng", "meaning": "Adjuvant radiotherapy", "langTrad": "esp", "meaningTrad": "Radioterapia adyuvante", "abbreviationTrad": "RTA"}
+                {"lang": "eng", "meaning": "Adjuvant radiotherapy", "langTrad": "esp", "meaningTrad": "Radioterapia adyuvante", "abbreviationTrad": "RTA"},
+                {"lang": "eng", "meaning": "Antiretroviral therapy", "langTrad": "esp", "meaningTrad": "Terapia antirretroviral", "abbreviationTrad": "TAR"}
+        ]
+    },
+    {
+        "abbLowerCase": "arv",
+        "abbreviation": "ARV",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+                {"lang": "esp", "meaning": "Antirretroviral", "langTrad": "eng", "meaningTrad": "Antiretroviral", "abbreviationTrad": "ARV"}
+        ]
+    },
+    {
+        "abbLowerCase": "arvt",
+        "abbreviation": "ARVT",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+                {"lang": "eng", "meaning": "Antiretroviral therapy", "langTrad": "esp", "meaningTrad": "Terapia antirretroviral", "abbreviationTrad": "TARV"}
         ]
     },
     {
@@ -1310,6 +1329,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Common terminology criteria for adverse events", "langTrad": "esp", "meaningTrad": "Criterios de terminología común para eventos adversos", "abbreviationTrad": "CTCAE, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "ctp",
+        "abbreviation": "CTP",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Con tratamiento previo", "langTrad": "eng", "meaningTrad": "Treatment experienced", "abbreviationTrad": "TE", "notes": "los antóminos de estos términos son «sin tratamiento previo» y «treatment naive», respectivamente."}
         ]
     },
     {
@@ -4447,6 +4475,15 @@
         ]
     },
     {
+        "abbLowerCase": "pts",
+        "abbreviation": "PTS",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Post-thrombotic syndrome", "langTrad": "esp", "meaningTrad": "Síndrome postrombótico", "abbreviationTrad": "STP"}
+        ]
+    },
+    {
         "abbLowerCase": "ptt",
         "abbreviation": "PTT",
         "use": "sigla",
@@ -4912,6 +4949,15 @@
         ]
     },
     {
+        "abbLowerCase": "rvat",
+        "abbreviation": "RVAT",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+                {"lang": "esp", "meaning": "Reemplazo de la válvula aórtica mediante tecnología transcatéter, reemplazo de la válvula aórtica transcatéter", "langTrad": "eng", "meaningTrad": "Transcatheter aortic valve replacement", "abbreviationTrad": "TAVR"}
+        ]
+    },
+    {
         "abbLowerCase": "rwd",
         "abbreviation": "RWD",
         "use": "sigla",
@@ -5257,6 +5303,16 @@
         ]
     },
     {
+        "abbLowerCase": "stp",
+        "abbreviation": "STP",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Sin tratamiento previo", "langTrad": "eng", "meaningTrad": "Treatment naive", "abbreviationTrad": "TN", "notes": "los antóminos de estos términos son «con tratamiento previo» y «treatment experienced», respectivamente."},
+            {"lang": "esp", "meaning": "Síndrome postrombótico", "langTrad": "eng", "meaningTrad": "Post-thrombotic syndrome", "abbreviationTrad": "PTS"}
+        ]
+    },
+    {
         "abbLowerCase": "stui",
         "abbreviation": "STUI",
         "use": "sigla",
@@ -5316,7 +5372,26 @@
         "use": "sigla",
         "language": "español",
         "meanings": [
-            {"lang": "esp", "meaning": "Tasa anual de recaídas, tasa anualizada de recaídas", "langTrad": "eng", "meaningTrad": "Annualized relapse rate", "abbreviationTrad": "ARR"}
+            {"lang": "esp", "meaning": "Tasa anual de recaídas, tasa anualizada de recaídas", "langTrad": "eng", "meaningTrad": "Annualized relapse rate", "abbreviationTrad": "ARR"},
+            {"lang": "esp", "meaning": "Terapia antirretroviral", "langTrad": "eng", "meaningTrad": "Antiretroviral therapy", "abbreviationTrad": "ART"}
+        ]
+    },
+    {
+        "abbLowerCase": "tarv",
+        "abbreviation": "TARV",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+                {"lang": "esp", "meaning": "Terapia antirretroviral", "langTrad": "eng", "meaningTrad": "Antiretroviral therapy", "abbreviationTrad": "ARVT"}
+        ]
+    },
+    {
+        "abbLowerCase": "tavr",
+        "abbreviation": "TAVR",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+                {"lang": "eng", "meaning": "Transcatheter aortic valve replacement", "langTrad": "esp", "meaningTrad": "Reemplazo de la válvula aórtica mediante tecnología transcatéter, reemplazo de la válvula aórtica transcatéter", "abbreviationTrad": "RVAT"}
         ]
     },
     {
@@ -5404,9 +5479,10 @@
         "abbLowerCase": "te",
         "abbreviation": "TE",
         "use": "sigla",
-        "language": "español",
+        "language": "español e inglés",
         "meanings": [
-            {"lang": "esp", "meaning": "Trombocitemia esencial", "langTrad": "eng", "meaningTrad": "Essential thrombocythemia", "abbreviationTrad": "ET"}
+            {"lang": "esp", "meaning": "Trombocitemia esencial", "langTrad": "eng", "meaningTrad": "Essential thrombocythemia", "abbreviationTrad": "ET"},
+            {"lang": "eng", "meaning": "Treatment experienced", "langTrad": "esp", "meaningTrad": "Con tratamiento previo", "abbreviationTrad": "CTP", "notes": "los antóminos de estos términos son «treatment naive» y «sin tratamiento previo», respectivamente."}
         ]
     },
     {
@@ -5557,6 +5633,15 @@
         ]
     },
     {
+        "abbLowerCase": "tn",
+        "abbreviation": "TN",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Treatment naive", "langTrad": "esp", "meaningTrad": "Sin tratamiento previo", "abbreviationTrad": "STP", "notes": "los antóminos de estos términos son «treatment experienced» y «con tratamiento previo», respectivamente."}
+        ]
+    },
+    {
         "abbLowerCase": "tne",
         "abbreviation": "TNE",
         "use": "sigla",
@@ -5568,10 +5653,20 @@
     {
         "abbLowerCase": "tnf",
         "abbreviation": "TNF",
+        "aliases": ["tnf-α", "tnfα", "tnf α", "tnf alfa", "tnf-alfa", "tnf alpha", "tnf-alpha"],
         "use": "sigla",
         "language": "inglés y español",
         "meanings": [
-            {"lang": "eng", "meaning": "Tumor necrosis factor", "langTrad": "esp", "meaningTrad": "Factor de necrosis tumoral", "abbreviationTrad": "TNF, por sus siglas en inglés"}
+            {"lang": "eng", "meaning": "Tumor necrosis factor, tumor necrosis factor alpha (antiguo)", "langTrad": "esp", "meaningTrad": "Factor de necrosis tumoral, factor de necrosis tumoral alfa (antiguo)", "abbreviationTrad": "TNF, por sus siglas en inglés", "notes": "anteriormente conocido como «factor de necrosis tumoral alfa» (TNF-α)."}
+        ]
+    },
+    {
+        "abbLowerCase": "tnss",
+        "abbreviation": "TNSS",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Total nasal symptom score", "langTrad": "esp", "meaningTrad": "Puntuación total de síntomas nasales", "abbreviationTrad": "TNSS, por sus siglas en inglés"}
         ]
     },
     {
