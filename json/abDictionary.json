@@ -4366,6 +4366,24 @@
         ]
     },
     {
+        "abbLowerCase": "pik3",
+        "abbreviation": "PIK3",
+        "use": "abreviatura",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Phosphatidylinositol 3-kinase", "langTrad": "esp", "meaningTrad": "Fosfatidilinositol 3-cinasa", "abbreviationTrad": "PIK3", "notes": "usado para referirse a la enzima o familia de enzimas. Para el gen, refiérase a <em>PIK3CA</em>."}
+        ]
+    },
+    {
+        "abbLowerCase": "pik3ca",
+        "abbreviation": "<em>PIK3CA</em>",
+        "use": "abreviatura",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Phosphatidylinositol 3-kinase, catalytic subunit alpha", "langTrad": "esp", "meaningTrad": "Subunidad catalítica alfa del  fosfatidilinositol 3-cinasa", "abbreviationTrad": "PIK3CA", "notes": "usado para referirse al gen. Para la enzima o familia de enzimas, refiérase a PIK3."}
+        ]
+    },
+    {
         "abbLowerCase": "pio",
         "abbreviation": "PIO",
         "use": "sigla",
