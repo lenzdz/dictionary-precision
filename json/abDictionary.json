@@ -4427,7 +4427,7 @@
         "use": "abreviatura",
         "language": "inglés y español",
         "meanings": [
-            {"lang": "eng", "meaning": "Phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit alpha", "langTrad": "esp", "meaningTrad": "Subunidad catalítica alfa de la fosfatidilinositol-4,5-bisfosfato 3-cinasa", "abbreviationTrad": "PIK3CA", "notes": "usado para referirse al gen. Para la enzima o familia de enzimas, refiérase a PIK3."}
+            {"lang": "eng", "meaning": "Phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit alpha, phosphatidylinositol 3-kinase catalytic subunit alpha", "langTrad": "esp", "meaningTrad": "Subunidad catalítica alfa del fosfatidilinositol-4,5-bisfosfato 3-cinasa, subunidad catalítica alfa del  fosfatidilinositol 3-cinasa", "abbreviationTrad": "PIK3CA", "notes": "usado para referirse al gen. Para la enzima o familia de enzimas, refiérase a PIK3."}
         ]
     },
     {
