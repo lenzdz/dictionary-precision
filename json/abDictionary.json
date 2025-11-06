@@ -1159,6 +1159,16 @@
         ]
     },
     {
+        "abbLowerCase": "cmm",
+        "abbreviation": "CMm",
+        "aliases": ["camm"],
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Cáncer de mama metastásico", "langTrad": "eng", "meaningTrad": "Metastatic breast cancer", "abbreviationTrad": "mBC"}
+        ]
+    },
+    {
         "abbLowerCase": "cns",
         "abbreviation": "CNS",
         "use": "sigla",
@@ -3574,6 +3584,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Microangiopatía trombótica", "langTrad": "eng", "meaningTrad": "Thrombotic microangiopathy", "abbreviationTrad": "TMA"}
+        ]
+    },
+    {
+        "abbLowerCase": "mbc",
+        "abbreviation": "mBC",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Metastatic breast cancer", "langTrad": "esp", "meaningTrad": "Cáncer de mama metastásico", "abbreviationTrad": "CMm"}
         ]
     },
     {
