@@ -373,6 +373,15 @@
         ]
     },
     {
+        "abbLowerCase": "akt",
+        "abbreviation": "Akt",
+        "use": "abreviatura",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Protein kinase-B", "langTrad": "esp", "meaningTrad": "Proteína cinasa B", "abbreviationTrad": "Akt", "notes": "más conocida como «PKB»."}
+        ]
+    },
+    {
         "abbLowerCase": "akf",
         "abbreviation": "AKF",
         "use": "sigla",
@@ -4385,6 +4394,25 @@
         ]
     },
     {
+        "abbLowerCase": "pi3",
+        "abbreviation": "PI3K",
+        "use": "abreviatura",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Phosphoinositide-3 kinase", "langTrad": "esp", "meaningTrad": "Fosfoinositol 3-cinasa", "abbreviationTrad": "PI3K"}
+        ]
+    },
+    {
+        "abbLowerCase": "pi3k/akt/mtor",
+        "abbreviation": "PI3K/Akt/mTOR",
+        "aliases": ["pi3kaktmtor", "pi3k akt mtor", "pi3k/akt mtor", "pi3k akt/mtor", "pi3k/aktmtor", "pi3kakt/mtor", "pi3k aktmtor", "pi3kakt mtor"],
+        "use": "abreviatura",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Phosphoinositide-3 kinase/protein kinase-B/mammalian target of rapamycin", "langTrad": "esp", "meaningTrad": "Fosfoinositol 3-cinasa/proteína cinasa B/diana de rapamicina en células de mamífero", "abbreviationTrad": "PI3K/Akt/mTOR"}
+        ]
+    },
+    {
         "abbLowerCase": "pik3",
         "abbreviation": "PIK3",
         "use": "abreviatura",
@@ -4399,7 +4427,7 @@
         "use": "abreviatura",
         "language": "inglés y español",
         "meanings": [
-            {"lang": "eng", "meaning": "Phosphatidylinositol 3-kinase, catalytic subunit alpha", "langTrad": "esp", "meaningTrad": "Subunidad catalítica alfa del  fosfatidilinositol 3-cinasa", "abbreviationTrad": "PIK3CA", "notes": "usado para referirse al gen. Para la enzima o familia de enzimas, refiérase a PIK3."}
+            {"lang": "eng", "meaning": "Phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit alpha", "langTrad": "esp", "meaningTrad": "Subunidad catalítica alfa de la fosfatidilinositol-4,5-bisfosfato 3-cinasa", "abbreviationTrad": "PIK3CA", "notes": "usado para referirse al gen. Para la enzima o familia de enzimas, refiérase a PIK3."}
         ]
     },
     {
@@ -4409,6 +4437,24 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Presión intraocular", "langTrad": "eng", "meaningTrad": "Intraocular pressure", "abbreviationTrad": "IOP"}
+        ]
+    },
+    {
+        "abbLowerCase": "pkb",
+        "abbreviation": "PKB",
+        "use": "abreviatura",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Protein kinase-B", "langTrad": "esp", "meaningTrad": "Proteína cinasa B", "abbreviationTrad": "PKB", "notes": "también conocida como «Akt»."}
+        ]
+    },
+    {
+        "abbLowerCase": "pkc",
+        "abbreviation": "PKC",
+        "use": "abreviatura",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Protein kinase-C", "langTrad": "esp", "meaningTrad": "Proteína cinasa C", "abbreviationTrad": "PKC"}
         ]
     },
     {
