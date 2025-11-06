@@ -27,6 +27,9 @@ request.onload = function () {
         // Add searched word object to Set, if found
         if (found >= 0) {
             matches.add(abDictionary[found]);
+            abbreviationStartsWith(searchedWord).forEach(element => {
+                matches.add(element);
+            });
         }
 
         // Search fuzzy matches (useful for not exact searches)
@@ -68,6 +71,18 @@ request.onload = function () {
 
 
         return found;
+    }
+
+    function abbreviationStartsWith(searchedWord) {
+        fuzzyMatches = new Set();
+
+        for (var i = 0; i < abDictionary.length; i++) {
+             if (abDictionary[i].abbLowerCase.startsWith(searchedWord)){
+                fuzzyMatches.add(abDictionary[i]);
+             };
+        }
+        return fuzzyMatches;
+
     }
 
     function fuzzySearchMatchesByAbbreviation(searchedWord) {
