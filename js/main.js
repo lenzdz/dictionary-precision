@@ -21,6 +21,8 @@ request.onload = function () {
         searchedWord = String(searchedWord.toLowerCase()).trim();
         matches = new Set();
 
+        searchedWord = standarizeTerms(searchedWord);
+
         // Search abbreviation by searched word
         found = searchByAbbreviation(searchedWord);
 
@@ -51,6 +53,23 @@ request.onload = function () {
         }
     }
 
+    function standarizeTerms(searchedWord) {
+        // Equivalents list
+        const equivalents = {
+            "quinasa": "cinasa",
+            "hepatitis b virus": "virus de la hepatitis b"
+        };
+
+        for (const [incorrect, correct] of Object.entries(equivalents)) {
+            // If the term includes the variant, replace
+            const regex = new RegExp(`\\b${incorrect}\\b`, 'gi');
+            searchedWord = searchedWord.replace(regex, correct);
+        }
+
+        return searchedWord;
+
+    }
+
     function searchByAbbreviation(searchedWord) {
         found = -1; // initialize found to false
 
@@ -67,9 +86,7 @@ request.onload = function () {
                 break;
             };
         }
-
-
-
+        
         return found;
     }
 
