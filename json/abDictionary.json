@@ -1047,6 +1047,42 @@
         ]
     },
     {
+        "abbLowerCase": "cdk2",
+        "abbreviation": "CDK2",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Cyclin-dependent kinase 2", "langTrad": "esp", "meaningTrad": "Cinasa dependiente de ciclina 2", "abbreviationTrad": "CDK2"}
+        ]
+    },
+    {
+        "abbLowerCase": "cdk4",
+        "abbreviation": "CDK4",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Cyclin-dependent kinase 4", "langTrad": "esp", "meaningTrad": "Cinasa dependiente de ciclina 4", "abbreviationTrad": "CDK4"}
+        ]
+    },
+    {
+        "abbLowerCase": "cdk6",
+        "abbreviation": "CDK6",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Cyclin-dependent kinase 6", "langTrad": "esp", "meaningTrad": "Cinasa dependiente de ciclina 6", "abbreviationTrad": "CDK6"}
+        ]
+    },
+    {
+        "abbLowerCase": "cdk4/6",
+        "abbreviation": "CDK6",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Cyclin-dependent kinases 4/6", "langTrad": "esp", "meaningTrad": "Cinasas dependientes de ciclina 4 y 6", "abbreviationTrad": "CDK4/6"}
+        ]
+    },
+    {
         "abbLowerCase": "chd",
         "abbreviation": "CHD",
         "use": "sigla",
@@ -3134,7 +3170,7 @@
         "use": "sigla",
         "language": "español",
         "meanings": [
-            {"lang": "esp", "meaning": "Inhibidor de la tirosina cinasa, inhibidor de la tirosina quinasa", "langTrad": "eng", "meaningTrad": "Tyrosine kinase inhibitor", "abbreviationTrad": "TKI"}
+            {"lang": "esp", "meaning": "Inhibidor de la tirosina cinasa", "langTrad": "eng", "meaningTrad": "Tyrosine kinase inhibitor", "abbreviationTrad": "TKI"}
         ]
     },
     {
@@ -4413,12 +4449,12 @@
         ]
     },
     {
-        "abbLowerCase": "pik3",
-        "abbreviation": "PIK3",
+        "abbLowerCase": "pi3k",
+        "abbreviation": "PI3K",
         "use": "abreviatura",
         "language": "inglés y español",
         "meanings": [
-            {"lang": "eng", "meaning": "Phosphatidylinositol 3-kinase", "langTrad": "esp", "meaningTrad": "Fosfatidilinositol 3-cinasa", "abbreviationTrad": "PIK3", "notes": "usado para referirse a la enzima o familia de enzimas. Para el gen, refiérase a <em>PIK3CA</em>."}
+            {"lang": "eng", "meaning": "Phosphoinositide 3-kinase, phosphatidylinositol 3-kinase", "langTrad": "esp", "meaningTrad": "Fosfoinositol 3-cinasa, fosfatidilinositol 3-cinasa", "abbreviationTrad": "PI3K", "notes": "usado para referirse a la enzima o familia de enzimas. Para el gen, refiérase a <em>PIK3CA</em>."}
         ]
     },
     {
@@ -4427,7 +4463,7 @@
         "use": "abreviatura",
         "language": "inglés y español",
         "meanings": [
-            {"lang": "eng", "meaning": "Phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit alpha, phosphatidylinositol 3-kinase catalytic subunit alpha", "langTrad": "esp", "meaningTrad": "Subunidad catalítica alfa del fosfatidilinositol-4,5-bisfosfato 3-cinasa, subunidad catalítica alfa del  fosfatidilinositol 3-cinasa", "abbreviationTrad": "PIK3CA", "notes": "usado para referirse al gen. Para la enzima o familia de enzimas, refiérase a PIK3."}
+            {"lang": "eng", "meaning": "Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha, phosphatidylinositol 3-kinase catalytic subunit alpha", "langTrad": "esp", "meaningTrad": "Subunidad catalítica alfa del fosfatidilinositol-4,5-bisfosfato 3-cinasa, subunidad catalítica alfa del fosfatidilinositol 3-cinasa", "abbreviationTrad": "PIK3CA", "notes": "usado para referirse al gen. Para la enzima o familia de enzimas, refiérase a PIK3."}
         ]
     },
     {
@@ -5450,6 +5486,15 @@
         ]
     },
     {
+        "abbLowerCase": "stk",
+        "abbreviation": "STK",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Serine/threonine kinases", "langTrad": "esp", "meaningTrad": "Cinasa de serina/treonina", "abbreviationTrad": "STK"}
+        ]
+    },
+    {
         "abbLowerCase": "stp",
         "abbreviation": "STP",
         "use": "sigla",
@@ -5731,7 +5776,7 @@
         "use": "sigla",
         "language": "inglés",
         "meanings": [
-            {"lang": "eng", "meaning": "Tyrosine kinase inhibitor", "langTrad": "esp", "meaningTrad": "Inhibidor de la tirosina cinasa, inhibidor de la tirosina quinasa", "abbreviationTrad": "ITK o TKI, por sus siglas en inglés"}
+            {"lang": "eng", "meaning": "Tyrosine kinase inhibitor", "langTrad": "esp", "meaningTrad": "Inhibidor de la tirosina cinasa", "abbreviationTrad": "ITK o TKI, por sus siglas en inglés"}
         ]
     },
     {
