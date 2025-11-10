@@ -220,6 +220,15 @@
         ]
     },
     {
+        "abbLowerCase": "adnct",
+        "abbreviation": "ADNct",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "ADN circulante tumoral", "langTrad": "eng", "meaningTrad": "Circulating tumour DNA", "abbreviationTrad": "ctDNA"}
+        ]
+    },
+    {
         "abbLowerCase": "adt",
         "abbreviation": "ADT",
         "use": "sigla",
@@ -1411,6 +1420,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Common terminology criteria for adverse events", "langTrad": "esp", "meaningTrad": "Criterios de terminología común para eventos adversos", "abbreviationTrad": "CTCAE, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "ctdna",
+        "abbreviation": "ctDNA",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Circulating tumour DNA", "langTrad": "esp", "meaningTrad": "ADN circulante tumoral", "abbreviationTrad": "ADNct"}
         ]
     },
     {
@@ -2711,7 +2729,8 @@
         "use": "sigla",
         "language": "inglés",
         "meanings": [
-            {"lang": "eng", "meaning": "Hazard ratio", "langTrad": "esp", "meaningTrad": "Cociente de riesgos", "abbreviationTrad": "CR o HR, por sus siglas en inglés"}
+            {"lang": "eng", "meaning": "Hazard ratio", "langTrad": "esp", "meaningTrad": "Cociente de riesgos", "abbreviationTrad": "CR o HR, por sus siglas en inglés"},
+            {"lang": "eng", "meaning": "Hormone receptors", "langTrad": "esp", "meaningTrad": "Receptores hormonales", "abbreviationTrad": "RH"}
         ]
     },
     {
@@ -3659,6 +3678,26 @@
         ]
     },
     {
+        "abbLowerCase": "mdor",
+        "abbreviation": "mDoR",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Mean duration of response", "langTrad": "esp", "meaningTrad": "Media de la duración de la respuesta", "abbreviationTrad": "mDR"},
+            {"lang": "eng", "meaning": "Median duration of response", "langTrad": "esp", "meaningTrad": "Mediana de la duración de la respuesta", "abbreviationTrad": "mDR"}
+        ]
+    },
+    {
+        "abbLowerCase": "mdr",
+        "abbreviation": "mDR",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Media de la duración de la respuesta", "langTrad": "eng", "meaningTrad": "Mean duration of response", "abbreviationTrad": "mDoR"},
+            {"lang": "esp", "meaning": "Mediana de la duración de la respuesta", "langTrad": "eng", "meaningTrad": "Median duration of response", "abbreviationTrad": "mDoR"}
+        ]
+    },
+    {
         "abbLowerCase": "mdt",
         "abbreviation": "MDT",
         "use": "sigla",
@@ -3729,7 +3768,8 @@
         "use": "sigla",
         "language": "inglés",
         "meanings": [
-            {"lang": "eng", "meaning": "Mean progression-free survival", "langTrad": "esp", "meaningTrad": "Media de la supervivencia libre de progresión, supervivencia libre de progresión media", "abbreviationTrad": "mSLP o SLPm"}
+            {"lang": "eng", "meaning": "Mean progression-free survival", "langTrad": "esp", "meaningTrad": "Media de la supervivencia libre de progresión, supervivencia libre de progresión media", "abbreviationTrad": "mSLP o SLPm"},
+            {"lang": "eng", "meaning": "Median progression-free survival", "langTrad": "esp", "meaningTrad": "Mediana de la supervivencia libre de progresión, supervivencia libre de progresión mediana", "abbreviationTrad": "mSLP o SLPm"}
         ]
     },
     {
@@ -3813,7 +3853,8 @@
         "use": "sigla",
         "language": "español",
         "meanings": [
-            {"lang": "esp", "meaning": "Media de la supervivencia libre de progresión", "langTrad": "eng", "meaningTrad": "Mean progression-free survival", "abbreviationTrad": "mPFS"}
+            {"lang": "esp", "meaning": "Media de la supervivencia libre de progresión", "langTrad": "eng", "meaningTrad": "Mean progression-free survival", "abbreviationTrad": "mPFS"},
+            {"lang": "esp", "meaning": "Mediana de la supervivencia libre de progresión", "langTrad": "eng", "meaningTrad": "Meadian progression-free survival", "abbreviationTrad": "mPFS"}
         ]
     },
     {
@@ -4967,6 +5008,15 @@
         ]
     },
     {
+        "abbLowerCase": "rh",
+        "abbreviation": "RH",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Receptores hormonales", "langTrad": "eng", "meaningTrad": "Hormone receptors", "abbreviationTrad": "HR"}
+        ]
+    },
+    {
         "abbLowerCase": "rm",
         "abbreviation": "RM",
         "use": "sigla",
@@ -5355,7 +5405,8 @@
         "use": "sigla",
         "language": "español",
         "meanings": [
-            {"lang": "esp", "meaning": "Supervivencia libre de progresión media", "langTrad": "eng", "meaningTrad": "Median progression-free survival", "abbreviationTrad": "mPFS"}
+            {"lang": "esp", "meaning": "Supervivencia libre de progresión media", "langTrad": "eng", "meaningTrad": "Mean progression-free survival", "abbreviationTrad": "mPFS"},
+            {"lang": "esp", "meaning": "Supervivencia libre de progresión mediana", "langTrad": "eng", "meaningTrad": "Median progression-free survival", "abbreviationTrad": "mPFS"}
         ]
     },
     {
