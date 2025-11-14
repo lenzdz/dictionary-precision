@@ -2431,6 +2431,15 @@
         ]
     },
     {
+        "abbLowerCase": "fish",
+        "abbreviation": "FISH",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+                {"lang": "eng", "meaning": "Fluorescence <em>in situ</em> hybridization", "langTrad": "esp", "meaningTrad": "Hibridación fluorescente <em>in situ</em>", "abbreviationTrad": "FISH, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "fksi-19",
         "abbreviation": "FKSI-19",
         "aliases": ["fksi19", "fksi 19"],
@@ -5516,6 +5525,15 @@
         "language": "español",
         "meanings": [
                 {"lang": "esp", "meaning": "Supervivencia sin fracaso", "langTrad": "eng", "meaningTrad": "Failure-free survival", "abbreviationTrad": "FFS"}
+        ]
+    },
+    {
+        "abbLowerCase": "ssp",
+        "abbreviation": "SSP",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+                {"lang": "esp", "meaning": "Supervivencia sin progresión", "langTrad": "eng", "meaningTrad": "Progression-free survival", "abbreviationTrad": "PFS"}
         ]
     },
     {
