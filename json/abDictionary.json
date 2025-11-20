@@ -2706,6 +2706,15 @@
         ]
     },
     {
+        "abbLowerCase": "hmo",
+        "abbreviation": "HMO",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Human milk oligosaccharide", "langTrad": "eng", "meaningTrad": "Oligosacárido de la leche humana, oligosacárido de la leche materna", "abbreviationTrad": "OLH u OLM", "notes": "el término «oligosacárido de la leche humana» es el más común en español"}
+        ]
+    },
+    {
         "abbLowerCase": "hp",
         "abbreviation": "HP",
         "use": "sigla",
@@ -4165,6 +4174,24 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Oral anticoagulation therapy, oral anticoagulant therapy, oral anticoagulant treatment", "langTrad": "esp", "meaningTrad": "Terapia anticoagulante oral, tratamiento anticoagulante oral", "abbreviationTrad": "TAO"}
+        ]
+    },
+    {
+        "abbLowerCase": "olh",
+        "abbreviation": "OLH",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Oligosacárido de la leche humana", "langTrad": "esp", "meaningTrad": "Human milk oligosaccharide", "abbreviationTrad": "HMO", "notes": "también conocido como «oligosacárido de la leche materna»"}
+        ]
+    },
+    {
+        "abbLowerCase": "olm",
+        "abbreviation": "OLM",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Oligosacárido de la leche materna", "langTrad": "esp", "meaningTrad": "Human milk oligosaccharide", "abbreviationTrad": "HMO", "notes": "más conocido como «oligosacárido de la leche humana»"}
         ]
     },
     {
