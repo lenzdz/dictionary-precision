@@ -5867,6 +5867,15 @@
         ]
     },
     {
+        "abbLowerCase": "tiva",
+        "abbreviation": "TIVA",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Total intravenous anesthesia", "langTrad": "esp", "meaningTrad": "Anestesia total intravenosa", "abbreviationTrad": "TIVA, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "tki",
         "abbreviation": "TKI",
         "use": "sigla",
