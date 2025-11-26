@@ -812,6 +812,15 @@
         ]
     },
     {
+        "abbLowerCase": "bal",
+        "abbreviation": "BAL",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Bronchoalveolar lavage", "langTrad": "esp", "meaningTrad": "Lavado broncoalveolar", "abbreviationTrad": "LBA"}
+        ]
+    },
+    {
         "abbLowerCase": "bat",
         "abbreviation": "BAT",
         "use": "sigla",
@@ -3417,6 +3426,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Laser-assisted in situ keratomileusis", "langTrad": "esp", "meaningTrad": "Queratomileusis <em>in situ</em> asistida por láser", "abbreviationTrad": "LASIK, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "lba",
+        "abbreviation": "LBA",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Lavado broncoalveolar", "langTrad": "eng", "meaningTrad": "Bronchoalveolar lavage", "abbreviationTrad": "BAL"}
         ]
     },
     {
