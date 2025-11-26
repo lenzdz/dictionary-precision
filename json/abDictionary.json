@@ -283,6 +283,15 @@
         ]
     },
     {
+        "abbLowerCase": "afb",
+        "abbreviation": "AFB",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Acid-fast bacillus", "langTrad": "esp", "meaningTrad": "Bacilos ácido-alcohol resistentes, bacilos acidorresistentes", "abbreviationTrad": "BAAR"}
+        ]
+    },
+    {
         "abbLowerCase": "afib",
         "abbreviation": "AFib",
         "use": "sigla",
@@ -794,6 +803,15 @@
         ]
     },
     {
+        "abbLowerCase": "baar",
+        "abbreviation": "BAAR",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Bacilos ácido-alcohol resistentes, bacilos acidorresistentes", "langTrad": "eng", "meaningTrad": "Acid-fast bacillus", "abbreviationTrad": "AFB"}
+        ]
+    },
+    {
         "abbLowerCase": "bat",
         "abbreviation": "BAT",
         "use": "sigla",
@@ -972,6 +990,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Cáncer de próstata", "langTrad": "eng", "meaningTrad": "Prostate cancer", "abbreviationTrad": "PCa"}
+        ]
+    },
+    {
+        "abbLowerCase": "cat",
+        "abbreviation": "CAT",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Computerized axial tomography", "langTrad": "esp", "meaningTrad": "Tomografía axial computarizada", "abbreviationTrad": "TAC"}
         ]
     },
     {
@@ -5643,6 +5670,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Type 2 diabetes mellitus", "langTrad": "esp", "meaningTrad": "Diabetes mellitus tipo 2", "abbreviationTrad": "DMT2"}
+        ]
+    },
+    {
+        "abbLowerCase": "tac",
+        "abbreviation": "TAC",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Tomografía axial computarizada", "langTrad": "eng", "meaningTrad": "Computerized axial tomography", "abbreviationTrad": "CAT"}
         ]
     },
     {
