@@ -1083,6 +1083,15 @@
         ]
     },
     {
+        "abbLowerCase": "cd",
+        "abbreviation": "CD",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Castleman disease", "langTrad": "esp", "meaningTrad": "Enfermedad de Castleman", "abbreviationTrad": "EC"}
+        ]
+    },
+    {
         "abbLowerCase": "cda",
         "abbreviation": "CDA",
         "use": "sigla",
@@ -1889,6 +1898,15 @@
         ]
     },
     {
+        "abbLowerCase": "ec",
+        "abbreviation": "EC",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Enfermedad de Castleman", "langTrad": "eng", "meaningTrad": "Castleman disease", "abbreviationTrad": "CD"}
+        ]
+    },
+    {
         "abbLowerCase": "eca",
         "abbreviation": "ECA",
         "use": "sigla",
@@ -1922,6 +1940,24 @@
         "language": "español e inglés",
         "meanings": [
             {"lang": "esp", "meaning": "Electrocardiograma", "langTrad": "eng", "meaningTrad": "Electrocardiogram", "abbreviationTrad": "ECG"}
+        ]
+    },
+    {
+        "abbLowerCase": "ecm",
+        "abbreviation": "ECM",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Enfermedad de Castleman multicéntrica", "langTrad": "eng", "meaningTrad": "Multicentric Castleman disease", "abbreviationTrad": "MCD"}
+        ]
+    },
+    {
+        "abbLowerCase": "ecmi",
+        "abbreviation": "ECMi",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Enfermedad de Castleman multicéntrica idiopática", "langTrad": "eng", "meaningTrad": "Idiopathic multicentric Castleman disease", "abbreviationTrad": "iMCD"}
         ]
     },
     {
@@ -3017,6 +3053,15 @@
         ]
     },
     {
+        "abbLowerCase": "imcd",
+        "abbreviation": "iMCD",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Idiopathic multicentric Castleman disease", "langTrad": "esp", "meaningTrad": "Enfermedad de Castleman multicéntrica idiopática", "abbreviationTrad": "ECMi"}
+        ]
+    },
+    {
         "abbLowerCase": "imdc",
         "abbreviation": "IMDC",
         "use": "sigla",
@@ -3720,6 +3765,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Metastatic breast cancer", "langTrad": "esp", "meaningTrad": "Cáncer de mama metastásico", "abbreviationTrad": "CMm"}
+        ]
+    },
+    {
+        "abbLowerCase": "mcd",
+        "abbreviation": "MCD",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Multicentric Castleman disease", "langTrad": "esp", "meaningTrad": "Enfermedad de Castleman multicéntrica", "abbreviationTrad": "ECM"}
         ]
     },
     {
