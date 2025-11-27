@@ -2476,6 +2476,15 @@
         ]
     },
     {
+        "abbLowerCase": "fcev",
+        "abbreviation": "FCEV",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Factor de crecimiento endotelial vascular", "langTrad": "eng", "meaningTrad": "Vascular endothelial growth factor", "abbreviationTrad": "VEGF"}
+        ]
+    },
+    {
         "abbLowerCase": "fev1",
         "abbreviation": "FEV₁",
         "use": "sigla",
@@ -6326,6 +6335,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Ventrículo derecho", "langTrad": "eng", "meaningTrad": "Right ventricle", "abbreviationTrad": "RV"}
+        ]
+    },
+    {
+        "abbLowerCase": "vegf",
+        "abbreviation": "VEGF",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Vascular endothelial growth factor", "langTrad": "esp", "meaningTrad": "Factor de crecimiento endotelial vascular", "abbreviationTrad": "FCEV"}
         ]
     },
     {
