@@ -5736,6 +5736,15 @@
         ]
     },
     {
+        "abbLowerCase": "suv",
+        "abbreviation": "SUV",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+                {"lang": "eng", "meaning": "Standardized uptake value", "langTrad": "esp", "meaningTrad": "Valor estandarizado de captación", "abbreviationTrad": "SUV, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "t2d",
         "abbreviation": "T2D",
         "use": "sigla",
@@ -5760,6 +5769,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Tomografía axial computarizada", "langTrad": "eng", "meaningTrad": "Computerized axial tomography", "abbreviationTrad": "CAT"}
+        ]
+    },
+    {
+        "abbLowerCase": "tafro",
+        "abbreviation": "TAFRO",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Thrombocytopenia, anasarca, fever, reticulin fibrosis of the bone marrow, and organomegaly", "langTrad": "esp", "meaningTrad": "Trombocitopenia, anasarca, fiebre, fibrosis reticulínica de médula ósea y organomegalias", "abbreviationTrad": "TAFRO, por sus siglas en inglés", "notes": "subtipo de la enfermdad de Castleman"}
         ]
     },
     {
