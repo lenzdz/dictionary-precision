@@ -1,0 +1,48 @@
+* {
+    font-family: Arial;
+}
+
+h1 {
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 15px;
+}
+
+.header-nccn {
+    background-color: #11b642;
+}
+
+.header-th-nccn {
+    background-color: #72e293;
+}
+
+.header-asco {
+    background-color: #b63211;
+}
+
+.header-th-asco {
+    background-color: #e67d62;
+}
+
+.header-sitc {
+    background-color: #6e26e2;
+}
+
+.header-th-sitc {
+    background-color: #a57df0;
+}
+
+.header-esmo {
+    background-color: #1345cf;
+}
+
+.header-th-esmo {
+    background-color: #5b80e9;
+}
