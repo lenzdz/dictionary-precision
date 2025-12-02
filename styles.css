@@ -15,6 +15,14 @@ th, td {
     padding: 15px;
 }
 
+.header-gnr {
+    background-color: #9aa19d;
+}
+
+.header-th-gnr {
+    background-color: #cfcfcf;
+}
+
 .header-nccn {
     background-color: #11b642;
 }
