@@ -91,6 +91,15 @@
         ]
     },
     {
+        "abbLowerCase": "abg",
+        "abbreviation": "ABG",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Arterial blood gas [test]", "langTrad": "esp", "meaningTrad": "Gasometría arterial", "abbreviationTrad": "GSA", "notes": "también conocida como «análisis de gases arteriales» (AGA)."}
+        ]
+    },
+    {
         "abbLowerCase": "abi",
         "abbreviation": "ABI",
         "use": "sigla",
@@ -135,6 +144,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Angiotensin-converting enzyme inhibitors", "langTrad": "esp", "meaningTrad": "Inhibidores de la enzima angiotensina convertasa", "abbreviationTrad": "IECA"}
+        ]
+    },
+    {
+        "abbLowerCase": "acl",
+        "abbreviation": "ACL",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Anterior cruciate ligament", "langTrad": "esp", "meaningTrad": "Ligamento cruzado anterior", "abbreviationTrad": "LCA"}
         ]
     },
     {
@@ -208,6 +226,15 @@
         "meanings": [
             {"lang": "esp", "meaning": "Acuerdo de confidencialidad", "langTrad": "eng", "meaningTrad": "Non-disclosure agreement", "abbreviationTrad": "NDA"},
             {"lang": "esp", "meaning": "Acuerdo de divulgación confidencial", "langTrad": "eng", "meaningTrad": "Confidential disclosure agreement", "abbreviationTrad": "CDA"}
+        ]
+    },
+    {
+        "abbLowerCase": "adhd",
+        "abbreviation": "ADHD",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Attention deficit hyperactivity disorder", "langTrad": "esp", "meaningTrad": "Trastorno por déficit de atención e hiperactividad", "abbreviationTrad": "TDAH"}
         ]
     },
     {
@@ -316,6 +343,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Active-fluidics system", "langTrad": "esp", "meaningTrad": "Sistema de fluídica activa", "abbreviationTrad": "AFS, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "aga",
+        "abbreviation": "AGA",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Análisis de gases arteriales", "langTrad": "eng", "meaningTrad": "Arterial blood gas [test]", "abbreviationTrad": "ABG", "notes": "más conocida como «gasometría arterial» (GSA)."}
         ]
     },
     {
@@ -442,6 +478,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Acute lymphocytic leukemia", "langTrad": "esp", "meaningTrad": "Leucemia linfoblástica aguda", "abbreviationTrad": "LLA"}
+        ]
+    },
+    {
+        "abbLowerCase": "alp",
+        "abbreviation": "ALP",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Alkaline phosphatase", "langTrad": "esp", "meaningTrad": "Fosfatasa alcalina", "abbreviationTrad": "FAL"}
         ]
     },
     {
@@ -2440,12 +2485,12 @@
         ]
     },
     {
-        "abbLowerCase": "faz",
-        "abbreviation": "FAZ",
+        "abbLowerCase": "fal",
+        "abbreviation": "FAL",
         "use": "sigla",
-        "language": "inglés",
+        "language": "español",
         "meanings": [
-            {"lang": "eng", "meaning": "Foveal avascular zone", "langTrad": "esp", "meaningTrad": "Zona avascular foveal", "abbreviationTrad": "FAZ, por sus siglas en inglés"}
+            {"lang": "esp", "meaning": "Fosfatasa alcalina", "langTrad": "eng", "meaningTrad": "Alkaline phosphatase", "abbreviationTrad": "ALP"}
         ]
     },
     {
@@ -2455,6 +2500,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Fibrilación auricular no valvular", "langTrad": "eng", "meaningTrad": "Non-valvular atrial fibrillation", "abbreviationTrad": "NVAF"}
+        ]
+    },
+    {
+        "abbLowerCase": "faz",
+        "abbreviation": "FAZ",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Foveal avascular zone", "langTrad": "esp", "meaningTrad": "Zona avascular foveal", "abbreviationTrad": "FAZ, por sus siglas en inglés"}
         ]
     },
     {
@@ -2665,6 +2719,15 @@
         "language": "inglés y español",
         "meanings": [
             {"lang": "eng", "meaning": "Grades of recommendation, assessment, development and evaluation", "langTrad": "esp", "meaningTrad": "Clasificación de la evaluación, desarrollo y valoración de las recomendaciones", "abbreviationTrad": "GRADE, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "gsa",
+        "abbreviation": "GSA",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Gasometría arterial", "langTrad": "eng", "meaningTrad": "Arterial blood gas [test]", "abbreviationTrad": "ABG", "notes": "también conocida como «análisis de gases arteriales» (AGA)."}
         ]
     },
     {
@@ -3510,6 +3573,15 @@
         ]
     },
     {
+        "abbLowerCase": "lca",
+        "abbreviation": "LCA",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Ligamento cruzado anterior", "langTrad": "eng", "meaningTrad": "Anterior cruciate ligament", "abbreviationTrad": "ACL"}
+        ]
+    },
+    {
         "abbLowerCase": "lce",
         "abbreviation": "LCE",
         "use": "sigla",
@@ -4072,6 +4144,16 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Non-alcoholic fatty liver disease", "langTrad": "esp", "meaningTrad": "Enfermedad del hígado graso no alcohólica, enfermedad hepática grasa no alcohólica", "abbreviationTrad": "EHGNA"}
+        ]
+    },
+    {
+        "abbLowerCase": "nc",
+        "abbreviation": "NC",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "No calculable", "langTrad": "eng", "meaningTrad": "Not calculable", "abbreviationTrad": "NC"},
+            {"lang": "esp", "meaning": "No calculado", "langTrad": "eng", "meaningTrad": "Not calculated", "abbreviationTrad": "NC"}
         ]
     },
     {
@@ -5905,6 +5987,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Trasplante de células progenitoras hematopoyéticas", "langTrad": "eng", "meaningTrad": "Hematopoietic stem-cell transplantation", "abbreviationTrad": "HSCT", "notes": "más conocido como «trasplante de células madre hematopoyéticas» (TCPH)."}
+        ]
+    },
+    {
+        "abbLowerCase": "tdah",
+        "abbreviation": "TDAH",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Trastorno por déficit de atención e hiperactividad", "langTrad": "eng", "meaningTrad": "Attention deficit hyperactivity disorder", "abbreviationTrad": "ADHD"}
         ]
     },
     {
