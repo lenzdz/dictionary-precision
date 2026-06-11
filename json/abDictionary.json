@@ -490,6 +490,15 @@
         ]
     },
     {
+        "abbLowerCase": "als",
+        "abbreviation": "ALS",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Amyotrophic lateral sclerosis", "langTrad": "esp", "meaningTrad": "Esclerosis lateral amiotrófica", "abbreviationTrad": "ELA"}
+        ]
+    },
+    {
         "abbLowerCase": "alt",
         "abbreviation": "ALT",
         "use": "sigla",
@@ -517,12 +526,30 @@
         ]
     },
     {
+        "abbLowerCase": "amd",
+        "abbreviation": "AMD",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Age-related macular degeneration", "langTrad": "esp", "meaningTrad": "Degeneración macular asociada a la edad", "abbreviationTrad": "DMAE"}
+        ]
+    },
+    {
         "abbLowerCase": "ame",
         "abbreviation": "AME",
         "use": "sigla",
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Atrofia muscular espinal", "langTrad": "eng", "meaningTrad": "Spinal muscular atrophy", "abbreviationTrad": "SMA"}
+        ]
+    },
+    {
+        "abbLowerCase": "ami",
+        "abbreviation": "AMI",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Acute myocardial infarction", "langTrad": "esp", "meaningTrad": "Infarto agudo de miocardio", "abbreviationTrad": "IAM"}
         ]
     },
     {
@@ -1706,6 +1733,15 @@
         ]
     },
     {
+        "abbLowerCase": "dmae",
+        "abbreviation": "DMAE",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Degeneración macular asociada a la edad", "langTrad": "eng", "meaningTrad": "Age-related macular degeneration", "abbreviationTrad": "AMD"}
+        ]
+    },
+    {
         "abbLowerCase": "dmf",
         "abbreviation": "DMF",
         "use": "sigla",
@@ -2177,6 +2213,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Enfermedad de Kawasaki", "langTrad": "eng", "meaningTrad": "Kawasaki disease", "abbreviationTrad": "KD"}
+        ]
+    },
+    {
+        "abbLowerCase": "ela",
+        "abbreviation": "ELA",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Esclerosis lateral amiotrófica", "langTrad": "eng", "meaningTrad": "Amyotrophic lateral sclerosis", "abbreviationTrad": "ALS"}
         ]
     },
     {
@@ -2994,6 +3039,24 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Instrumental activities of daily living", "langTrad": "esp", "meaningTrad": "Actividades instrumentales de la vida diaria", "abbreviationTrad": "AIVD"}
+        ]
+    },
+    {
+        "abbLowerCase": "iam",
+        "abbreviation": "IAM",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Infarto agudo de miocardio", "langTrad": "eng", "meaningTrad": "Acute myocardial infarction", "abbreviationTrad": "AMI"}
+        ]
+    },
+    {
+        "abbLowerCase": "iamest",
+        "abbreviation": "IAMEST",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Infarto agudo de miocardio con elevación del segmento ST", "langTrad": "eng", "meaningTrad": "ST-segment elevation myocardial infarction, ST elevation myocardial infarction", "abbreviationTrad": "STEMI"}
         ]
     },
     {
@@ -5787,6 +5850,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Short term", "langTrad": "esp", "meaningTrad": "Corto plazo", "abbreviationTrad": "CP"}
+        ]
+    },
+    {
+        "abbLowerCase": "stemi",
+        "abbreviation": "STEMI",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "ST-segment elevation myocardial infarction, ST elevation myocardial infarction", "langTrad": "esp", "meaningTrad": "Infarto agudo de miocardio con elevación del segmento ST", "abbreviationTrad": "IAMEST"}
         ]
     },
     {
