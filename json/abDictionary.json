@@ -500,6 +500,15 @@
         ]
     },
     {
+        "abbLowerCase": "alk",
+        "abbreviation": "ALK",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Anaplastic lymphoma kinase", "langTrad": "esp", "meaningTrad": "Cinasa de linfoma anaplásico", "abbreviationTrad": "ALK"}
+        ]
+    },
+    {
         "abbLowerCase": "all",
         "abbreviation": "ALL",
         "use": "sigla",
@@ -643,6 +652,15 @@
         "language": "inglés y español",
         "meanings": [
             {"lang": "eng", "meaning": "Anti tumor necrosis factor", "langTrad": "esp", "meaningTrad": "National Administration of Drugs, Foods, and Medical Devices", "abbreviationTrad": "ANMAT, as per the Spanish acronym"}
+        ]
+    },
+    {
+        "abbLowerCase": "aodm",
+        "abbreviation": "AODM",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Adult-onset diabetes <em>mellitus</em>", "langTrad": "esp", "meaningTrad": "Diabetes <em>mellitus</em> de inicio en la adultez, diabetes <em>mellitus</em> de inicio adulto", "abbreviationTrad": "AODM, por sus siglas en inglés", "notes": "se prefiere un uso que aluda directamente a la enfermedad, como «Diabetes <em>mellitus</em>» (DM2). Anteriormente se le conocía como «Diabetes del adulto» o «Diabetes no insulinodependiente», cuyas siglas ya no se utilizan clínicamente. Si ocurre en jóvenes, con un componente genético muy específico, se le conoce como «Diabetes del adulto de inicio juvenil» (MODY, por sus siglas en inglés)."}
         ]
     },
     {
@@ -912,6 +930,15 @@
         ]
     },
     {
+        "abbLowerCase": "avm",
+        "abbreviation": "AVM",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Arteriovenous malformation", "langTrad": "esp", "meaningTrad": "Malformación arteriovenosa", "abbreviationTrad": "MAV"}
+        ]
+    },
+    {
         "abbLowerCase": "baar",
         "abbreviation": "BAAR",
         "use": "sigla",
@@ -1048,6 +1075,15 @@
         ]
     },
     {
+        "abbLowerCase": "brca",
+        "abbreviation": "BRCA",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Breast cancer gene", "langTrad": "esp", "meaningTrad": "Gen del cáncer de mama, gen del cáncer de seno", "abbreviationTrad": "BRCA"}
+        ]
+    },
+    {
         "abbLowerCase": "bsa",
         "abbreviation": "BSA",
         "use": "sigla",
@@ -1075,13 +1111,33 @@
         ]
     },
     {
+        "abbLowerCase": "bun",
+        "abbreviation": "BUN",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Blood urea nitrogen", "langTrad": "esp", "meaningTrad": "Nitrógeno ureico en sangre", "abbreviationTrad": "NUS o BUN, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "ca",
         "abbreviation": "CA",
         "use": "sigla y abreviatura",
         "language": "español e inglés",
         "meanings": [
+            {"lang": "esp", "meaning": "Calcio", "langTrad": "eng", "meaningTrad": "Calcium", "abbreviationTrad": "CA"},
             {"lang": "esp", "meaning": "Cáncer", "langTrad": "eng", "meaningTrad": "Cancer", "abbreviationTrad": "CA"},
             {"lang": "eng", "meaning": "Cardiac arrest", "langTrad": "esp", "meaningTrad": "Paro cardíaco", "abbreviationTrad": "PC"}
+        ]
+    },
+    {
+        "abbLowerCase": "ca-125",
+        "abbreviation": "CA-125",
+        "aliases": ["ca 125", "ca125"],
+        "use": "sigla y abreviatura",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Antígeno de cáncer 125", "langTrad": "eng", "meaningTrad": "Cancer antigen 125", "abbreviationTrad": "CA-125"}
         ]
     },
     {
@@ -1136,6 +1192,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Computerized axial tomography", "langTrad": "esp", "meaningTrad": "Tomografía axial computarizada", "abbreviationTrad": "TAC"}
+        ]
+    },
+    {
+        "abbLowerCase": "cbc",
+        "abbreviation": "CBC",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Complete blood count", "langTrad": "esp", "meaningTrad": "Conteo sanguíneo completo", "abbreviationTrad": "CSC", "notes": "también conocido como «Full blood count» (FBC)."}
         ]
     },
     {
@@ -1231,6 +1296,7 @@
     {
         "abbLowerCase": "cdk2",
         "abbreviation": "CDK2",
+        "aliases": ["cdk 2"],
         "use": "sigla",
         "language": "inglés y español",
         "meanings": [
@@ -1240,6 +1306,7 @@
     {
         "abbLowerCase": "cdk4",
         "abbreviation": "CDK4",
+        "aliases": ["cdk 4"],
         "use": "sigla",
         "language": "inglés y español",
         "meanings": [
@@ -1249,6 +1316,7 @@
     {
         "abbLowerCase": "cdk6",
         "abbreviation": "CDK6",
+        "aliases": ["cdk 6"],
         "use": "sigla",
         "language": "inglés y español",
         "meanings": [
@@ -1257,7 +1325,8 @@
     },
     {
         "abbLowerCase": "cdk4/6",
-        "abbreviation": "CDK6",
+        "abbreviation": "CDK4/6",
+        "aliases": ["cdk 4/6", "cdk4 6", "cdk46", "cdk 4 6", "cdk 46"],
         "use": "sigla",
         "language": "inglés y español",
         "meanings": [
@@ -1547,6 +1616,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Chronic rhinosinusitis with nasal polyps", "langTrad": "esp", "meaningTrad": "Rinosinusitis crónica con poliposis nasal, rinosinusitis crónica con pólipos nasales", "abbreviationTrad": "RSCcPN"}
+        ]
+    },
+    {
+        "abbLowerCase": "csc",
+        "abbreviation": "CSC",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Conteo sanguíneo completo", "langTrad": "eng", "meaningTrad": "Full blood count, complete blood count", "abbreviationTrad": "FBC o CBC"}
         ]
     },
     {
@@ -2235,6 +2313,15 @@
         ]
     },
     {
+        "abbLowerCase": "eia",
+        "abbreviation": "EIA",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Enzyme immunoassay", "langTrad": "esp", "meaningTrad": "Inmunoensayos enzimáticos", "abbreviationTrad": "IEE"}
+        ]
+    },
+    {
         "abbLowerCase": "eich",
         "abbreviation": "EICH",
         "use": "sigla",
@@ -2287,6 +2374,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Esclerosis lateral amiotrófica", "langTrad": "eng", "meaningTrad": "Amyotrophic lateral sclerosis", "abbreviationTrad": "ALS"}
+        ]
+    },
+    {
+        "abbLowerCase": "elisa",
+        "abbreviation": "ELISA",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Enzyme-linked immunosorbent assay", "langTrad": "esp", "meaningTrad": "Ensayo inmunoabsorbente ligado a enzimas, ensayo de inmunoabsorción ligado a enzimas", "abbreviationTrad": "ELISA, por sus siglas en inglés"}
         ]
     },
     {
@@ -2619,6 +2715,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Foveal avascular zone", "langTrad": "esp", "meaningTrad": "Zona avascular foveal", "abbreviationTrad": "FAZ, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "fbc",
+        "abbreviation": "FBC",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Full blood count", "langTrad": "esp", "meaningTrad": "Conteo sanguíneo completo", "abbreviationTrad": "CSC", "notes": "también conocido como «Complete blood count» (CBC)."}
         ]
     },
     {
@@ -3259,6 +3364,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Inhibidores de la enzima angiotensina convertasa", "langTrad": "eng", "meaningTrad": "Angiotensin-converting enzyme inhibitors", "abbreviationTrad": "ACEI"}
+        ]
+    },
+    {
+        "abbLowerCase": "iee",
+        "abbreviation": "IEE",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Inmunoensayos enzimáticos", "langTrad": "eng", "meaningTrad": "Enzyme immunoassay", "abbreviationTrad": "EIA"}
         ]
     },
     {
@@ -4004,6 +4118,15 @@
         ]
     },
     {
+        "abbLowerCase": "mav",
+        "abbreviation": "MAV",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Malformación arteriovenosa", "langTrad": "eng", "meaningTrad": "Arteriovenous malformation", "abbreviationTrad": "AVM"}
+        ]
+    },
+    {
         "abbLowerCase": "mbc",
         "abbreviation": "mBC",
         "use": "sigla",
@@ -4112,6 +4235,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Monosymptomatic nocturnal enuresis", "langTrad": "esp", "meaningTrad": "Enuresis nocturna monosintomática", "abbreviationTrad": "ENM"}
+        ]
+    },
+    {
+        "abbLowerCase": "mody",
+        "abbreviation": "MODY",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Maturity-onset diabetes of the young", "langTrad": "esp", "meaningTrad": "Diabetes del adulto de inicio juvenil, diabetes de inicio en la madurez del joven", "abbreviationTrad": "MODY, por sus siglas en inglés"}
         ]
     },
     {
@@ -4519,6 +4651,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Nasotracheal intubation", "langTrad": "esp", "meaningTrad": "Intubación nasotraqueal", "abbreviationTrad": "INT"}
+        ]
+    },
+    {
+        "abbLowerCase": "nus",
+        "abbreviation": "NUS",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Nitrógeno ureico en sangre", "langTrad": "eng", "meaningTrad": "Blood urea nitrogen", "abbreviationTrad": "BUN"}
         ]
     },
     {
