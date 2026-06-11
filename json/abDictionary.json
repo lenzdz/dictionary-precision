@@ -109,6 +109,24 @@
         ]
     },
     {
+        "abbLowerCase": "abl",
+        "abbreviation": "ABL",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Abelson murine leukemia viral oncogene homolog", "langTrad": "esp", "meaningTrad": "Homólogo del oncogén viral de leucemia murina de Abelson", "abbreviationTrad": "ABL"}
+        ]
+    },
+    {
+        "abbLowerCase": "abl1",
+        "abbreviation": "ABL1",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Abelson murine leukemia viral oncogene homolog 1", "langTrad": "esp", "meaningTrad": "Homólogo del oncogén viral de leucemia murina de Abelson 1", "abbreviationTrad": "ABL1"}
+        ]
+    },
+    {
         "abbLowerCase": "ac",
         "abbreviation": "AC",
         "use": "sigla",
@@ -917,6 +935,25 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Breast cancer", "langTrad": "esp", "meaningTrad": "Cáncer de mama", "abbreviationTrad": "CM, CaM"}
+        ]
+    },
+    {
+        "abbLowerCase": "bcr",
+        "abbreviation": "BCR",
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Breakpoint cluster regions", "langTrad": "esp", "meaningTrad": "Región del cúmulo del punto de quiebre", "abbreviationTrad": "BCR"}
+        ]
+    },
+    {
+        "abbLowerCase": "bcr-abl1",
+        "abbreviation": "BCR-ABL1",
+        "aliases": ["bcrabl1", "bcr abl1", "bcr:abl1", "bcr::abl1", "bcrabl", "bcr abl", "bcr:abl", "bcr::abl"],
+        "use": "sigla",
+        "language": "inglés y español",
+        "meanings": [
+            {"lang": "eng", "meaning": "Breakpoint cluster regions—Abelson murine leukemia viral oncogene homolog 1", "langTrad": "esp", "meaningTrad": "Región del cúmulo del punto de quiebre—Homólogo del oncogén viral de leucemia murina de Abelson 1", "abbreviationTrad": "BCR-ABL1", "notas": "puede referirse tanto a los nombres de los genes como a la prueba genética. También puede encontrarse como «BCR-ABL», pero es infrecuente."}
         ]
     },
     {
@@ -3051,12 +3088,30 @@
         ]
     },
     {
+        "abbLowerCase": "iamcest",
+        "abbreviation": "IAMCEST",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Infarto agudo de miocardio con elevación del segmento ST", "langTrad": "eng", "meaningTrad": "ST-segment elevation myocardial infarction, ST elevation myocardial infarction", "abbreviationTrad": "STEMI", "notes": "también conocido por la sigla «IAMEST» en español."}
+        ]
+    },
+    {
         "abbLowerCase": "iamest",
         "abbreviation": "IAMEST",
         "use": "sigla",
         "language": "español",
         "meanings": [
-            {"lang": "esp", "meaning": "Infarto agudo de miocardio con elevación del segmento ST", "langTrad": "eng", "meaningTrad": "ST-segment elevation myocardial infarction, ST elevation myocardial infarction", "abbreviationTrad": "STEMI"}
+            {"lang": "esp", "meaning": "Infarto agudo de miocardio con elevación del segmento ST", "langTrad": "eng", "meaningTrad": "ST-segment elevation myocardial infarction, ST elevation myocardial infarction", "abbreviationTrad": "STEMI", "notes": "también conocido por la sigla «IAMCEST» en español."}
+        ]
+    },
+    {
+        "abbLowerCase": "iamsest",
+        "abbreviation": "IAMSEST",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Infarto agudo de miocardio sin elevación del segmento ST", "langTrad": "eng", "meaningTrad": "Non ST-segment elevation myocardial infarction, non ST elevation myocardial infarction", "abbreviationTrad": "NSTEMI"}
         ]
     },
     {
@@ -4174,6 +4229,15 @@
         ]
     },
     {
+        "abbLowerCase": "naat",
+        "abbreviation": "NAAT",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Nucleic acid amplification test", "langTrad": "esp", "meaningTrad": "Prueba de amplificación de ácidos nucleicos", "abbreviationTrad": "PAAN o NAAT, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "nac",
         "abbreviation": "NAC",
         "use": "sigla",
@@ -4412,6 +4476,15 @@
         ]
     },
     {
+        "abbLowerCase": "nstemi",
+        "abbreviation": "NSTEMI",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Non ST-segment elevation myocardial infarction, non ST elevation myocardial infarction", "langTrad": "esp", "meaningTrad": "Infarto agudo de miocardio sin elevación del segmento ST", "abbreviationTrad": "IAMSEST"}
+        ]
+    },
+    {
         "abbLowerCase": "nti",
         "abbreviation": "NTI",
         "use": "sigla",
@@ -4555,6 +4628,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Presión arterial alta", "langTrad": "eng", "meaningTrad": "High blood pressure", "abbreviationTrad": "HBP"}
+        ]
+    },
+    {
+        "abbLowerCase": "paan",
+        "abbreviation": "PAAN",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Prueba de amplificación de ácidos nucleicos", "langTrad": "eng", "meaningTrad": "Nucleic acid amplification test", "abbreviationTrad": "NAAT"}
         ]
     },
     {
@@ -5858,7 +5940,7 @@
         "use": "sigla",
         "language": "inglés",
         "meanings": [
-            {"lang": "eng", "meaning": "ST-segment elevation myocardial infarction, ST elevation myocardial infarction", "langTrad": "esp", "meaningTrad": "Infarto agudo de miocardio con elevación del segmento ST", "abbreviationTrad": "IAMEST"}
+            {"lang": "eng", "meaning": "ST-segment elevation myocardial infarction, ST elevation myocardial infarction", "langTrad": "esp", "meaningTrad": "Infarto agudo de miocardio con elevación del segmento ST", "abbreviationTrad": "IAMEST, IAMCEST"}
         ]
     },
     {
