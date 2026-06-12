@@ -1465,6 +1465,15 @@
         ]
     },
     {
+        "abbLowerCase": "cmv",
+        "abbreviation": "CMV",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Citomegalovirus", "langTrad": "eng", "meaningTrad": "Cytomegalovirus", "abbreviationTrad": "CMV"}
+        ]
+    },
+    {
         "abbLowerCase": "cns",
         "abbreviation": "CNS",
         "use": "sigla",
