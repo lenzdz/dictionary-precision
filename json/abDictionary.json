@@ -1582,6 +1582,15 @@
         ]
     },
     {
+        "abbLowerCase": "cpr",
+        "abbreviation": "CPR",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Cardiopulmonary resuscitation", "langTrad": "esp", "meaningTrad": "Reanimación cardiopulmonar", "abbreviationTrad": "RCP"}
+        ]
+    },
+    {
         "abbLowerCase": "cpre",
         "abbreviation": "CPRE",
         "use": "sigla",
@@ -5516,6 +5525,7 @@
         "use": "sigla",
         "language": "español",
         "meanings": [
+            {"lang": "esp", "meaning": "Reanimación cardiopulmonar", "langTrad": "eng", "meaningTrad": "Cardiopulmonary resuscitation", "abbreviationTrad": "CPR"},
             {"lang": "esp", "meaning": "Resumen de las características de producto", "langTrad": "eng", "meaningTrad": "Summary of product characteristic", "abbreviationTrad": "SmPC"}
         ]
     },
