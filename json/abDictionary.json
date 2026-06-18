@@ -5265,6 +5265,15 @@
         ]
     },
     {
+        "abbLowerCase": "psvd",
+        "abbreviation": "PSVD",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+                {"lang": "esp", "meaning": "Presión sistólica del ventrículo derecho", "langTrad": "eng", "meaningTrad": "Right ventricular systolic pressure", "abbreviationTrad": "RVSP"}
+        ]
+    },
+    {
         "abbLowerCase": "pt",
         "abbreviation": "PT, Pt",
         "use": "sigla y abreviatura",
@@ -5774,6 +5783,15 @@
         "language": "español",
         "meanings": [
                 {"lang": "esp", "meaning": "Reemplazo de la válvula aórtica mediante tecnología transcatéter, reemplazo de la válvula aórtica transcatéter", "langTrad": "eng", "meaningTrad": "Transcatheter aortic valve replacement", "abbreviationTrad": "TAVR"}
+        ]
+    },
+    {
+        "abbLowerCase": "rvsp",
+        "abbreviation": "RVSP",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+                {"lang": "eng", "meaning": "Right ventricular systolic pressure", "langTrad": "esp", "meaningTrad": "Presión sistólica del ventrículo derecho", "abbreviationTrad": "PSVD"}
         ]
     },
     {
@@ -6545,7 +6563,7 @@
     {
         "abbLowerCase": "tnf",
         "abbreviation": "TNF",
-        "aliases": ["tnf-α", "tnfα", "tnf α", "tnf alfa", "tnf-alfa", "tnf alpha", "tnf-alpha"],
+        "aliases": ["tnf-α", "tnfα", "tnf α", "tnf-a", "tnfa", "tnf a", "tnf alfa", "tnf-alfa", "tnf alpha", "tnf-alpha"],
         "use": "sigla",
         "language": "inglés y español",
         "meanings": [
