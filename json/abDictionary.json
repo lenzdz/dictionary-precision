@@ -1789,6 +1789,24 @@
         ]
     },
     {
+        "abbLowerCase": "cxr",
+        "abbreviation": "CXR",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Chest X-ray", "langTrad": "esp", "meaningTrad": "Radiografía de tórax", "abbreviationTrad": "RXT"}
+        ]
+    },
+    {
+        "abbLowerCase": "d&c",
+        "abbreviation": "D&C",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Dilatation and curettage", "langTrad": "esp", "meaningTrad": "Dilatación y legrado", "abbreviationTrad": "D&C, por sus siglas en inglés"}
+        ]
+    },
+    {
         "abbLowerCase": "dae",
         "abbreviation": "DAE",
         "use": "sigla",
@@ -1886,6 +1904,15 @@
         "language": "inglés y español",
         "meanings": [
             {"lang": "eng", "meaning": "Dynamic international prognostic scoring system", "langTrad": "esp", "meaningTrad": "Sistema dinámico internacional de puntuación pronóstica", "abbreviationTrad": "DIPSS, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "djd",
+        "abbreviation": "DJD",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Degenerative joint disease", "langTrad": "esp", "meaningTrad": "Enfermedad degenerativa de las articulaciones, enfermedad degenerativa articular", "abbreviationTrad": "EDA", "notes": "más conocida como «osteoartritis»"}
         ]
     },
     {
@@ -2250,6 +2277,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Emergency department", "langTrad": "esp", "meaningTrad": "Servicio de urgencias", "abbreviationTrad": "SU"}
+        ]
+    },
+    {
+        "abbLowerCase": "eda",
+        "abbreviation": "EDA",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Enfermedad degenerativa de las articulaciones, enfermedad degenerativa articular", "langTrad": "eng", "meaningTrad": "Degenerative joint disease", "abbreviationTrad": "DJD", "notes": "más conocida como «osteoartritis»"}
         ]
     },
     {
@@ -5851,6 +5887,15 @@
         "language": "inglés",
         "meanings": [
             {"lang": "eng", "meaning": "Real-world evidence", "langTrad": "esp", "meaningTrad": "Evidencia del mundo real", "abbreviationTrad": "RWE, por sus siglas en inglés"}
+        ]
+    },
+    {
+        "abbLowerCase": "rxt",
+        "abbreviation": "RXT",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Radiografía de tórax", "langTrad": "eng", "meaningTrad": "Chest X-ray", "abbreviationTrad": "CXR"}
         ]
     },
     {
