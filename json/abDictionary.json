@@ -211,6 +211,15 @@
         ]
     },
     {
+        "abbLowerCase": "acr",
+        "abbreviation": "ACR",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Aptitud cardiorrespiratoria", "langTrad": "eng", "meaningTrad": "Cardiorespiratory fitness", "abbreviationTrad": "CRF", "notes": "también conocida como «capacidad cardiorrespiratoria» (CCR)"}
+        ]
+    },
+    {
         "abbLowerCase": "acv",
         "abbreviation": "ACV",
         "use": "sigla",
@@ -1200,7 +1209,7 @@
         "use": "sigla",
         "language": "inglés",
         "meanings": [
-            {"lang": "eng", "meaning": "Complete blood count", "langTrad": "esp", "meaningTrad": "Conteo sanguíneo completo", "abbreviationTrad": "CSC", "notes": "también conocido como «Full blood count» (FBC)."}
+            {"lang": "eng", "meaning": "Complete blood count", "langTrad": "esp", "meaningTrad": "Conteo sanguíneo completo", "abbreviationTrad": "CSC", "notes": "también conocido como «Full blood count» (FBC)"}
         ]
     },
     {
@@ -1236,6 +1245,7 @@
         "use": "sigla",
         "language": "español",
         "meanings": [
+            {"lang": "esp", "meaning": "Capacidad cardiorrespiratoria", "langTrad": "eng", "meaningTrad": "Cardiorespiratory fitness", "abbreviationTrad": "CRF", "notes": "también conocida como «aptitud cardiorrespiratoria» (ACR)"},
             {"lang": "esp", "meaning": "Carcinoma de células renales", "langTrad": "eng", "meaningTrad": "Renal cell carcinoma", "abbreviationTrad": "RCC"}
         ]
     },
@@ -1607,6 +1617,18 @@
         "meanings": [
             {"lang": "esp", "meaning": "Cociente de riesgos", "langTrad": "eng", "meaningTrad": "Hazard ratio", "abbreviationTrad": "HR"},
             {"lang": "eng", "meaning": "Complete response", "langTrad": "esp", "meaningTrad": "Respuesta completa", "abbreviationTrad": "RP"}
+        ]
+    },
+    {
+        "abbLowerCase": "crf",
+        "abbreviation": "CRF",
+        "use": "sigla",
+        "language": "español e inglés",
+        "meanings": [
+            {"lang": "esp", "meaning": "Capacidad residual funcional", "langTrad": "eng", "meaningTrad": "Functional residual capacity", "abbreviationTrad": "FRC"},
+            {"lang": "eng", "meaning": "Cardiorespiratory fitness", "langTrad": "esp", "meaningTrad": "Capacidad cardiorrespiratoria, aptitud cardiorrespiratoria", "abbreviationTrad": "CCR, ACR o CRF, por sus siglas en inglés"},
+            {"lang": "eng", "meaning": "Chronic renal failure", "langTrad": "esp", "meaningTrad": "Insuficiencia renal crónica", "abbreviationTrad": "IRC"},
+            {"lang": "eng", "meaning": "Corticotropin releasing factor", "langTrad": "esp", "meaningTrad": "Factor liberador de corticotropina", "abbreviationTrad": "FLC o CRF, por sus siglas en inglés"}
         ]
     },
     {
@@ -2849,8 +2871,9 @@
         "abbLowerCase": "flc",
         "abbreviation": "FLC",
         "use": "sigla",
-        "language": "inglés",
+        "language": "español e inglés",
         "meanings": [
+            {"lang": "esp", "meaning": "Factor liberador de corticotropina", "langTrad": "eng", "meaningTrad": "Corticotropin releasing factor", "abbreviationTrad": "CRF"},
             {"lang": "eng", "meaning": "Free light chain", "langTrad": "esp", "meaningTrad": "Cadena ligera libre", "abbreviationTrad": "CLL"}
         ]
     },
@@ -2871,6 +2894,15 @@
         "meanings": [
             {"lang": "eng", "meaning": "Feline McDonough sarcoma", "langTrad": "esp", "meaningTrad": "Sarcoma McDonough felino", "abbreviationTrad": "FMS, por sus siglas en inglés"},
             {"lang": "eng", "meaning": "Fibromyalgia syndrome", "langTrad": "esp", "meaningTrad": "Fibromialgia, síndrome de fibromialgia", "abbreviationTrad": "SF o SFM"}
+        ]
+    },
+    {
+        "abbLowerCase": "frc",
+        "abbreviation": "FRC",
+        "use": "sigla",
+        "language": "inglés",
+        "meanings": [
+            {"lang": "eng", "meaning": "Functional residual capacity", "langTrad": "esp", "meaningTrad": "Capacidad residual funcional", "abbreviationTrad": "CRF"}
         ]
     },
     {
@@ -3583,6 +3615,15 @@
         "language": "español",
         "meanings": [
             {"lang": "esp", "meaning": "Insuficiencia renal", "langTrad": "eng", "meaningTrad": "Kidney failure", "abbreviationTrad": "KF"}
+        ]
+    },
+    {
+        "abbLowerCase": "irc",
+        "abbreviation": "IRC",
+        "use": "sigla",
+        "language": "español",
+        "meanings": [
+            {"lang": "esp", "meaning": "Insuficiencia renal crónica", "langTrad": "eng", "meaningTrad": "Chronic renal failure", "abbreviationTrad": "CRF"}
         ]
     },
     {
